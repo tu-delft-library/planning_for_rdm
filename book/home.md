@@ -35,3 +35,5 @@ This guide was developed by Paige Folsom from the Data Literacy Project, TU Delf
 
 
 ## How to Cite this Resource 
+
+> `Folsom, P., Sims, A., Tschirpke, S.` (`2026`) _`Planning for RDM`_. `<https://tu-delft-library.github.io/planning_for_rdm/main/intro.html>`. Source files at `<>`. CC BY 4.0.
