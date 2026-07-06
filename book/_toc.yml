@@ -5,14 +5,14 @@ root: intro.md
 
 parts:
   - caption: Contents
-  chapters:
-  - file: home.md
-  - file: rdm_in_the_research_cycle.md
-  - file: stage_1.md
-  - file: stage_2.md
-  - file: stage_3.md
-  - file: stage_4.md
-  - file: stage_5.md
-  - file: closing_remarks.md
-  - file: references.md
-  - file: credits.md
+    chapters:
+    - file: home.md
+    - file: rdm_in_the_research_cycle.md
+    - file: stage_1.md
+    - file: stage_2.md
+    - file: stage_3.md
+    - file: stage_4.md
+    - file: stage_5.md
+    - file: closing_remarks.md
+    - file: references.md
+    - file: credits.md
