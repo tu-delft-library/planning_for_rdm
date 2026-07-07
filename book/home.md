@@ -33,7 +33,18 @@ This guide was developed by Paige Folsom from the Data Literacy Project, TU Delf
 
 ## AI Use Disclosure 
 
+While creating this mini-module, we used AI for:
+
+- learning about how to add HTML tags and CSS to Markdown in order to format and center text, configure links to open in new tabs, and adjust the properties of tables to make them more readable.
+
+- troubleshooting syntax errors whenever Sphinx design commands were not working.
+
+- to verify that all references were properly cited in APA 7th Edition.
+
+AI tool used:
+
+- Open AI. (2026). ChatGPT (free version 1 July 2026-30 August 2026)[Large language model]. https://chatgpt.com
 
 ## How to Cite this Resource 
 
-> `Folsom, P., Sims, A., Tschirpke, S.` (`2026`) _`Planning for RDM`_. `<https://tu-delft-library.github.io/planning_for_rdm/main/intro.html>`. Source files at `<>`. CC BY 4.0.
+> `Folsom, P., Sims, A., Tschirpke, S.` (`2026`) _`Planning for RDM`_. `<https://tu-delft-library.github.io/planning_for_rdm/main/intro.html>`. Source files at `<<https://github.com/tu-delft-library/planning_for_rdm>`. CC BY 4.0.
