@@ -1,1 +1,64 @@
-# Stage I: Research Questions and Ideas 
+# Stage I: Planning for Research Ideas 
+
+## Key question: What data are needed to test my hypothesis and answer my research question(s)? 
+
+During your research project, you will collect or re-use a variety of **research objects**, which are all the materials involved in conducting, understanding, verifying and reproducing research. One of the key research objects you will gather is **research data**: information to support research findings. Examples include:   
+
+- Field notes
+- Quantitative and qualitative observations
+- Samples from wet and dry labs
+- Geospatial and satellite data
+- Genomic sequences
+- Social media and consumer data
+- Survey and Interview data
+- Video footage
+- Microscopy images
+- Text corpora
+- Digital and physical models
+- Simulation data and code
+- Sound recordings & transcripts
+- Maps
+- Sensor data
+- Data re-used from open repositories
+<br>
+As additional research objects, you may generate or re-use **code, scripts, and software**.  
+
+Depending on your project, you also need to collect additional research objects such as **supporting or administrative artefacts**. For example:  
+
+- Informed consent letters that research participants sign to take part in a research project 
+- An annotated bibliography
+- A budget for the project
+- An interview or survey template
+- Approval forms
+- Documentation of research methods
+
+The more specific you are about which research objects are needed to effectively answer your research question(s) and support your research process, the clearer you can design for collecting and organising these objects. 
+
+ 
+
+The more specific you are about which research objects are needed to effectively answer your research question(s) and support your research process, the clearer you can design for collecting and organising these objects. 
+
+## Key question: Do the data carry special ethical or legal implications? 
+
+During the planning phase of your project you should consider whether you will be working with personal data, data protected by copyright, and/or proprietary data trademarked by a company. These types of research data flag increased risk, carry legal restrictions, and/or require ethical or legal approval. Your project timeline needs to allow ample time for the approvals process. Otherwise, you might need to adjust your project design to fit your timeline.  By determining whether you'll be handling these types of data, you can plan and prepare accordingly.  
+
+### PERSONAL DATA 
+Are you conducting interviews or surveys with human participants, re-using data from social media, re-using medical images from humans, or collecting or re-using any other data originating from people? If so, your project will likely involve personal data. Personal data are defined as any information that can be used to directly or indirectly identify a person. You have an ethical obligation to handle this type of data with great care and to protect the privacy of your human research subjects.  
+
+Projects that involve personal data require careful planning since you must adhere to specific guidelines before collecting or re-using personal data: 
+
+- TU Delft MSc projects must apply for and receive approval from the TU Delft Human Research Ethics Committee (HREC) before starting any research involving human participants.  
+
+- If you are planning to collect data from people, you must very clearly inform your research participants about the potential risks involved and obtain their consent.  
+
+- It's recommended that you plan out how you will process the raw personal data in advance. Once collected, any personal data should be anonymised and/or pseudonymised as soon as possible.  
+
+Anonymisation involves removing all identifying characteristics from the data so that it can no longer be used to re-identify individual study participants. Anonymisation is irreversible.   
+
+Pseudonymisation involves replacing identifying information with codes or pseudonyms, and keeping track of the codes using a key file or linkage file (which should be stored separately from the raw data in an encrypted or password-protected file). Pseudonymisation is reversible with the key.  
+
+ 
+
+We are not able to go into great detail about procedures for handling personal data in this mini-module about research data management. For more information about working with personal data and the documents required for the HREC application, we encourage you to visit the mini-module MSc Planning for Personal Data  
+
+For a detailed explanation about anonymisation and pseudonymisation procedures, we recommend you visit this page by the Finnish Social Science Data Archive.
