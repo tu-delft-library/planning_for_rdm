@@ -1,6 +1,6 @@
 # Stage I: Planning for Research Ideas 
 
-## {octicon}`report;1em;sd-check-circle-fill` *Key question: What data are needed to test my hypothesis and answer my research question(s)?* 
+## *Key question: What data are needed to test my hypothesis and answer my research question(s)?* 
 
 During your research project, you will collect or re-use a variety of **research objects**, which are all the materials involved in conducting, understanding, verifying and reproducing research. One of the key research objects you will gather is **research data**: information to support research findings. Examples include:   
 
