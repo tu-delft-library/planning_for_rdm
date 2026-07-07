@@ -1,6 +1,8 @@
 (intro)=
-# Welcome to the Template Book
+# Welcome to the mini-modules: "Planning for RDM!"
 
-_This is the first page the student will see when opening the url._
+This mini-module is designed for master’s students at TU Delft who are preparing for their master thesis projects. 
 
-This book can be used as a template for other books. It includes a starter package of the software developed by the TeachBooks initiative and some exercises to get you going!
+Do you have additional feedback or questions? Please contact Data Literacy Project leader Paige Folsom: p.m.folsom@tudelft.nl
+
+You can also suggest edits through Github! Please visit the <a href="https://github.com/tu-delft-library/planning_for_rdm" target="_blank"> Open GitHub repository</a> for this mini-module.
