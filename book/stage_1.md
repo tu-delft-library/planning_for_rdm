@@ -21,7 +21,7 @@ During your research project, you will collect or re-use a variety of **research
 - Sensor data
 - Data re-used from open repositories
 <br>
-As additional research objects, you may generate or re-use **code, scripts, and software**.  
+As additional research objects, you may generate or re-use **code, scripts, and software.**  
 
 Depending on your project, you also need to collect additional research objects such as **supporting or administrative artefacts**. For example:  
 
@@ -33,14 +33,11 @@ Depending on your project, you also need to collect additional research objects 
 - Documentation of research methods
 
 The more specific you are about which research objects are needed to effectively answer your research question(s) and support your research process, the clearer you can design for collecting and organising these objects. 
-
- 
-
-The more specific you are about which research objects are needed to effectively answer your research question(s) and support your research process, the clearer you can design for collecting and organising these objects. 
+<br>
 
 ## *Key question: Do the data carry special ethical or legal implications?* 
 
-During the planning phase of your project you should consider whether you will be working with personal data, data protected by copyright, and/or proprietary data trademarked by a company. These types of research data flag increased risk, carry legal restrictions, and/or require ethical or legal approval. Your project timeline needs to allow ample time for the approvals process. Otherwise, you might need to adjust your project design to fit your timeline.  By determining whether you'll be handling these types of data, you can plan and prepare accordingly.  
+During the planning phase of your project you should consider whether you will be working with **personal data**, **data protected by copyright**, and/or **proprietary data** trademarked by a company. These types of research data flag increased risk, carry legal restrictions, and/or require ethical or legal approval. Your project timeline needs to allow ample time for the approvals process. Otherwise, you might need to adjust your project design to fit your timeline.  By determining whether you'll be handling these types of data, you can plan and prepare accordingly.  
 
 ### PERSONAL DATA 
 Are you conducting interviews or surveys with human participants, re-using data from social media, re-using medical images from humans, or collecting or re-using any other data originating from people? If so, your project will likely involve personal data. Personal data are defined as any information that can be used to directly or indirectly identify a person. You have an ethical obligation to handle this type of data with great care and to protect the privacy of your human research subjects.  
@@ -53,9 +50,9 @@ Projects that involve personal data require careful planning since you must adhe
 
 - It's recommended that you plan out how you will process the raw personal data in advance. Once collected, any personal data should be anonymised and/or pseudonymised as soon as possible.  
 
-Anonymisation involves removing all identifying characteristics from the data so that it can no longer be used to re-identify individual study participants. Anonymisation is irreversible.   
+**Anonymisation** involves removing all identifying characteristics from the data so that it can no longer be used to re-identify individual study participants. Anonymisation is **irreversible**.   
 
-Pseudonymisation involves replacing identifying information with codes or pseudonyms, and keeping track of the codes using a key file or linkage file (which should be stored separately from the raw data in an encrypted or password-protected file). Pseudonymisation is reversible with the key.  
+**Pseudonymisation** involves replacing identifying information with codes or pseudonyms, and keeping track of the codes using a key file or linkage file (which should be stored separately from the raw data in an encrypted or password-protected file). Pseudonymisation is **reversible with the key**.  
 
  
 
@@ -96,6 +93,9 @@ Look at the terms of your graduation agreement (also referred to as a user agree
 Do you have questions about proprietary data? We encourage you to seek advice from your thesis supervisor. Your supervisor may refer you onwards to your faculty’s contract manager(s) or to a data steward (the procedures in each faculty differ.)    
 
 For more information about working with proprietary data, TU Delft students can also access the intellectual property webpage in the student portal.  
+<br> 
+
+## Stage 1: Check your understanding 
  
 
 
