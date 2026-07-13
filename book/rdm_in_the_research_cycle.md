@@ -14,7 +14,7 @@ From start to finish, your thesis project will likely involve 5 key stages, as s
 </center>
 
 
-A **data management plan** maps out what you intend to do with research data during each part of the project cycle. This mini-module will guide you through key questions and considerations for managing research data effectively at each stage of the research process. 
+A **data management plan** maps out in advance what you intend to do with research data during each part of the project cycle. This mini-module will guide you through guiding questions and considerations for managing research data effectively at each stage of the research process. We hope that you can use the guiding questions to structure discussions with your thesis supervisor. 
 
 ## Why plan for RDM? 
 
