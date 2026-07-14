@@ -2,7 +2,10 @@
 
 ## *Key question: What data are needed to test my hypothesis and answer my research question(s)?* 
 
-During your research project, you will collect or re-use a variety of **research objects**, which are all the materials involved in conducting, understanding, verifying and reproducing research. The more specific you are about which research objects are needed to effectively answer your research question(s) and support your research process, the clearer you can design for collecting and organising these objects. One of the key research objects you will gather is **research data**: information to support research findings. Examples of research data include:   
+During your research project, you will collect or re-use a variety of **research objects**, which are all the materials involved in conducting, understanding, verifying and reproducing research. The more specific you are about which research objects are needed to effectively answer your research question(s) and support your research process, the clearer you can design for collecting and organising these objects. 
+
+:::{card} Research Data 
+One of the key research objects you will gather is **research data**: information to support research findings. Examples of research data include:   
 
 - Field notes
 - Quantitative and qualitative observations
@@ -20,9 +23,9 @@ During your research project, you will collect or re-use a variety of **research
 - Maps
 - Sensor data
 - Data re-used from open repositories
+:::
 <br>
-<br>
-
+:::{card} Additional Research Objects 
 As additional research objects, you may generate or re-use **code, scripts, and software.**  
 
 Depending on your project, you also need to collect additional research objects such as **supporting or administrative artefacts**. For example:  
@@ -33,7 +36,7 @@ Depending on your project, you also need to collect additional research objects 
 - An interview or survey template
 - Approval forms
 - Documentation of research methods
-
+:::
 <br>
 
 ## *Key question: Do the data carry special ethical or legal implications?* 
