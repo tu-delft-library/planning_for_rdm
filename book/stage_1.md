@@ -22,6 +22,7 @@ During your research project, you will collect or re-use a variety of **research
 - Data re-used from open repositories
 <br>
 <br>
+
 As additional research objects, you may generate or re-use **code, scripts, and software.**  
 
 Depending on your project, you also need to collect additional research objects such as **supporting or administrative artefacts**. For example:  
@@ -81,7 +82,7 @@ Some data are marked with a Creative Commons (CC) designation. This indicates th
 
 <center>
 <img src="graphics/Creative_Commons_Licenses.jpg" alt="Creative Commons Licenses" style="width: 500px; height: auto;"/>
-<p style="font-size: x-small;"><em>.“Creative Commons: The Ultimate Guide” by foter.com is licensed under CC-BY-SA </em></p>
+<p style="font-size: x-small;"><em>“Creative Commons: The Ultimate Guide” by foter.com is licensed under CC-BY-SA </em></p>
 </center>
 
 
@@ -89,7 +90,10 @@ Please note: **CC licensing does not apply to software.** To learn in more detai
 
 While some data have a CC license, other data are protected by copyright. To learn more about the extent to which you can use copyrighted data, visit the TU Delft Library’s Copyright website: <a href="https://www.tudelft.nl/library/support/copyright/student-copyright-answers#c1118763" target="_blank"> As a student, I want to re-use data in my multimedia/data/student paper, thesis, etc.</a>  
 
-If the data are not explicitly marked with a CC license, or if you see no copyright symbol at all, you should assume that the data are protected by copyright.
+```{admonition} Important Note: 
+:class: warning
+If the data are not explicitly marked with a CC license, or if you see no copyright symbol at all, you should assume that the data are protected by copyright.  
+```
 
 ### PROPRIETARY DATA 
 Are you doing an internship with a company and (re-)using the company's data? Then your project may involve proprietary data. This means the company or organization owns and controls the data. There may be limitations to how you work with and share the data.   
