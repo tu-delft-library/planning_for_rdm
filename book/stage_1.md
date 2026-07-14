@@ -25,7 +25,9 @@ One of the key research objects you will gather is **research data**: informatio
 - Data re-used from open repositories
 :::
 <br>
-:::{card} Additional Research Objects 
+
+:::{card} Additional Research Objects
+
 As additional research objects, you may generate or re-use **code, scripts, and software.**  
 
 Depending on your project, you also need to collect additional research objects such as **supporting or administrative artefacts**. For example:  
