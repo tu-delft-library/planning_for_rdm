@@ -31,12 +31,6 @@ We recommend that you discuss where the data should be saved with your thesis su
 
 - You can set up a desktop version of OneDrive to back up the files on your device.     
 
-- OneDrive can be a good option for collaborative projects (unless the data are sensitive), but you need to be aware of which sharing permissions are enabled for the shared folders:  
-
-- If the creator of a folder has allowed anyone to access it, that could lead to a data breach.  
-
-- If the creator of a folder has allowed universal or public editing rights, your data could accidentally get erased or deleted.    
-
 - Your OneDrive storage will be deleted once you are no longer part of TU Delft, make sure you transfer the data that you or your supervisor wants to keep at the end of the project, otherwise it will be deleted.  
 :::
 
