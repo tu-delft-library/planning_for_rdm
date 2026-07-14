@@ -4,6 +4,13 @@
 
 By intentionally planning for storage, you can safeguard your research project against data disasters.   
 <br>
+<center>
+<img src="graphics/DMP_storage.jpg" alt="Good thing I had a plan! The data is all backed up." style="width: 300px; height: auto;"/>
+<p style="font-size: x-small;"><em>"Data Management Plan" by Scriberia, <a href="http://doi.org/10.5281/zenodo.3332807" target="_blank"> The Turing Way Community </a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0" target="_blank"> CC BY 4.0</a></em></p>
+</center>
+
+
+
 **Storage solutions for MSc students at TU Delft:**  
 
 Secure storage protects you against data loss and protects the research data from security breaches or leaks.  
@@ -86,6 +93,17 @@ Carefully planning ahead for file formats helps to ensure:
 3. The file format is widely used, either in general or within [your] research discipline."
 
 This graphic shows general examples of data formats researchers often use. We recommend asking your supervisor to help you identify the standard file formats used in your particular field of research: 
+<br>
+<center>
+<img src="graphics/file_formats (1).jpg" alt="Types of Research Data we can help to organise and share." style="width: 300px; height: auto;"/>
+<p style="font-size: x-small;"><em>"Types of research data and related file formats" by TU Delft Library- Education Support is licensed under <a href="http://creativecommons.org/licenses/by/4.0" target="_blank"> CC BY 4.0</a>/ A derivative of the <a href="https://figshare.com/articles/figure/Types_of_Research_Data_-_Infographic/5883193/1" target="_blank"> original work</a>.</em></p>
+</center>
+
+## Stage 2: Check your understanding 
+Check your understanding of key ideas in Stage 2: Planning for Research Data & Design by answering these quiz questions: 
+<br>
+```{h5p} https://tudelft.h5p.com/content/1292947761719805577
+```
 
  
 
