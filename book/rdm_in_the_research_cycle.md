@@ -9,7 +9,7 @@ Research Data Management (RDM) is a broad term that covers all aspects of handli
 From start to finish, your thesis project will likely involve 5 key stages, as shown in this graphic for a typical research project cycle:  
 
 <center>
-<img src="..book/graphics/Research_cycle_graphic_edited.jpg" alt="Research Project Cycle in 5 steps" style="width: 400px; height: auto;"/>
+<img src="../graphics/Research_cycle_graphic_edited.jpg" alt="Research Project Cycle in 5 steps" style="width: 400px; height: auto;"/>
 <p style="font-size: x-small;"><em>Adapted from "Project Cycle" by Scriberia, The Turing Way Community, licensed under CC-BY-4.0.</em></p>
 </center>
 
