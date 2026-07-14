@@ -1,8 +1,10 @@
 # RDM in the Research Project Cycle
 
  ## What is Research Data Management? 
- 
-Research Data Management (RDM) is a broad term that covers all aspects of handling research data throughout research, including planning, collecting, organising, documenting, storing, preserving, and sharing data. Effective RDM also covers the management of all resources involved in working with research data such as files, scripts [and tools]. (Li et al., 2025) 
+ :::{card} 
+"Research Data Management (RDM) is a broad term that covers all aspects of handling research data throughout research, including planning, collecting, organising, documenting, storing, preserving, and sharing data. Effective RDM also covers the management of all resources involved in working with research data such as files, scripts [and tools]" (Li et al., 2025).  
+::: 
+<br>
 
 ## The Research Project Cycle
 
