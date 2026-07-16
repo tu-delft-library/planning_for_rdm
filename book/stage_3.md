@@ -10,7 +10,7 @@ Before starting your project, you should be able to explain your intended method
 
 Here are two examples of weak vs. strong descriptions of methods:  
 
-| Weak description of methods | Strong Description of methods |
+| **Weak description of methods** | **Strong description of methods** |
 | To collect the data for my research I will take water samples and measure the phosphate levels in each sample. |   To collect the data, I will take water samples from 10 predefined locations, recording the GPS coordinates, date, time, and weather conditions for each sample. At each location, I will collect 20 mL of water using sterilized vials with lids, label each vial with a sample ID, and store the samples in a cooler during transport. In the laboratory, I will measure phosphate concentration using [method/instrument], following the same procedure for each sample. The raw measurement values, sample IDs, location information, and any observations during collection will be recorded in a structured spreadsheet.|
 | I will collect data through interviews with students about their study experience. | I will conduct semi-structured interviews with 8–10 master's students from [programme]. Participants will be recruited through a course announcement and invited by email. Each interview will last about 30–45 minutes and follow an interview guide with questions about study workload, supervision, and use of university support services. Interviews will be conducted via Teams, audio-recorded with consent, and automatically transcribed. I will check each transcript manually for errors and remove names or other personally identifying details before analysis. |
 
