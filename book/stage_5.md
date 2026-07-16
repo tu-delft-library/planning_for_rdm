@@ -30,11 +30,11 @@ You can save the research data and code for your project in one of these general
 ### Field-specific repositories
 You can use these repository finders to find an open repository that is specific to your field of research:  
 
-- <a href="Commons.datacite.org/repositories" target="_blank"> Commons.datacite.org/repositories</a>
+- <a href="https://commons.datacite.org/repositories" target="_blank"> Commons.datacite.org</a>
 
-- <a href="Fairsharing.org" target="_blank"> Fairsharing.org</a>
+- <a href="https://fairsharing.org/" target="_blank"> Fairsharing.org</a>
 
-- <a href="Re3data.org" target="_blank"> Re3data.org</a>
+- <a href="https://www.re3data.org/" target="_blank"> Re3data.org</a>
 
 ### DOI or another unique identifier 
 Whether you choose to save the data and code in a general or more specialized repository, check that the repository assigns a **DOI or other unique identifier** to the dataset/code that makes it more **findable**. Refer to the data set/code (using the DOI or other unique identifier) in your thesis (and publication, if applicable). This makes it easier for others to find the research data/code.  
