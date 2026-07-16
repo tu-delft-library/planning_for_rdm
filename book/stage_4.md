@@ -20,7 +20,7 @@
 To ensure a reproducible and transparent research workflow, you will need to be able to show which data (collected under which conditions) you analysed, and in which ways. And you'll need to be able to point back to which analyses led to each result/finding that you include in your final report. This means that in addition to documenting the specific conditions under which the data was collected, you need to **provide documentation for your process of analysis**. Your supervisor should be able to follow what you plotted in your report back to the documentation for processing, then back to the raw datasets that were used. For example, if you included a figure in your report, you should provide access to the original file(s) used to make that figure (e.g. in a folder of supporting research objects).    
 
 ### Scenario 
-Here's a scenario to illustrate tracking data collection and outputs:  
+This scenario illustrates tracking data collection and outputs:  
 
 ```{admonition} Documentation Scenario: Electronic lab notebook 
 :class: tip
