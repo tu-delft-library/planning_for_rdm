@@ -4,7 +4,7 @@
 
 During your research project, you will collect or re-use a variety of **research objects**, which are all the materials involved in conducting, understanding, verifying and reproducing research. The more specific you are about which research objects are needed to effectively answer your research question(s) and support your research process, the clearer you can design for collecting and organising these objects. 
 
-:::{card} Research Data 
+:::{card} RESEARCH DATA
 One of the key research objects you will gather is **research data**: information to support research findings. Examples of research data include:   
 
 - Field notes
@@ -26,7 +26,7 @@ One of the key research objects you will gather is **research data**: informatio
 :::
 <br>
 
-:::{card} Additional Research Objects
+:::{card} ADDITIONAL RESEARCH OBJECTS
 
 As additional research objects, you may generate or re-use **code, scripts, and software.**  
 
@@ -91,9 +91,10 @@ Some data are marked with a Creative Commons (CC) designation. This indicates th
 </center>
 
 
-Please note: **CC licensing does not apply to software.** To learn in more detail about interpreting software licenses, visit: Schlauch, Tobias - <a href="https://zenodo.org/records/8246557" target="_blank"> “All you need to know about Software Licenses as a RSE”</a>. Another helpful resource is the <a href="https://tu-delft-dcc.github.io/docs/software/documentation/license.html" target="_blank"> DCC guide on software licenses</a>. 
+Please note: 
+- **CC licensing does not apply to software.** To learn in more detail about interpreting software licenses, visit: Schlauch, Tobias - <a href="https://zenodo.org/records/8246557" target="_blank"> “All you need to know about Software Licenses as a RSE”</a>. Another helpful resource is the <a href="https://tu-delft-dcc.github.io/docs/software/documentation/license.html" target="_blank"> DCC guide on software licenses</a>. 
 
-While some data have a CC license, other data are protected by copyright. To learn more about the extent to which you can use copyrighted data, visit the TU Delft Library’s Copyright website: <a href="https://www.tudelft.nl/library/support/copyright/student-copyright-answers#c1118763" target="_blank"> As a student, I want to re-use data in my multimedia/data/student paper, thesis, etc.</a>  
+- While some data have a CC license, other data are protected by copyright. To learn more about the extent to which you can use copyrighted data, visit the TU Delft Library’s Copyright website: <a href="https://www.tudelft.nl/library/support/copyright/student-copyright-answers#c1118763" target="_blank"> As a student, I want to re-use data in my multimedia/data/student paper, thesis, etc.</a>  
 
 ```{admonition} Important Note: 
 :class: warning
