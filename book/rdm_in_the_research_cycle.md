@@ -16,7 +16,7 @@ From start to finish, your thesis project will likely involve 5 key stages, as s
 </center>
 
 
-A **data management plan** maps out in advance what you intend to do with research data during each part of the project cycle. This mini-module will guide you through guiding questions and considerations for managing research data effectively at each stage of the research process. 
+A **data management plan** maps out in advance what you intend to do with research data during each part of the project cycle. This mini-module will guide you through key questions and considerations for managing research data effectively at each stage of the research process. 
 <br>
 
 ## Download this template! 
@@ -49,7 +49,7 @@ For his master's thesis, Michel plans to look at people's experiences in a fligh
 Michel has taken time to recruit participants, booked precious time in the simulator, and gotten the software all set up. But he then learns that HREC must approve his research *before* he can proceed with data collection. He rushed to complete the HREC application materials, then has to wait several weeks for the committee's decision. This causes delays in data collection. Michel isn't sure if he'll get his project finished in time. 
 :::
 ::::
-<p style="font-size: x-small;"><em>Scenarios #1-3 re-used and adapted from: Li, M., Marcoux, K., Nazareth, D., Nikuze, A., & Plomp, W. (2025, December). Research Data Management Guidebook for Students. Zenodo. https://doi.org/10.5281/zenodo.15576176 </em></p>
+<p style="font-size: x-small;"><em>Scenarios #1-3 re-used and adapted from: Li, M., Marcoux, K., Nazareth, D., Nikuze, A., & Plomp, W. (2025, December). Research Data Management Guidebook for Students. Zenodo. <a href="https://doi.org/10.5281/zenodo.15576176" target="_blank"> https://doi.org/10.5281/zenodo.15576176</a></em></p>
 <br>
 
 ## Benefits of RDM 
