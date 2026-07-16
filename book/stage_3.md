@@ -10,6 +10,11 @@ Before starting your project, you should be able to explain your intended method
 
 Here are two examples of weak vs. strong descriptions of methods:  
 
+| Weak description of methods | Strong Description of methods |
+| To collect the data for my research I will take water samples and measure the phosphate levels in each sample. |   To collect the data, I will take water samples from 10 predefined locations, recording the GPS coordinates, date, time, and weather conditions for each sample. At each location, I will collect 20 mL of water using sterilized vials with lids, label each vial with a sample ID, and store the samples in a cooler during transport. In the laboratory, I will measure phosphate concentration using [method/instrument], following the same procedure for each sample. The raw measurement values, sample IDs, location information, and any observations during collection will be recorded in a structured spreadsheet.|
+| I will collect data through interviews with students about their study experience. | I will conduct semi-structured interviews with 8–10 master's students from [programme]. Participants will be recruited through a course announcement and invited by email. Each interview will last about 30–45 minutes and follow an interview guide with questions about study workload, supervision, and use of university support services. Interviews will be conducted via Teams, audio-recorded with consent, and automatically transcribed. I will check each transcript manually for errors and remove names or other personally identifying details before analysis. |
+
+
 ## *Key question: How will you document your research methods?* 
 
 :::{card} Data Documentation 
@@ -45,7 +50,8 @@ The researcher will also create a README file saved in .txt format, stored in th
 - Contact details of the data owner or responsible researcher   
 ```
 <br>
-**Documentation Resources:** 
+
+### Additional resources about documentation Resources
 To learn more about different types of documentation, visit these resources:  
 
 - For more information about how to set up and use a digital lab notebook, visit the TU Delft Library's page on <a href="https://www.tudelft.nl/en/library/data-management/research-data-management/electronic-lab-notebook-for-research-data-management" target="_blank"> electronic lab notebooks for research data management. </a> 
@@ -55,11 +61,12 @@ To learn more about different types of documentation, visit these resources:
 - For a detailed overview of documentation strategies and best practices, see the University of Helsinki's publication <a href="https://zenodo.org/records/1914401" target="_blank">Making a research project understandable - Guide for data documentation. </a>
 
 ## *Key question: What are your planned file naming conventions and folder structure?* 
+At the **beginning of a project**, it’s helpful to determine an **FNC (File Naming Convention)**, or “file naming schema,” for each set of research data that you will gather, create, or store to work with. 
+
 Ideally, files are named and organised in a way that helps to document the process or sequence that you followed to gather the data. For example, file names can provide hints about why/how each piece of data is relevant by indicating the order in which the data were collected and/or the collection method. Effective file naming and documentation of file naming schema makes it easier to retrace your steps in a project when it’s time to analyse your results. And clear folder organisation and naming makes it easier to find everything quickly when it's time to write your report.  
 
-At the **beginning of a project**, it’s helpful to determine an **FNC (File Naming Convention)**, or “file naming schema,” for each set of research data that you will gather, create, or store to work with.    
-
-**Additional Resources for file & folder naming:** 
+   
+### Additional Resources for file & folder naming 
 To dive into the topic of file and folder naming in more detail, see these additional resources:  
 <br>
 - For more detailed recommendations and examples of file naming conventions and folder structures, see the mini-module <a href="https://teachbooks.io/files-and-folders/EN/part1/part1.html" target="_blank"> File Naming and Folder Organisation. </a> 
@@ -73,12 +80,12 @@ Version control of code and software refers to tracking changes and being able t
 
 Use Git as a version control system that allows you to collaborate and share your code (e.g. GitHub, GitLab, Codeberg).  
 
-Additional resources about version control using Git: 
+### Additional resources about version control using Git: 
 
-- Git Resource: www.atlassian.com/git 
+- <a href="www.atlassian.com/git" target="_blank"> Getting Git Right </a>  
 
-- tu-delft-dcc.github.io/docs/software/getting_started.html 
+- <a href="tu-delft-dcc.github.io/docs/software/getting_started.html" target="_blank"> Getting Started with Git </a>  
 
-- DCC guide: https://tu-delft-dcc.github.io/docs/software/development_workflow/ 
+- <a href="https://tu-delft-dcc.github.io/docs/software/development_workflow/" target="_blank"> Digital Competency Centre Guide to Git </a>  
 
 ## Stage 3: Check your understanding
