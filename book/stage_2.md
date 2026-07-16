@@ -81,7 +81,7 @@ Git is recommended for storing code.
 - Floating on your personal computer without backups to the TU Delft server.
 <br>
 
-## *Key question: In which file format(s) will the data be saved?* 
+## *Key question: In which file format(s) will the data be saved?*
 Carefully planning ahead for file formats helps to ensure:  
 - **Ample storage:** By thinking ahead, you’ll be able to plan enough storage for the data. For example, a collection of mp4s or a large series of high-resolution images may require significant storage space.
 - **Interoperability:** This means that other people can open the data files across digital platforms. Interoperability should be a goal, but only if the data fits the requirements to be openly shared: legal and ethical guidelines sometimes limit or prohibit the open sharing of certain categories of personal, proprietary, or copyrighted data.
@@ -89,7 +89,7 @@ Carefully planning ahead for file formats helps to ensure:
 
  
 
-**Preferred file formats:** 
+### Preferred file formats: 
 DANS, the Dutch national centre of expertise and repository for research data, explains that preferred file formats have these key characteristics:  
 :::{card} 
 1. The file format can be read in free software, so it is not dependent on vendors.  
