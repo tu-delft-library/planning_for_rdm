@@ -10,19 +10,20 @@
 <br>
 
 ## *Key question: What units will the data be collected in?*
-- In most research fields, numbers mean nothing without units. Therefore, it's important to include International System of Units (SI units) of the modern metric system while you are collecting research data.  
+- In most research fields, **numbers mean nothing without units**. Therefore, it's important to include International System of Units (SI units) of the modern metric system while you are collecting research data.  
 
 - **Punctuation also matters!** For example, some programming platforms cannot accurately read commas as a decimal separator. You can imagine what a headache it would create if you were trying to work with a very large dataset and had to replace every instance of a comma with a period. Therefore, it's good to be aware of it.
 <br>
 
 ## *Key question: How will you maintain a clear link between the data, your analysis method, and your results?*
 
-To ensure a reproducible and transparent research workflow, you will need to be able to show which data (collected under which conditions) you analysed, and in which ways. And you'll need to be able to point back to which analyses led to each result/finding that you include in your final report. This means that in addition to documenting the specific conditions under which the data was collected, you need to provide documentation for your process of analysis.  
+To ensure a reproducible and transparent research workflow, you will need to be able to show which data (collected under which conditions) you analysed, and in which ways. And you'll need to be able to point back to which analyses led to each result/finding that you include in your final report. This means that in addition to documenting the specific conditions under which the data was collected, you need to **provide documentation for your process of analysis**. Your supervisor should be able to follow what you plotted in your report back to the documentation for processing, then back to the raw datasets that were used. For example, if you included a figure in your report, you should provide access to the original file(s) used to make that figure (e.g. in a folder of supporting research objects).    
 
+### Scenario 
 Here's a scenario to illustrate tracking data collection and outputs:  
 
-:::{card} Documentation Scenario: Electronic lab notebook 
-
+```{admonition} Documentation Scenario: Electronic lab notebook 
+:class: tip
 A researcher investigates the effect of microplastic concentrations on aquatic plant growth through two controlled experiments: one exposing plants to low microplastic concentrations and another to high microplastic concentrations. During data collection, the researcher carefully documents each step in an electronic lab notebook, recording:  
 
 The general experimental protocol that was used, including information on  
@@ -45,32 +46,32 @@ Next, the researcher analyses the data by using Python to run a statistical grow
 - model_high_concentration_YYYYMMDD_v1.pkl 
 
 The electronic lab notebook is used to document the code inputs and outputs, including model parameters, goodness-of-fit statistics, and any runtime warnings – alongside notes on decisions made during the analysis, such as outlier removal or parameter adjustments. This ensures the full analytical workflow is transparent and reproducible.  
-:::
- 
+```  
+```{admonition} Include documentation with your final report
+:class: warning
+A summary of the final results (including key graphs and data) can be included with your final report to aid interpretation, facilitate review, and provide a concise record of the experiment's outcomes. This enables you and your supervisor to quickly understand the key findings without needing to revisit the full analysis workflow, while maintaining clear links to the underlying data and model outputs.
+```
+<br>
 
-Additionally, a summary of the final results (incl. key graphs and data) can be included with your final report to aid interpretation, facilitate review, and provide a concise record of the experiment's outcomes. This enables the student and their supervisor to quickly understand the key findings without needing to revisit the full analysis workflow, while maintaining clear links to the underlying data and model outputs.
-
-To summarize, your supervisor should be able to follow what you plotted in your report back to the documentation for processing, then back to the raw datasets that were used. For example, if you included a figure in your report, you should provide access to the original file(s) used to make that figure (e.g. in a folder of supporting research objects).   
-
- 
-### Additional resources 
-Here are several tools that can be used to connect data analysis directly to the final output figures (and thesis text). These tools support reproducible research by ensuring that figures and outputs are generated directly from the underlying data analysis, reducing errors and improving transparency:  
+### Additional resources for documenting analysis 
+Here are several tools that can be used to connect data analysis directly to the final output figures (and thesis text). These tools support reproducible research by ensuring that figures and outputs are generated directly from the underlying data analysis, reducing errors and improving transparency.  
 
 **Markdown documents** let you combine descriptive text with executable R code (which is often used in statistics). Plain-text Markdown documents contain embedded R code chunks that generate tables, figures, and results directly within the document. This makes it easier to document your analysis procedure.
-- rmarkdown.rstudio.com/articles_intro.html  
+- <a href="rmarkdown.rstudio.com/articles_intro.html" target="_blank"> "Introduction to R Markdown"</a> 
 
-- Bookdown.org/yihui/rmarkdown/ 
+- <a href="Bookdown.org/yihui/rmarkdown/" target="_blank"> "R Markdown: The Definitive Guide"</a> 
+<br>
 
 **Jupyter Notebook** is an open-source web application that combines live python code, equations, visualizations, and explanatory text in a single document.  
 
-- jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.htm 
+- <a href="jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.htm" target="_blank"> Jupyter Notebook beginner guide</a> 
 
-- github.com/burkesquires/jupyter_training 
+- <a href="github.com/burkesquires/jupyter_training" target="_blank"> Jupyter Notebook Training</a> 
+<br>
 
 The **TU Delft Starter Kit** lets you integrate your analysis, documentation, and writing through Jupyter Book and Git, enabling seamless connections between code, results, and manuscript preparation. It also automatically generates a pdf of your thesis (via Latex). 
-- https://tud-jb-os.github.io/starterkit/quickstart/ 
-
-
+- <a href="https://tud-jb-os.github.io/starterkit/quickstart/" target="_blank"> TU Delft Starter Kit Quickstart</a> 
+<br>
 
 ## *Key question: How will you reduce risks of data leaks?*
 
