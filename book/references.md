@@ -1,6 +1,7 @@
 # References
 :::{bibliography}
 :::
+DANS. (2025, January 17). File formats. Retrieved July 16, 2026, from https://dans.knaw.nl/en/file-formats/
 
 Li, M., Marcoux, K., Nazareth, D., Nikuze, A., & Plomp, W. (2025, December). Research data 	management checklist for students. Zenodo. https://doi.org/10.5281/zenodo.15673026 
 
