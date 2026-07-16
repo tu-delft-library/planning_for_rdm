@@ -59,11 +59,11 @@ This question is particularly applicable for students who are generating code as
 
 ### Additional resources for licensing  
 
-- CC Licenses: https://foter.com/blog/how-to-attribute-creative-commons-photos/ 
+- <a href="https://foter.com/blog/how-to-attribute-creative-commons-photos/" target="_blank"> CC Licenses</a>
 
-- TU Delft guide on software licenses: https://tu-delft-dcc.github.io/docs/software/documentation/license.html 
+- <a href="https://tu-delft-dcc.github.io/docs/software/documentation/license.html" target="_blank"> TU Delft guide on software licensing</a>
 
-- TU Delft Library Copyright Checkpoint: As a student, I want to choose a license for my multimedia/student paper, thesis, etc./data  
+- TU Delft Library Copyright Checkpoint: <a href="https://www.tudelft.nl/library/support/copyright/student-copyright-answers#c1118723" target="_blank"> As a student, I want to choose a license for my multimedia/student paper, thesis, data, etc.</a>
 
 ## Stage 5: Check your understanding
 
