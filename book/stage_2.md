@@ -72,7 +72,7 @@ Git is recommended for storing code.
 :::
 ::::
 
-### NOT recommended for storage: 
+### NOT recommended for storage 
 
 - Commercial third-party cloud storage such as Dropbox and Google Drive: avoid storing data on personal (non-TU Delft) accounts such as these, particularly personal data. Cloud applications such as Google and Dropbox store data outside the European Union, thus are not approved by TU Delft.   
 
@@ -89,7 +89,7 @@ Carefully planning ahead for file formats helps to ensure:
 
  
 
-### Preferred file formats: 
+### Preferred file formats 
 DANS, the Dutch national centre of expertise and repository for research data, explains that preferred file formats have these key characteristics:  
 :::{card} 
 1. The file format can be read in free software, so it is not dependent on vendors.  
