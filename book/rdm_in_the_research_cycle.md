@@ -11,12 +11,21 @@
 From start to finish, your thesis project will likely involve 5 key stages, as shown in this graphic for a typical research project cycle:  
 
 <center>
-<img src="graphics/Research_cycle_graphic_edited.jpg" alt="Research Project Cycle in 5 steps" style="width: 500px; height: auto;"/>
+<img src="graphics/Research_cycle_graphic_edited.jpg" alt="Research Project Cycle in 5 steps" style="width: 600px; height: auto;"/>
 <p style="font-size: x-small;"><em>Adapted from "Project Cycle" by Scriberia, The Turing Way Community, licensed under CC-BY-4.0.</em></p>
 </center>
 
 
-A **data management plan** maps out in advance what you intend to do with research data during each part of the project cycle. This mini-module will guide you through guiding questions and considerations for managing research data effectively at each stage of the research process. Before you continue on in the mini-module [Download this template](../graphics/Checklist_v1.pdf).The template is meant to accompany the mini-module. We suggest that you print the template out, jot notes in the margins, and bring it to planning discussions with your thesis supervisor. 
+A **data management plan** maps out in advance what you intend to do with research data during each part of the project cycle. This mini-module will guide you through guiding questions and considerations for managing research data effectively at each stage of the research process. 
+<br>
+
+## Download this template! 
+
+Before you continue on in the mini-module, download this RDM checklist: 
+:::{card} 
+[**Download the Checklist**](graphics/Checklist_v1.pdf).
+:::
+The checklist template is meant to accompany the mini-module. We suggest that you print it out, jot notes in the margins, and bring it to planning discussions with your thesis supervisor. 
 
 ## Why plan for RDM? 
 
@@ -40,7 +49,7 @@ For his master's thesis, Michel plans to look at people's experiences in a fligh
 Michel has taken time to recruit participants, booked precious time in the simulator, and gotten the software all set up. But he then learns that HREC must approve his research *before* he can proceed with data collection. He rushed to complete the HREC application materials, then has to wait several weeks for the committee's decision. This causes delays in data collection. Michel isn't sure if he'll get his project finished in time. 
 :::
 ::::
-<p style="font-size: x-small;"><em>Scenarios 1-3 re-used and adapted from: Li, M., Marcoux, K., Nazareth, D., Nikuze, A., & Plomp, W. (2025, December). Research Data Management Guidebook for Students. Zenodo. https://doi.org/10.5281/zenodo.15576176 </em></p>
+<p style="font-size: x-small;"><em>Scenarios #1-3 re-used and adapted from: Li, M., Marcoux, K., Nazareth, D., Nikuze, A., & Plomp, W. (2025, December). Research Data Management Guidebook for Students. Zenodo. https://doi.org/10.5281/zenodo.15576176 </em></p>
 <br>
 
 ## Benefits of RDM 
