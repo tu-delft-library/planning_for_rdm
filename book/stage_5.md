@@ -65,6 +65,11 @@ This question is particularly applicable for students who are generating code as
 - TU Delft Library Copyright Checkpoint: <a href="https://www.tudelft.nl/library/support/copyright/student-copyright-answers#c1118723" target="_blank"> As a student, I want to choose a license for my multimedia/student paper, thesis, data, etc.</a>
 
 ## Stage 5: Check your understanding
+Check your understanding of key ideas in Stage 5: Planning for Data Publishing, Preservation & Re-Use by answering these quiz questions: 
+<br>
+```{h5p} 
+```
+<br>
 
 
 
