@@ -96,8 +96,11 @@ The “Research Data Management Checklist” for students suggests taking the fo
 
 ## Stage 4: Check your Understanding 
 
-
-
+Check your understanding of key ideas in Stage 4: Planning for Data Processing & Analysis by answering these quiz questions: 
+<br>
+```{h5p} https://tudelft.h5p.com/content/1292956541158079777
+```
+<br>
 
 
 
