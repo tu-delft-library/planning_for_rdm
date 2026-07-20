@@ -90,3 +90,10 @@ Use Git as a version control system that allows you to collaborate and share you
 - <a href="https://tu-delft-dcc.github.io/docs/software/development_workflow/" target="_blank"> Digital Competency Centre Guide to Git </a>  
 
 ## Stage 3: Check your understanding
+ 
+Check your understanding of key ideas in Stage 3: Planning for Data Collection by answering these quiz questions: 
+<br>
+```{h5p} https://tudelft.h5p.com/content/1292956547499671277
+```
+<br>
+
