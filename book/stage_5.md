@@ -6,16 +6,15 @@ Your plan for the project data should be based on conversations with your superv
 ## *Key question: What supporting documents are necessary to make the data and code understandable and re-usable by others?*
 Careful documentation makes your research process **transparent**, your results **reproducible**, and the research data **re-usable** by others. Therefore, your documentation should be included along with the final report.  
 
-As part of the included documentation for the final report, disclose their AI use by sharing the specific prompt that was used to generate the diagram. 
+### AI Use Disclosure 
+As part of the included documentation for the final report, it's also recommended disclose your use of generative AI. For example, if you used generative AI to create a diagram, disclose this and share the specific prompt that you used. 
 
 
-## *Key question: Which repository is appropriate for long-term storage?*
+## *Key questions: Which repository is appropriate for long-term storage? Where will the research data and code for your project be saved after you complete your final report?*
 
-Where will the research data and code for your project be saved after you complete your final report?
+Some MSc students contribute to scientific publications. If this is you, you need to archive the research data and code from your project in an open repository at the latest by the time the research publication is published (unless the data/code  cannot be shared due to ethical or legal limitations). Discuss with your supervisor whether you should upload the data/code to a repository at the end of your master project, or whether you should hand your supervisor the data/code so that they can upload the data once the paper is published. This approach can prevent others from scooping your findings.  
 
-Some MSc students contribute to scientific publications. If this is you, you need to archive the research data and code from your project in an open repository at the latest by the time the research publication is published (unless the data/code  cannot be shared due to ethical or legal limitations). Discuss with your supervisor whether you should publish your data/code at the end of your master project, or whether you should hand them your data/code and they will publish it by the time the publication is published. In some cases, the latter can be desired, as it can prevent others from scooping your findings.  
-
-If you do not contribute to scientific publications, you can, but are not obligated to, share your data/code in a data repository. If you plan to do so, please also discuss this with your supervisor. 
+If you do not contribute to scientific publications, you can share the data/code for your project in a data repository. However, you are not obligated to do so. If you're interested in sharing the data and code in a repository, please also discuss this with your supervisor. 
 
  
 ### General repositories
