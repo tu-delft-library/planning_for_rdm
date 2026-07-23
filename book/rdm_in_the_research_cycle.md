@@ -61,7 +61,7 @@ In this mini-module we hope to reinforce the knowledge and skills that are requi
 
 - making your **research methods more transparent**, making it easier for others to **re-use or reproduce** and verify your findings.  
 
-- making your research more **FAIR** (Findable, Accessible, Interoperable and Reusable). In other words, it makes your research reproducible by others (including yourself!). Published research that follows FAIR principles is cited more and has a higher impact score (add citation here). 
+- making your research more **FAIR** (Findable, Accessible, Interoperable and Reusable). In other words, it makes your research reproducible by others (including yourself!). Published research that adheres to FAIR principles is cited more and has a higher impact score (Alves, 2024). 
 
 - developing **project planning and management skills** that will benefit you in academia or the workforce.  
 
