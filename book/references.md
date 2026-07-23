@@ -1,6 +1,9 @@
 # References
 :::{bibliography}
 :::
+
+Alves T. FAIR data: what it is and how we can support its principles. Sci Ed. 2024;47:110-112. <a href="https://doi.org/10.36591/SE-4703-04" target="_blank"> https://doi.org/10.36591/SE-4703-04</a> 
+
 DANS. (2025, January 17). File formats. Retrieved July 16, 2026, from <a href="https://dans.knaw.nl/en/file-formats/" target="_blank"> https://dans.knaw.nl/en/file-formats/</a>
 
 Li, M., Marcoux, K., Nazareth, D., Nikuze, A., & Plomp, W. (2025, December). Research data 	management checklist for students. Zenodo. <a href="https://doi.org/10.5281/zenodo.15673026" target="_blank"> https://doi.org/10.5281/zenodo.15673026</a>. CC BY 4.0. 
