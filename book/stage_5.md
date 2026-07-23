@@ -11,14 +11,14 @@ As part of the documentation that you include for your final report, it's also r
 
 Examples: 
 - If you used **generative AI** to create a diagram, it's recommended to disclose this use and share the specific generative AI platform and prompt that you used.
-- If you used an internally-developed AI tool, your report should include (attached) the data that were used to train the AI model. 
+- If you used an **internally-developed AI tool**, your report should include (attached) the data that were used to train the AI model. 
 
 
 ## *Key questions: Which repository is appropriate for long-term storage? Where will the research data and code for your project be saved after you complete your final report?*
 
-Some MSc students contribute to scientific publications. If this is you, you need to archive the research data and code from your project in an open repository at the latest by the time the research publication is published (unless the data/code  cannot be shared due to ethical or legal limitations). Discuss with your supervisor whether you should upload the data/code to a repository at the end of your master project, or whether you should hand your supervisor the data/code so that they can upload the data once the paper is published. This approach can prevent others from scooping your findings.  
+Some MSc students contribute to scientific publications. If this is you, you need to archive the research data and code from your project in a **repository** at the latest by the time the research publication is published (unless the data/code  cannot be shared due to ethical or legal limitations). A repository is a storage platform that provides a central hub or location for storing research data. Discuss with your supervisor whether you should upload the data/code to a repository at the end of your master project, or whether you should hand your supervisor the data/code so that they can upload the data once the paper is published. This approach can prevent others from scooping your findings.  
 
-If you do not contribute to scientific publications, you can share the data/code for your project in a data repository. However, you are not obligated to do so. If you're interested in sharing the data and code in a repository, please also discuss this with your supervisor. 
+Even if you do not contribute to scientific publications, you can share the data/code for your project in a data repository. However, you are not obligated to do so. If you're interested in sharing the data and code in a repository, please also discuss this with your supervisor. 
 
  
 ### General repositories
