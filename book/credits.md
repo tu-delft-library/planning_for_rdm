@@ -16,8 +16,3 @@ We anticipate making some updates to the content of this book based on feedback 
 This book is [CC BY 4.0 licensed](https://creativecommons.org/licenses/by/4.0/) allowing you to share and adapt the material, as long as the source is named. 
 
 
-
-(editor)=
-## About the Editors
-
-### Acknowledgements
