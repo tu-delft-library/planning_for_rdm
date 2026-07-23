@@ -25,7 +25,7 @@ Before you continue on in the mini-module, download this RDM checklist:
 :::{card} 
 [**Download the Checklist**](graphics/Checklist_v1.pdf).
 :::
-The checklist template is meant to accompany the mini-module. We suggest that you print it out, jot notes in the margins, and bring it to planning discussions with your thesis supervisor. 
+The checklist template is meant to accompany the mini-module so that you can apply the guiding questions to plan your own project. We suggest that you print it out, jot notes in the margins, and bring it to planning discussions with your thesis supervisor. 
 
 ## Why plan for RDM? 
 
