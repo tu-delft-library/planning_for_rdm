@@ -36,11 +36,11 @@ You can use these repository finders to find an open repository that is specific
 - <a href="https://www.re3data.org/" target="_blank"> Re3data.org</a>
 
 ### DOI or another unique identifier 
-Whether you choose to save the data and code in a general or more specialized repository, check that the repository assigns a **DOI or other unique identifier** to the dataset/code that makes it more **findable**. Refer to the data set/code (using the DOI or other unique identifier) in your thesis (and publication, if applicable). This makes it easier for others to find the research data/code.  
+Whether you choose to save the data and code in a general or more specialized repository, check that the repository assigns a **DOI (digital object identifier) or other unique identifier** to the dataset/code that makes it more **findable**. Refer to the data set/code using the DOI or other unique identifier in your thesis (and publication, if applicable). This makes it easier for others to find the research data/code.  
 
  ### Sharing Code
 
-Even if you share your code in public Git repositories, you should also archive your code in a data repository (next to having it on the Git repository), and reference it in your thesis (using the assigned DOI).  Why?  
+Even if you share your code in public Git repositories, you should also archive your code in a data repository (next to having it on the Git repository), and reference it in your thesis using the assigned DOI.  Why?  
 
 1. This keeps a snapshot of the code you used, so others can use exactly the same version as you did in your thesis.  
 
@@ -67,7 +67,7 @@ This question is particularly applicable for students who are generating code as
 ## Stage 5: Check your understanding
 Check your understanding of key ideas in Stage 5: Planning for Data Publishing, Preservation & Re-Use by answering these quiz questions: 
 <br>
-```{h5p} 
+```{h5p} https://tudelft.h5p.com/content/1292956548357730237
 ```
 <br>
 
