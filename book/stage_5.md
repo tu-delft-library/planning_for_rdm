@@ -6,8 +6,12 @@ Your plan for the project data should be based on conversations with your superv
 ## *Key question: What supporting documents are necessary to make the data and code understandable and re-usable by others?*
 Careful documentation makes your research process **transparent**, your results **reproducible**, and the research data **re-usable** by others. Therefore, your documentation should be included along with the final report.  
 
-### AI Use Disclosure 
-As part of the included documentation for the final report, it's also recommended disclose your use of generative AI. For example, if you used generative AI to create a diagram, disclose this and share the specific prompt that you used. 
+### How to disclose AI Use 
+As part of the documentation that you include for your final report, it's also recommended disclose your use of AI. 
+
+Examples: 
+- If you used **generative AI** to create a diagram, it's recommended to disclose this use and share the specific generative AI platform and prompt that you used.
+- If you used an internally-developed AI tool, your report should include (attached) the data that were used to train the AI model. 
 
 
 ## *Key questions: Which repository is appropriate for long-term storage? Where will the research data and code for your project be saved after you complete your final report?*
