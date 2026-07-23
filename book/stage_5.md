@@ -54,7 +54,7 @@ Even if you share your code in public Git repositories, you should also archive 
 
 ### Metadata
 
-When you upload the data/code to a repository, you'll be prompted to add metadata. **Metadata is information about the data** set(s) you've uploaded, such as provenance (where/who the data came from) and key characteristics like size and format. Adding complete metadata **increases the findability** of the datasets.   
+When you upload the data/code to a repository, you'll be prompted to add metadata. **Metadata is information about the data** set(s) you've uploaded, such as provenance (where/who the data came from) and key characteristics like size and format. Metadata is formatted so that it is machine-readable [add a "so what" statement about machine readibility here?]. Adding complete metadata **increases the findability** of the datasets.   
   
 
 ## *Key question: How will you license the data collected for your project?*
