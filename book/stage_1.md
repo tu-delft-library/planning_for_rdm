@@ -2,10 +2,10 @@
 
 ## *Key question: What data are needed to test my hypothesis and answer my research question(s)?* 
 
-During your research project, you will collect or re-use a variety of **research objects**, which are all the materials involved in conducting, understanding, verifying and reproducing research. The more specific you are about which research objects are needed to effectively answer your research question(s) and support your research process, the clearer you can design for collecting and organising these objects. 
+During your research project, you will collect or re-use a variety of **research objects**, which are all the materials involved in conducting, understanding, verifying and reproducing research. The more specific you are about which research objects are needed to effectively answer your research question(s) and support your research process, the clearer you can design for collecting and organising these objects. Here are examples of research objects: 
 
 :::{card} RESEARCH DATA
-One of the key research objects you will gather is **research data**: information to support research findings. Examples of research data include:   
+One of the key research objects you will gather is **research data**: information to support research findings. Types of research data include:   
 
 - Field notes
 - Quantitative and qualitative observations
