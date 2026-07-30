@@ -19,13 +19,13 @@ From start to finish, your thesis project will likely involve 5 key stages, as s
 A **data management plan** maps out in advance what you intend to do with research data during each part of the project cycle. This mini-module will guide you through key questions and considerations for managing research data effectively at each stage of the research process. 
 <br>
 
-## Download this template! 
+## Download this checklist! 
 
 Before you continue on in the mini-module, download this RDM checklist: 
 :::{card} 
 [**Download the Checklist**](graphics/Checklist_v1.docx).
 :::
-The checklist template is meant to accompany the mini-module so that you can apply the guiding questions to plan your own project. We suggest that you print it out, jot notes in the margins, and bring it to planning discussions with your thesis supervisor. 
+The checklist is meant to accompany the mini-module so that you can apply the guiding questions to plan your own project. We suggest that you download and/or print it out, jot notes in the margins, and bring it to planning discussions with your thesis supervisor. 
 
 ## Why plan for RDM? 
 
