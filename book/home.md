@@ -8,7 +8,7 @@ This mini-module is designed for MSc students who are in the planning/preparator
 
 We want you to internalize a series of guiding questions that researchers ask themselves in the design phase of research projects. Specifically, the mini-module will target these learning goals:  
 
-- Understand why research data management is important and beneficial 
+- Understand what research data management is and why it is important and beneficial. 
 
 - Give detailed description of the type(s) of research data that will be used for your project. 
 
@@ -20,12 +20,12 @@ We want you to internalize a series of guiding questions that researchers ask th
 
 - Plan for data management according to FAIR principles. 
 
-- Explain the life cycle of data to be used for your project. 
+- Explain what will happen to research objects from the start to the finish of your project and afterwards. 
 
 
 ## Mini-module Format 
 
-This mini-course is online and self-paced. It’s “mini” because it will take you approximately an hour to an hour and a half to go through the materials. The practice exercises and quizzes in each section are designed to help you check your understanding of key vocabulary and concepts. The mini-module has an open format, which means you can bookmark the URL in your browser and refer to the information as much as you like in the future. In addition to the online mini-module, we will also provide a downloadable template with guiding questions. That way you will have a place to jot notes and apply the key ideas to your own project. 
+This mini-course is online and self-paced. It’s “mini” because it will take you approximately an hour to an hour and a half to go through the materials. The practice exercises and quizzes in each section are designed to help you check your understanding of key vocabulary and concepts. The mini-module is open access, which means you can bookmark the URL in your browser and refer to the information as much as you like in the future. In addition to the online mini-module, we will also provide a downloadable template with guiding questions. That way you will have a place to jot notes and apply the key ideas to your own project. 
 
 ## Appreciations 
 
