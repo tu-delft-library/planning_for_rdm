@@ -40,7 +40,7 @@ You can use these repository finders to find an open repository that is specific
 - <a href="https://www.re3data.org/" target="_blank"> Re3data.org</a>
 
 ### DOI or another unique identifier 
-Whether you choose to save the data and code in a general or more specialized repository, check that the repository assigns a **DOI (digital object identifier) or other unique identifier** to the dataset/code that makes it more **findable**. Refer to the data set/code using the DOI or other unique identifier in your thesis (and publication, if applicable). This makes it easier for others to find the research data/code.  
+Whether you choose to save the data and code in a general or more specialized repository, check that the repository assigns a **digital object identifier (DOI) or other unique identifier** to the dataset/code that makes it more **findable**. Refer to the data set/code using the DOI or other unique identifier in your thesis (and publication, if applicable). This makes it easier for others to find the research data/code.  
 
  ### Sharing Code
 
@@ -54,7 +54,7 @@ Even if you share your code in public Git repositories, you should also archive 
 
 ### Metadata
 
-When you upload the data/code to a repository, you'll be prompted to add metadata. **Metadata is information about the data** set(s) you've uploaded, such as provenance (where/who the data came from) and key characteristics like size and format. Metadata is formatted so that it is machine-readable [add a "so what" statement about machine readibility here?]. Adding complete metadata **increases the findability** of the datasets.   
+When you upload the data/code to a repository, you'll be prompted to add metadata. **Metadata is information about the data** set(s) you've uploaded, such as provenance (where/who the data came from) and key characteristics like size and format. Metadata is formatted so that it is machine-readable meaning repositories and search engines can automatically index, catalogue, and surface your dataset — making it easier for others (and your future self) to find and understand it without opening the file itself.. Adding complete metadata **increases the findability** of the datasets.   
   
 
 ## *Key question: How will you license the data collected for your project?*
