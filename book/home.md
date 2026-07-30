@@ -2,7 +2,7 @@
 
 ## Welcome! 
 
-This mini-module is designed for MSc students who are in the planning/preparatory phase for the master's thesis project. It will discuss core ideas of research data management (RDM), explain why RDM is important, and help you to build habits of planning for research data management. We hope this will help you to better manage the workflow for your thesis project and protect against data loss.
+This mini-module is designed for MSc students who are in the planning/preparatory phase for the master's thesis project. It will discuss core ideas of research data management (RDM), explain why RDM is important, and help you to build habits of planning for research data management. We hope this will help you to better manage the workflow for your thesis project.
 
 ## Learning Goals 
 
