@@ -23,7 +23,7 @@ A **data management plan** maps out in advance what you intend to do with resear
 
 Before you continue on in the mini-module, download this RDM checklist: 
 :::{card} 
-[**Download the Checklist**](graphics/Checklist_v1.pdf).
+[**Download the Checklist**](graphics/Checklist_v1.docx).
 :::
 The checklist template is meant to accompany the mini-module so that you can apply the guiding questions to plan your own project. We suggest that you print it out, jot notes in the margins, and bring it to planning discussions with your thesis supervisor. 
 
