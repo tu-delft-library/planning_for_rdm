@@ -63,8 +63,7 @@ To effectively manage the research data for your project, you will need to form 
 - **Stage 4:** Maintain a clear link between the research data, your analyses, and your results. 
 - **Stage 5:** Determine what will happen to the research data after the project is complete.  
 
-A **data management plan** or **DMP** is a formal written plan that explains what will happen with the data in each stage of the project cycle. There are different DMP templates, (for example, specific templates provided by funders or university-specific formats such as TU Delft's template). Some academic programs require a written DMP for the MSc thesis project. Even if you are not required to write a formal DMP, it is recommended and helpful to map out in advance what you intend to do with research data during each stage of the project cycle. This mini-module will guide you through key questions and considerations at each stage of the research process. We will provide guiding questions and explain how to plan for resarch data at each stage of the project cycle. 
-
+A **data management plan** or **DMP** is a formal written plan that explains what will happen with the research data for a project. There are a variety of DMP templates, (for example, specific templates provided by funders or university-specific formats such as TU Delft's template[link]). Some academic programs require a written DMP for the MSc thesis project. Even if you are not required to write a formal DMP, it is helpful to map out in advance what you intend to do with research data during each stage of the project cycle. This mini-module will guide you through key questions and considerations at each stage of the research process. We will provide guiding questions and explain how to plan for resarch data at each stage of the project cycle. 
 
 <br>
 
