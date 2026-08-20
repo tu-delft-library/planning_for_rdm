@@ -1,6 +1,6 @@
 # Stage 2: Planning for Research Data & Design 
 <center>
-<img src="graphics/stage_2.jpg" alt="Stage 2 of the Research Project Cycle" style="width: 300px; height: auto;"/>
+<img src="graphics/stage_2.jpg" alt="Stage 2 of the Research Project Cycle" style="width: 400px; height: auto;"/>
 <p style="font-size: x-small;"><em>Adapted from "Project Cycle" by Scriberia, The Turing Way Community, licensed under CC-BY-4.0.</em></p>
 </center>
 Once you know what data you'll be working with, the next decisions are where the data will live and in what format(s). The guiding questions for this stage are focused on storage and file format choices. The goal is to protect the research data from loss and keep the data usable by you and others in the future. 
