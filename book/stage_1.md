@@ -1,5 +1,11 @@
 # Stage I: Planning for Research Ideas 
 
+<center>
+<img src="graphics/stage_1.jpg" alt="Stage 1 of the Research Project Cycle" style="width: 300px; height: auto;"/>
+<p style="font-size: x-small;"><em>Adapted from "Project Cycle" by Scriberia, The Turing Way Community, licensed under CC-BY-4.0.</em></p>
+</center>
+Before you can plan how you'll manage the research data for your project, you first need to define what data you'll actually be working with. The guiding questions for this stage you will help you to identify the research objects your project will involve. Also, they will help you to identify early on whether any of the data carries ethical or legal requirements, a key consideration since the approvals process may take a long time. 
+
 ## *Key question: What data are needed to test my hypothesis and answer my research question(s)?* 
 
 During your research project, you will collect or re-use a variety of **research objects**, which are all the materials involved in conducting, understanding, verifying and reproducing research. The more specific you are about which research objects are needed to effectively answer your research question(s) and support your research process, the clearer you can design for collecting and organising these objects. Here are examples of research objects: 
