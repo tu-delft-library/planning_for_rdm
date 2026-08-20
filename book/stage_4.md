@@ -1,4 +1,9 @@
 # Stage 4: Planning for Data Processing & Analysis 
+<center>
+<img src="graphics/stage_4.jpg" alt="Stage 2 of the Research Project Cycle" style="width: 300px; height: auto;"/>
+<p style="font-size: x-small;"><em>Adapted from "Project Cycle" by Scriberia, The Turing Way Community, licensed under CC-BY-4.0.</em></p>
+</center>
+The guiding questions for this stage focus on protecting the raw data, keeping units and formats consistent, and maintaining a clear, reproducible link between the research data, your analysis, and your results. 
 
 ## *Key question: How will you distinguish between raw vs. processed data?*
 
