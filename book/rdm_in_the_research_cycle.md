@@ -10,6 +10,305 @@
 
 From start to finish, your thesis project will likely involve 5 key stages, as shown in this graphic for a typical research project cycle:  
 
+<style>
+/_static/Research_cycle_graphic.jpg{
+  position: relative;
+  width: 100%;
+  max-width: 1400px;
+  margin: 1.5rem auto;
+}
+
+/_static/Research_cycle_graphic.jpg{
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+/* Invisible/visible hover targets */
+.research-hotspot {
+  position: absolute;
+  width: 5.5%;
+  aspect-ratio: 1;
+  border-radius: 50%;
+  cursor: help;
+  outline: none;
+}
+
+/*
+   The small circle becomes visible when the user
+   hovers over or focuses a stage number.
+*/
+.research-hotspot::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border: 3px solid rgba(0, 150, 160, 0.85);
+  border-radius: 50%;
+  background: rgba(0, 150, 160, 0.08);
+  opacity: 0;
+  transition: opacity 0.2s ease;
+}
+
+.research-hotspot:hover::before,
+.research-hotspot:focus::before {
+  opacity: 1;
+}
+
+/* The tooltip */
+.research-tooltip {
+  position: absolute;
+  z-index: 10;
+  width: 330px;
+  max-width: min(330px, 70vw);
+  padding: 1rem 1.1rem;
+
+  background: white;
+  color: #333;
+
+  border-radius: 10px;
+  border: 1px solid rgba(0, 150, 160, 0.35);
+
+  box-shadow:
+    0 6px 20px rgba(0, 0, 0, 0.18);
+
+  font-size: 0.92rem;
+  line-height: 1.5;
+
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+
+  transition:
+    opacity 0.2s ease,
+    transform 0.2s ease;
+
+  transform: translateY(6px);
+}
+
+/* Tooltip heading */
+.research-tooltip strong {
+  display: block;
+  margin-bottom: 0.45rem;
+
+  font-size: 1rem;
+  line-height: 1.3;
+  color: #008f98;
+}
+
+/* Show tooltip on hover/focus */
+.research-hotspot:hover .research-tooltip,
+.research-hotspot:focus .research-tooltip {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+
+/*
+   Positioning of the five numbered hotspots.
+
+   These percentages are based on your 1400 × 1051 image.
+*/
+
+/* 1 — bottom left */
+.stage-1 {
+  left: 20.5%;
+  top: 90.5%;
+}
+
+/* 2 — left middle */
+.stage-2 {
+  left: 3.0%;
+  top: 48.5%;
+}
+
+/* 3 — upper left */
+.stage-3 {
+  left: 2.7%;
+  top: 20.5%;
+}
+
+/* 4 — upper right */
+.stage-4 {
+  left: 62.5%;
+  top: 20.5%;
+}
+
+/* 5 — lower right */
+.stage-5 {
+  left: 64.5%;
+  top: 59.5%;
+}
+
+
+/*
+   Tooltip positions.
+
+   These are adjusted individually so that the boxes
+   don't run off the edges of the image.
+*/
+
+.stage-1 .research-tooltip {
+  bottom: 110%;
+  left: -20px;
+}
+
+.stage-2 .research-tooltip {
+  top: -20px;
+  left: 120%;
+}
+
+.stage-3 .research-tooltip {
+  top: -20px;
+  left: 120%;
+}
+
+.stage-4 .research-tooltip {
+  top: -20px;
+  right: 120%;
+}
+
+.stage-5 .research-tooltip {
+  top: -20px;
+  right: 120%;
+}
+
+
+/* On smaller screens, make the tooltip a little smaller */
+@media (max-width: 700px) {
+  .research-tooltip {
+    width: 260px;
+    font-size: 0.85rem;
+  }
+}
+</style>
+
+
+<div class="research-cycle">
+
+  <img
+    src="_static/research_cycle.jpg"
+    alt="Research data management cycle showing five stages from research ideas through data publishing, preservation and re-use."
+  >
+
+
+  <!-- =====================================================
+       STAGE 1
+       ===================================================== -->
+
+  <div
+    class="research-hotspot stage-1"
+    tabindex="0"
+    role="button"
+    aria-label="Stage 1: Planning for Research Ideas"
+  >
+    <div class="research-tooltip">
+      <strong>Stage 1 — Planning for Research Ideas</strong>
+
+      Before you can plan how you'll manage your data, you first
+      need to define what data you'll actually be working with.
+      This stage helps you identify the research objects your
+      project will involve, and flag early on whether any of that
+      data carries ethical or legal considerations — since those
+      can require significant lead time to sort out.
+    </div>
+  </div>
+
+
+  <!-- =====================================================
+       STAGE 2
+       ===================================================== -->
+
+  <div
+    class="research-hotspot stage-2"
+    tabindex="0"
+    role="button"
+    aria-label="Stage 2: Planning for Research Data and Design"
+  >
+    <div class="research-tooltip">
+      <strong>Stage 2 — Planning for Research Data &amp; Design</strong>
+
+      Once you know what data you're working with, the next
+      decisions are where it will live and in what format.
+      This stage covers the storage and file format choices that
+      protect your data from loss and keep it usable by you and
+      others down the line.
+    </div>
+  </div>
+
+
+  <!-- =====================================================
+       STAGE 3
+       ===================================================== -->
+
+  <div
+    class="research-hotspot stage-3"
+    tabindex="0"
+    role="button"
+    aria-label="Stage 3: Planning for Data Collection"
+  >
+    <div class="research-tooltip">
+      <strong>Stage 3 — Planning for Data Collection</strong>
+
+      With your data and storage plan in place, this stage turns
+      to the collection process itself: describing your methods
+      clearly, documenting your work as you go, and keeping files,
+      folders, and code organised and traceable.
+    </div>
+  </div>
+
+
+  <!-- =====================================================
+       STAGE 4
+       ===================================================== -->
+
+  <div
+    class="research-hotspot stage-4"
+    tabindex="0"
+    role="button"
+    aria-label="Stage 4: Planning for Data Processing and Analysis"
+  >
+    <div class="research-tooltip">
+      <strong>Stage 4 — Planning for Data Processing &amp; Analysis</strong>
+
+      As data starts coming in, this stage is about protecting
+      your raw data, keeping units and formats consistent, and
+      maintaining a clear, reproducible link between your data,
+      your analysis, and your results.
+    </div>
+  </div>
+
+
+  <!-- =====================================================
+       STAGE 5
+       ===================================================== -->
+
+  <div
+    class="research-hotspot stage-5"
+    tabindex="0"
+    role="button"
+    aria-label="Stage 5: Planning for Data Publishing, Preservation and Re-use"
+  >
+    <div class="research-tooltip">
+      <strong>Stage 5 — Planning for Data Publishing, Preservation &amp; Re-use</strong>
+
+      As your project wraps up, this final stage covers what
+      happens to your data next: what should be shared, archived,
+      or deleted, how to document it for others, where it should
+      live long-term, and how it should be licensed.
+    </div>
+  </div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
 <center>
 <img src="graphics/Research_cycle_graphic_edited.jpg" alt="Research Project Cycle in 5 steps" style="width: 600px; height: auto;"/>
 <p style="font-size: x-small;"><em>Adapted from "Project Cycle" by Scriberia, The Turing Way Community, licensed under CC-BY-4.0.</em></p>
