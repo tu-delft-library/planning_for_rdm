@@ -2,30 +2,9 @@
 
  ## What is Research Data Management? 
  :::{card} 
-"Research Data Management (RDM) is a broad term that covers all aspects of handling research data throughout research, including planning, collecting, organising, documenting, storing, preserving, and sharing data. Effective RDM also covers the management of all resources involved in working with research data such as files, scripts [and tools]" (Li et al., 2025).  
+"Research Data Management (RDM) is a broad term that covers all aspects of handling research data throughout research, including planning, collecting, organising, documenting, storing, preserving, and sharing data. Effective RDM also covers the management of all resources involved in working with research data such as files, scripts [and tools]" (Li et al., 2025b).  
 ::: 
 <br>
-
-## The Research Project Cycle
-
-From start to finish, your thesis project will likely involve 5 key stages, as shown in this graphic for a typical research project cycle:  
-
-<center>
-<img src="graphics/Research_cycle_graphic_edited.jpg" alt="Research Project Cycle in 5 steps" style="width: 600px; height: auto;"/>
-<p style="font-size: x-small;"><em>Adapted from "Project Cycle" by Scriberia, The Turing Way Community, licensed under CC-BY-4.0.</em></p>
-</center>
-
-
-A **data management plan** maps out in advance what you intend to do with research data during each part of the project cycle. This mini-module will guide you through key questions and considerations for managing research data effectively at each stage of the research process. 
-<br>
-
-## Download this checklist! 
-
-Before you continue on in the mini-module, download this RDM checklist: 
-:::{card} 
-[**Download the Checklist**](graphics/Checklist_v1.docx).
-:::
-The checklist is meant to accompany the mini-module so that you can apply the guiding questions to plan your own project. We suggest that you download and/or print it out, jot notes in the margins, and bring it to planning discussions with your thesis supervisor. 
 
 ## Why plan for RDM? 
 
@@ -53,7 +32,7 @@ Michel has taken time to recruit participants, booked precious time in the simul
 <br>
 
 ## Benefits of RDM 
-In this mini-module we hope to reinforce the knowledge and skills that are required to prevent research setbacks like the four scenarios just described. As these examples demonstrate, there are good reasons to develop a strong data management plan and to internalize habits of planning for research data management. The benefits for you include:   
+In this mini-module we hope to reinforce the knowledge and skills that are required to prevent research setbacks like the four examples just described. As these examples demonstrate, there are good reasons to develop a strong data management plan and to internalize habits of planning for research data management. The benefits for you include:   
 
 - **increased efficiency** by mapping how you will organise, document and store the data for your project (kind of like getting all your ingredients and tools out before you start to cook something).  
 
@@ -67,6 +46,36 @@ In this mini-module we hope to reinforce the knowledge and skills that are requi
 
 - **saving you time and reducing stress** during your thesis project, especially at the end when good RDM will make it easier to write your report: by getting organised at the beginning of your project, you will save time at the end. 
 <br>
+
+## The Research Project Cycle
+
+From start to finish, from a data management perspective, your thesis project will likely involve 5 key stages, as shown in this graphic for a typical research project cycle:  
+
+<center>
+<img src="graphics/Research_cycle_graphic_edited.jpg" alt="Research Project Cycle in 5 steps" style="width: 600px; height: auto;"/>
+<p style="font-size: x-small;"><em>Adapted from "Project Cycle" by Scriberia, The Turing Way Community, licensed under CC-BY-4.0.</em></p>
+</center>
+To effectively manage the research data for your project, you will need to form a plan for each stage: 
+
+- **Stage 1:** Define which research objects and research data you'll be working with, and evaluate in advance whether the data require ethical or legal approvals.  
+- **Stage 2:** Determine where the research data will be stored and in what format(s). 
+- **Stage 3:** Document your research methods; carefully name and organise research artefacts throughout data collection. 
+- **Stage 4:** Maintain a clear link between the research data, your analyses, and your results. 
+- **Stage 5:** Determine what will happen to the research data after the project is complete.  
+
+A **data management plan** or **DMP** is a formal written plan that explains what will happen with the data in each stage of the project cycle. There are different DMP templates, (for example, specific templates provided by funders or university-specific formats such as TU Delft's template). Some academic programs require a written DMP for the MSc thesis project. Even if you are not required to write a formal DMP, it is recommended and helpful to map out in advance what you intend to do with research data during each stage of the project cycle. This mini-module will guide you through key questions and considerations at each stage of the research process. We will provide guiding questions and explain how to plan for resarch data at each stage of the project cycle. 
+
+
+<br>
+
+## Download this checklist! 
+
+Before you continue on in the mini-module, download this RDM checklist: 
+:::{card} 
+[**Download the Checklist**](graphics/Checklist_v1.docx).
+:::
+The checklist is meant to accompany the mini-module so that you can apply the guiding questions to plan your own project. We suggest that you download and/or print it out, jot notes in the margins, and bring it to planning discussions with your thesis supervisor. 
+
 
 ## The Research Project Cycle: Check your understanding
 
