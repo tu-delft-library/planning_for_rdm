@@ -1,4 +1,9 @@
 # Stage 3: Planning for Data Collection 
+<center>
+<img src="graphics/stage_3.jpg" alt="Stage 2 of the Research Project Cycle" style="width: 300px; height: auto;"/>
+<p style="font-size: x-small;"><em>Adapted from "Project Cycle" by Scriberia, The Turing Way Community, licensed under CC-BY-4.0.</em></p>
+</center>
+The guiding questions for this stage turn to the collection process itself: describing your methods clearly, documenting your work as you go, and keeping files, folders, and code organised and traceable. 
 
 ## *Key question: Specifically, how will the data be collected?* 
 
