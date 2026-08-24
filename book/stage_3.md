@@ -70,11 +70,10 @@ To learn more about different types of documentation, visit these resources:
 At the **beginning of a project**, it’s helpful to determine an **FNC (File Naming Convention)**, or “file naming schema,” for each set of research data that you will gather, create, or store to work with. 
 
 Ideally, files are named and organised in a way that helps to document the process or sequence that you followed to gather the data. For example, file names can provide hints about why/how each piece of data is relevant by indicating the order in which the data were collected and/or the collection method. Effective file naming and documentation of file naming schema makes it easier to retrace your steps in a project when it’s time to analyse your results. And clear folder organisation and naming makes it easier to find everything quickly when it's time to write your report.  
-
-   
+ 
 ### Additional resources about file & folder naming 
 To dive into the topic of file and folder naming in more detail, see these additional resources:  
-<br>
+
 - For more detailed recommendations and examples of file naming conventions and folder structures, see the mini-module <a href="https://teachbooks.io/files-and-folders/EN/part1/part1.html" target="_blank"> File Naming and Folder Organisation. </a> 
 
 - This guide from Stanford University describes best practices for file naming and includes case studies: <a href="https://guides.library.stanford.edu/data-best-practices/" target="_blank"> Data Best Practices. </a>   
