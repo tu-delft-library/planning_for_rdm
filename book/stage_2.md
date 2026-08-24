@@ -77,13 +77,13 @@ This is an overview of recommended storage platforms for master’s students at 
 ::: 
 
 :::{tab-item} Other 
-* There are also storage solutions that are specific to lab groups or consortiums (e.g. the M: or N: drive or a faculty-specific server).
+* There are also storage solutions that are specific to lab groups or consortiums (e.g. the M: or N: drive or a faculty-specific server). You can ask your supervisor more about this. 
 :::
 ::::
 
 ### NOT recommended for storage 
 
-- Commercial third-party cloud storage such as Dropbox and Google Drive: avoid storing data on personal (non-TU Delft) accounts such as these, particularly personal data. Cloud applications such as Google and Dropbox store data outside the European Union, thus are not approved by TU Delft.   
+- Commercial third-party cloud storage such as Dropbox and Google Drive: avoid storing data on personal (non-TU Delft) accounts such as these, particularly personal data. Cloud applications such as Google and Dropbox store data outside the European Union where EU privacy regulations are not enforced, thus are not approved by TU Delft.   
 
 - Portable drives such as hard drives and thumb drives: it’s too easy for these to get lost or fall into the wrong hands.   
 
