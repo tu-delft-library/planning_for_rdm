@@ -64,16 +64,16 @@ A summary of the final results (including key graphs and data) can be included w
 Here are several tools that can be used to connect data analysis directly to the final output figures (and thesis text). These tools support reproducible research by ensuring that figures and outputs are generated directly from the underlying data analysis, reducing errors and improving transparency.  
 
 **Markdown documents** let you combine descriptive text with executable R code (which is often used in statistics). Plain-text Markdown documents contain embedded R code chunks that generate tables, figures, and results directly within the document. This makes it easier to document your analysis procedure.
-- <a href="rmarkdown.rstudio.com/articles_intro.html" target="_blank"> "Introduction to R Markdown"</a> 
+- <a href="https://rmarkdown.rstudio.com/articles_intro.html" target="_blank"> "Introduction to R Markdown"</a> 
 
-- <a href="Bookdown.org/yihui/rmarkdown/" target="_blank"> "R Markdown: The Definitive Guide"</a> 
+- <a href="https://pkg.yihui.org/rmarkdown-book/" target="_blank"> "R Markdown: The Definitive Guide"</a> 
 <br>
 
 **Jupyter Notebook** is an open-source web application that combines live python code, equations, visualizations, and explanatory text in a single document.  
 
-- <a href="jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.htm" target="_blank"> Jupyter Notebook beginner guide</a> 
+- <a href="https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html" target="_blank"> Jupyter Notebook beginner guide</a> 
 
-- <a href="github.com/burkesquires/jupyter_training" target="_blank"> Jupyter Notebook Training</a> 
+- <a href="https://github.com/burkesquires/jupyter_training" target="_blank"> Jupyter Notebook Training</a> 
 <br>
 
 The **TU Delft Starter Kit** lets you integrate your analysis, documentation, and writing through Jupyter Book and Git, enabling seamless connections between code, results, and manuscript preparation. It also automatically generates a pdf of your thesis (via Latex). 
