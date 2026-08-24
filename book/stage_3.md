@@ -89,7 +89,7 @@ Use Git as a version control system that allows you to collaborate and share you
 
 ### Additional resources about version control using Git 
 
-- <a href="www.atlassian.com/git" target="_blank"> Getting Git Right </a>  
+- <a href="https://www.atlassian.com/git" target="_blank"> Getting Git Right </a>  
 
 - <a href="https://tu-delft-dcc.github.io/docs/software/getting_started.html" target="_blank"> Getting Started with Git </a>  
 
