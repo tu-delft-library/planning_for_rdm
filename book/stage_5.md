@@ -1,4 +1,4 @@
-# Stage 5: Planning for Data Publishing, Preservation & Re-use 
+# Planning for Stage 5: Data Publishing & Access, Preservation & Re-use 
 
 <div style="display: flex; gap: 20px; align-items: flex-start;">
 
