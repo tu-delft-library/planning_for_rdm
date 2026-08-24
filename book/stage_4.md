@@ -1,4 +1,4 @@
-# Stage 4: Planning for Data Processing & Analysis 
+# Planning for Stage 4: Data Processing, Study & Analysis 
 <center>
 <img src="graphics/stage_4.jpg" alt="Stage 2 of the Research Project Cycle" style="width: 400px; height: auto;"/>
 <p style="font-size: x-small;"><em>Adapted from "Project Cycle" by Scriberia, The Turing Way Community, licensed under CC-BY-4.0.</em></p>
