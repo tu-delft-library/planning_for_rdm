@@ -64,8 +64,10 @@ This is an overview of recommended storage platforms for master’s students at 
 - <a href="https://storagefinder.tudelft.nl/package/9/" target="_blank"> Learn more about Microsoft Teams at TU Delft.</a>
 :::
 
-:::{tab-item} Git Lab
-Git is recommended for storing code. 
+:::{tab-item} Git
+- Git is recommended for storing and working on code.
+  
+- Examples of Git repositories are GitLab, GitHub, Codeberg, TU Delft Gitlab. Check with your supervisor if they have an existing Git repository they prefer you to use. 
 :::
 
 :::{tab-item} Project Data Drive (U:) 
