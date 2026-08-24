@@ -36,6 +36,9 @@ As part of the documentation that you include for your final report, it's also r
 
 Examples: 
 - If you used **generative AI** to create a diagram, it's recommended to disclose this use and share the specific generative AI platform and prompt that you used.
+- If you used **generative AI** to generate code/scripts to process or analyse the data.
+- If you used **generative AI** to process or analyse the data.
+  
 - If you used an **internally-developed AI tool**, your report should explicitly describe the AI model, including its name and version, source (if publicly available), key properties and capabilities, training data (where known), intended purpose, and any important limitations. The report should also explain how the tool was used in the research, including the inputs provided, outputs generated, parameter settings or configurations, any fine-tuning or customizations, validation methods, and the extent of human oversight. This documentation enables others to understand, evaluate, and, where possible, reproduce the role of the AI tool in the research process.
 
 
