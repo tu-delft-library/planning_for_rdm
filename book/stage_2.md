@@ -1,4 +1,4 @@
-# Stage 2: Planning for Research Data & Design 
+# Planning for Stage 2: Planning for Research Data Planning & Design 
 <center>
 <img src="graphics/stage_2.jpg" alt="Stage 2 of the Research Project Cycle" style="width: 400px; height: auto;"/>
 <p style="font-size: x-small;"><em>Adapted from "Project Cycle" by Scriberia, The Turing Way Community, licensed under CC-BY-4.0.</em></p>
@@ -108,10 +108,10 @@ DANS, the Dutch national centre of expertise and repository for research data, e
 (DANS, 2025) 
 :::
 
-This graphic shows general examples of data formats researchers often use. We recommend asking your supervisor to help you identify the standard file formats used in your particular field of research: 
+This graphic shows general examples of data formats researchers often use (you can click on the image to enlarge it). We recommend asking your supervisor to help you identify the standard file formats used in your particular field of research: 
 <br>
 <center>
-<img src="graphics/file_formats (1).jpg" alt="Types of Research Data we can help to organise and share." style="width: 300px; height: auto;"/>
+<img src="graphics/file_formats (1).jpg" alt="Types of Research Data we can help to organise and share." style="width: 400px; height: auto;"/>
 <p style="font-size: x-small;"><em>"Types of research data and related file formats" by TU Delft Library- Education Support is licensed under <a href="http://creativecommons.org/licenses/by/4.0" target="_blank"> CC BY 4.0</a>/ A derivative of the <a href="https://figshare.com/articles/figure/Types_of_Research_Data_-_Infographic/5883193/1" target="_blank"> original work</a>.</em></p>
 </center>
 
