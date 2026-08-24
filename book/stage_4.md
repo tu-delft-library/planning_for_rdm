@@ -80,7 +80,7 @@ The **TU Delft Starter Kit** lets you integrate your analysis, documentation, an
 
 ## *Key question: How will you reduce risks of data leaks?*
 
-The “Research Data Management Checklist” for students suggests taking the following extra safety precautions: 
+While working with research data, you should take the following extra safety precautions: 
 :::{card} 
 1. Have a password on your computer. 
 
@@ -96,7 +96,7 @@ The “Research Data Management Checklist” for students suggests taking the fo
 
 7. If you lose any of your data (e.g., lost USB stick or hard drive, or a stolen laptop) report this to your supervisor immediately! It may be a data breach.
    
-(Li et al., 2025)
+(Li et al., 2025a)
 :::
 
 ## Stage 4: Check your Understanding 
