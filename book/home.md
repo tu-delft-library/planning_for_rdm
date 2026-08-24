@@ -2,30 +2,30 @@
 
 ## Welcome! 
 
-This mini-module is designed for MSc students who are in the planning/preparatory phase for the master's thesis project. It will discuss core ideas of research data management (RDM), explain why RDM is important, and help you to build habits of planning for research data management. We hope this will help you to better manage the workflow for your thesis project.
+This mini-module is designed for master's students who are in the planning/preparatory phase for the master's thesis project. It will discuss core ideas of research data management (RDM), explain why RDM is important, and help you to build habits of planning for research data management. We hope this will help you to better manage the workflow for your thesis project.
 
 ## Learning Goals 
 
 We want you to internalize a series of guiding questions that researchers ask themselves in the design phase of research projects. Specifically, the mini-module will target these learning goals:  
 
-- Understand what research data management is and why it is important and beneficial. 
+- Understand what **research data management** is and why it is **important and beneficial**. 
 
-- Give detailed description of the type(s) of research data that will be used for your project. 
+- Give detailed description of the **type(s) of research data** that will be used for your project. 
 
-- Identify whether your project will involve data that flag special ethical and/or legal considerations.  
+- Identify whether your project will involve data that flag **special ethical and/or legal considerations**.  
 
-- Create a plan for careful data documentation (workflow etc.) and metadata (machine). 
+- Create a plan for careful **data documentation** (workflow etc.) and **metadata** (machine-readable). 
 
-- Create a plan to store and share research data as openly as possible. 
+- Create a plan to **store and share** research data **as openly as possible**. 
 
-- Plan for data management according to FAIR principles. 
+- Plan for research data management according to **FAIR principles**, to make the research data for your project as findable, accessible, interoperable and re-usable as possible. 
 
-- Explain what will happen to research objects from the start to the finish of your project and afterwards. 
+- Explain **what will happen to research objects** from the start to the finish of your project and afterwards. 
 
 
 ## Mini-module Format 
 
-This mini-course is online and self-paced. It’s “mini” because it will take you approximately an hour to an hour and a half to go through the materials. The practice exercises and quizzes in each section are designed to help you check your understanding of key vocabulary and concepts. The mini-module is open access, which means you can bookmark the URL in your browser and refer to the information as much as you like in the future. In addition to the online mini-module, we will also provide a downloadable checklist with guiding questions. That way, you will have a place to jot notes and apply the key ideas to your own project. 
+This mini-course is online and self-paced. It’s “mini” because it will take you approximately an hour to an hour and a half to go through the materials. The practice exercises and quizzes in each section are designed to help you check your understanding of key vocabulary and concepts. The mini-module is open access, which means you can bookmark the URL in your browser and refer to the information as much as you like in the future. In addition to the online mini-module, we will also provide this [**Downloadable Checklist**](graphics/Checklist_v1.docx) that includes the guiding questions from the mini-module. That way, you will have a place to jot notes and apply the key ideas to your own project. 
 
 ## Appreciations 
 
