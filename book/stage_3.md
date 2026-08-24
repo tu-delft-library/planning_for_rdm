@@ -91,7 +91,7 @@ Use Git as a version control system that allows you to collaborate and share you
 
 - <a href="www.atlassian.com/git" target="_blank"> Getting Git Right </a>  
 
-- <a href="tu-delft-dcc.github.io/docs/software/getting_started.html" target="_blank"> Getting Started with Git </a>  
+- <a href="https://tu-delft-dcc.github.io/docs/software/getting_started.html" target="_blank"> Getting Started with Git </a>  
 
 - <a href="https://tu-delft-dcc.github.io/docs/software/development_workflow/" target="_blank"> Digital Competency Centre Guide to Git </a>  
 
