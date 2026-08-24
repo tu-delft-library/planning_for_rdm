@@ -79,6 +79,7 @@ Here are several tools that can be used to connect data analysis directly to the
 The **TU Delft Starter Kit** lets you integrate your analysis, documentation, and writing through Jupyter Book and Git, enabling seamless connections between code, results, and manuscript preparation. It also automatically generates a pdf of your thesis (via Latex). 
 - <a href="https://tud-jb-os.github.io/starterkit/quickstart/" target="_blank"> TU Delft Starter Kit Quickstart</a> 
 <br>
+*Note: The TU Delft Starter Kit is in project form.
 
 ## *Key question: How will you reduce risks of data leaks?*
 
