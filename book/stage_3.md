@@ -25,7 +25,7 @@ Here are two examples of weak vs. strong descriptions of methods:
 
 :::{card} Data Documentation 
 
-Data documentation refers to providing sufficient information that someone (yourself or others) would need to reuse the data, re-run analyses, and reproduce the results. Comprehensive documentation enhances transparency, makes it easier to share data, and increases the overall reproducibility of projects. (Li et al., 2025)
+Data documentation refers to providing sufficient information that someone (yourself or others) would need to reuse the data, re-run analyses, and reproduce the results. Comprehensive documentation enhances transparency, makes it easier to share data, and increases the overall reproducibility of projects. (Li et al., 2025b)
 :::
 
 
@@ -38,7 +38,7 @@ Documentation strategies include:
 - README files 
 - Lab notebooks 
 - Code notes 
-- We'll learn in the next section how file and folder names can also be used to document the steps in your research process
+- File and folder naming: We'll learn in the next section how file and folder names can also be used to document the steps in your research process
 
 ```{admonition} Scenario: Data dictionary & README documentation 
 :class: tip
@@ -80,7 +80,6 @@ To dive into the topic of file and folder naming in more detail, see these addit
 
 - This guide from Stanford University describes best practices for file naming and includes case studies: <a href="https://guides.library.stanford.edu/data-best-practices/" target="_blank"> Data Best Practices. </a>   
 
-- For more information about software naming conventions, visit the TU Delft <a href="https://tu-delft-dcc.github.io/docs/software/code_quality/code_style" target="_blank"> Digital Competency Center's guide. </a>
 
 ## *Guiding question: How will you do version control for code and software?* 
 Version control of code and software refers to tracking changes and being able to return to previous versions. This way, you can see what you have done at each step, record the process of your work, and if the latest version goes wrong you can go back to previous steps.   
