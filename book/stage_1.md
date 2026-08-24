@@ -1,4 +1,4 @@
-# Stage I: Planning for Research Ideas 
+# Planning for Stage I: Research Ideas 
 
 <center>
 <img src="graphics/stage_1.jpg" alt="Stage 1 of the Research Project Cycle" style="width: 400px; height: auto;"/>
@@ -34,22 +34,24 @@ One of the key research objects you will gather is **research data**: informatio
 
 :::{card} ADDITIONAL RESEARCH OBJECTS
 
-As additional research objects, you may generate or re-use **code, scripts, and software.**  
+As additional research objects, you may generate or re-use **code, scripts, and software,** which could include reused or self-developed code and scripts, or the use of commercial software packages. 
 
 Depending on your project, you also need to collect additional research objects such as **supporting or administrative artefacts**. For example:  
 
 - Informed consent letters that research participants sign to take part in a research project 
 - An annotated bibliography
+- Results of information searches (e.g. articles, conference proceedings and book excerpts). For more information about information literacy strategies visit this IL Thesis Guide.  
 - A budget for the project
 - An interview or survey template
 - Approval forms
 - Documentation of research methods
+- A data management plan
 :::
 <br>
 
-## *Key question: Do the data carry special ethical or legal implications?* 
+## *Key question: Do the research data carry special ethical or legal implications?* 
 
-During the planning phase of your project you should consider whether you will be working with **personal data**, **data protected by copyright**, and/or **proprietary data** trademarked by a company. These types of research data flag increased risk, carry legal restrictions, and/or require ethical or legal approval. Your project timeline needs to allow ample time for the approvals process. Otherwise, you might need to adjust your project design to fit your timeline.  By determining whether you'll be handling these types of data, you can plan and prepare accordingly.  
+During the planning phase of your project you should consider whether you will be working with **personal data**, **data protected by copyright**, and/or **proprietary data** trademarked by a company. These types of research data flag increased risk, carry legal restrictions, and/or require ethical or legal approval. Your project timeline needs to allow ample time for the approvals process. Otherwise, you might need to adjust your project design to fit your timeline. In addition, these types of data might carry specific requirements and restrictions for storing, sharing and processing the data. By determining whether you'll be handling these types of data, you can plan and prepare accordingly.  
 
 ### PERSONAL DATA 
 Are you conducting interviews or surveys with human participants, re-using data from social media, re-using medical images from humans, or collecting or re-using any other data originating from people? If so, your project will likely involve personal data. **Personal data are defined as any information that can be used to directly or indirectly identify a person.** You have an ethical obligation to handle this type of data with great care and to protect the privacy of your human research subjects.  
