@@ -83,9 +83,12 @@ When you upload the data/code to a repository, you'll be prompted to add metadat
   
 
 ## *Key question: How will you license the data collected for your project?*
-This question is particularly applicable for students who are generating code as part of their projects. MSc students at TU Delft are owners of the research data for their projects and their code, unless they sign a statement giving away their ownership. If you are doing an internship or collaboration with a company, you need to verify whether you have permission to copyright the data by checking your graduation agreement.   
+This question is particularly applicable for students who are generating code as part of their projects. MSc students at TU Delft are owners of the research data for their projects and their code, unless they sign a statement giving away their ownership. Make sure your code has a clear license and mark this license in your Git environment. If you are doing an internship or collaboration with a company, you need to verify whether you have permission to copyright the data by checking your graduation agreement. 
+
 
 ### Additional resources for licensing  
+
+- We suggest that you refer back to section in this mini-module about <a href="https://tu-delft-library.github.io/planning_for_rdm/main/stage_1.html#copyrighted-data-intellectual-property" target="_blank"> Copyrighted Data </a>
 
 - <a href="https://foter.com/blog/how-to-attribute-creative-commons-photos/" target="_blank"> CC Licenses</a>
 
