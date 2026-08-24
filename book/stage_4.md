@@ -7,15 +7,17 @@ The guiding questions for this stage focus on protecting the raw data, keeping u
 
 ## *Key question: How will you distinguish between raw vs. processed data?*
 
-- It's recommended to save the **raw data** for your project **in one folder** and the **processed data in another, separate folder**.  
+It's recommended to save the **raw data** for your project **in one folder** and the **processed data in another, separate folder**. That way, nobody can accidentally alter or delete the raw data. Some key best practices include: 
 
-- Save a complete copy of the raw data set and adjust the file settings to make it **read-only** (that way nobody can accidentally alter or delete the data).  
+- Save a complete copy of the raw data set and adjust the file settings to make it **read-only**.  
 
-- Your folder and file naming conventions should help you distinguish between the raw and processed data.
+- Use folder and file naming conventions to help you distinguish clearly between the raw and processed data.
 <br>
 
 ## *Key question: What units will the data be collected in?*
-- In most research fields, **numbers mean nothing without units**. Therefore, it's important to include International System of Units (SI units) of the modern metric system while you are collecting research data.  
+- In most research fields, **numbers mean nothing without units**. Therefore, it's important to include International System of Units (SI units) of the modern metric system while you are collecting research data.
+  
+- Be aware of **date formats** as these can differ internationally and lead to confusion. For example, what date is 01-02-20?
 
 - **Punctuation also matters!** For example, some programming platforms cannot accurately read commas as a decimal separator. You can imagine what a headache it would create if you were trying to work with a very large dataset and had to replace every instance of a comma with a period. Therefore, it's good to be aware of it.
 <br>
