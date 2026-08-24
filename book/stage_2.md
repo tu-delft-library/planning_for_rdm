@@ -107,6 +107,7 @@ DANS, the Dutch national centre of expertise and repository for research data, e
 
 3. The file format is frequently used by researchers in general or within your research discipline.  
 
+*For more information about preferred file formats, visit <a href="https://dans.knaw.nl/en/file-formats/" target="_blank"> DANS' website.</a> 
 (DANS, 2025) 
 :::
 
