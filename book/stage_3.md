@@ -58,18 +58,20 @@ The researcher will also create a README file saved in .txt format, stored in th
 <br>
 
 ### Additional resources about documentation 
-To learn more about different types of documentation, visit these resources:  
+To learn more about different types of documentation, visit these resources and supporting tools:  
 
 - For more information about how to set up and use a digital lab notebook, visit the TU Delft Library's page on <a href="https://www.tudelft.nl/en/library/data-management/research-data-management/electronic-lab-notebook-for-research-data-management" target="_blank"> electronic lab notebooks for research data management. </a> 
 
-- To learn more about how to document the process of developing and prototyping software, visit the Digital Competency Center's <a href="https://www.tudelft.nl/en/library/data-management/research-data-management/electronic-lab-notebook-for-research-data-management" target="_blank"> guide for software documentation. </a>   
+- To learn more about how to document the process of developing and prototyping software, visit the Digital Competency Center's <a href="https://tu-delft-dcc.github.io/docs/software/documentation/" target="_blank"> guide for software documentation. </a>   
 
 - For a detailed overview of documentation strategies and best practices, see the University of Helsinki's publication <a href="https://zenodo.org/records/1914401" target="_blank">Making a research project understandable - Guide for data documentation. </a>
 
 ## *Key question: What are your planned file naming conventions and folder structure?* 
 At the **beginning of a project**, it’s helpful to determine an **FNC (File Naming Convention)**, or “file naming schema,” for each set of research data that you will gather, create, or store to work with. 
 
-Ideally, files are named and organised in a way that helps to document the process or sequence that you followed to gather the data. For example, file names can provide hints about why/how each piece of data is relevant by indicating the order in which the data were collected and/or the collection method. Effective file naming and documentation of file naming schema makes it easier to retrace your steps in a project when it’s time to analyse your results. And clear folder organisation and naming makes it easier to find everything quickly when it's time to write your report.  
+Ideally, files are named and organised in a way that helps to document the process or sequence that you followed to gather the data. For example, file names can provide hints about why/how each piece of data is relevant by indicating the order in which the data were collected and/or the collection method. Effective file naming and documentation of file naming schema makes it easier to retrace your steps in a project when it’s time to analyse your results. 
+
+Clear folder organisation and naming makes it easier to find everything quickly when it's time to write your report. A clearly defined folder structure also helps to distinguish between the research data and research objects generated during the different stages of your project. 
  
 ### Additional resources about file & folder naming 
 To dive into the topic of file and folder naming in more detail, see these additional resources:  
