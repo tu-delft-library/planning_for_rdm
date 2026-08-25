@@ -2,7 +2,7 @@
 
 <center>
 <img src="graphics/stage_1.jpg" alt="Stage 1 of the Research Project Cycle" style="width: 400px; height: auto;"/>
-<p style="font-size: x-small;"><em>Adapted from "Project Cycle" by Scriberia, The Turing Way Community, licensed under CC-BY-4.0.</em></p>
+<p style="font-size: x-small;"><em>Adapted from "Project Cycle" by Scriberia, <a href="http://doi.org/10.5281/zenodo.3332807" target="_blank"> The Turing Way Community </a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0" target="_blank"> CC BY 4.0</a></em></p> 
 </center>
 Before you can plan how you'll manage the research data for your project, you first need to define what data you'll actually be working with. The guiding questions for this stage you will help you to identify the research objects your project will involve. Also, they will help you to identify early on whether any of the data carries ethical or legal requirements, a key consideration since the approvals process may take extra time. 
 
