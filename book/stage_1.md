@@ -98,7 +98,7 @@ Some data are marked with a Creative Commons (CC) designation. This indicates th
 
 <center>
 <img src="graphics/Creative_Commons_Licenses.jpg" alt="Creative Commons Licenses" style="width: 500px; height: auto;"/>
-<p style="font-size: x-small;"><em>“Creative Commons: The Ultimate Guide” by foter.com is licensed under CC-BY-SA </em></p>
+ <p style="font-size: x-small;"><em>"Creative Commons: The Ultimate Guide" by <a href="https://foter.com/blog/how-to-attribute-creative-commons-photos/" target="_blank"> foter.com </a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en" target="_blank"> CC-BY-SA</a></em></p> 
 </center>
 
 
