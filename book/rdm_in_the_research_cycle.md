@@ -72,7 +72,7 @@ Define which research objects and research data you'll be working with, and eval
   </tr>
 
   <tr style="background-color: #f9f9f9;">
-    <td style="border: 1px solid black; width: 25%;">graphics/stage2_numbered.jpg</td>
+    <td style="border: 1px solid black; width: 25%;">graphics/stage_2_numbered.jpg</td>
     <td style="border: 1px solid black;">
     Determine where the research data will be stored and in what format(s).  
     <br>
@@ -80,7 +80,7 @@ Define which research objects and research data you'll be working with, and eval
   </tr>
 
   <tr style="background-color: #f9f9f9;">
-    <td style="border: 1px solid black; width: 25%;">graphics/stage3_numbered.jpg</td>
+    <td style="border: 1px solid black; width: 25%;">graphics/stage_3_numbered.jpg</td>
     <td style="border: 1px solid black;">
      Document your research methods; carefully name and organise research artefacts throughout data collection. 
     <br>
@@ -89,7 +89,7 @@ Define which research objects and research data you'll be working with, and eval
   </tr>
 
   <tr style="background-color: #f9f9f9;">
-    <td style="border: 1px solid black; width: 25%;">graphics/stage4_numbered.jpg</td>
+    <td style="border: 1px solid black; width: 25%;">graphics/stage_4_numbered.jpg</td>
     <td style="border: 1px solid black;">
     Maintain a clear link between the research data, your analyses, and your results.
      <br>
@@ -97,7 +97,7 @@ Define which research objects and research data you'll be working with, and eval
   </tr>
 
   <tr style="background-color: #f9f9f9;">
-    <td style="border: 1px solid black; width: 25%;">graphics/stage5_numbered.jpg</td>
+    <td style="border: 1px solid black; width: 25%;">graphics/stage_5_numbered.jpg</td>
     <td style="border: 1px solid black;">
      Determine what will happen to the research data after the project is complete.  
     <br>
