@@ -61,7 +61,7 @@ From start to finish, from a data management perspective, your thesis project wi
 <img src="graphics/Research_cycle_graphic_edited.jpg" alt="Research Project Cycle in 5 steps" style="width: 600px; height: auto;"/>
 <p style="font-size: x-small;"><em>Adapted from "Project Cycle" by Scriberia, <a href="http://doi.org/10.5281/zenodo.3332807" target="_blank"> The Turing Way Community </a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0" target="_blank"> CC BY 4.0</a></em></p> 
 </center>
-<p style="font-size: x-small;"><em>"Data Management Plan" by Scriberia, 
+
 To effectively manage the research data for your project, you will need to form a plan for each stage: 
 
 - **Stage 1:** Define which research objects and research data you'll be working with, and evaluate in advance whether the data require ethical or legal approvals.  
