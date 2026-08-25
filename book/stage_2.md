@@ -94,7 +94,8 @@ This is an overview of recommended storage platforms for master’s students at 
 - Floating on your personal computer without backups to the TU Delft server.
   
 
-## *Key question: In which file format(s) will the data be saved?*
+## Format
+> _**Key question:** In which file format(s) will the data be saved?_
 Carefully planning ahead for file formats helps to ensure:  
 - **Ample storage:** By thinking ahead, you’ll be able to plan enough storage for the data. For example, a collection of mp4s or a large series of high-resolution images may require significant storage space.
 - **Interoperability:** This means that other people can open the data files across different digital platforms. For example, an image saved in .psd format can only be opened by someone who has a license to Photoshop, but an image saved as a .jpg is interoperable because it can generally be opened across platforms. Interoperability should be a goal, but only if the data fits the requirements to be openly shared: legal and ethical guidelines sometimes limit or prohibit the open sharing of certain categories of personal, proprietary, or copyrighted data.
