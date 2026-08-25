@@ -9,7 +9,8 @@ Once you know what data you'll be working with, the next decisions are where the
 
 
 
-## *Key question: Where will the data be stored?* 
+## Data storage
+> _**Key question:** Where will the data be stored?_
 
 By intentionally planning for storage, you can safeguard your research project against data disasters.   
   
@@ -118,14 +119,14 @@ DANS, the Dutch national centre of expertise and repository for research data, e
 
 This graphic shows general examples of data formats researchers often use (you can click on the image to enlarge it). We recommend asking your supervisor to help you identify the standard file formats used in your particular field of research: 
   
-:::{figure} graphics/file_formats (1).jpg
+:::{figure} graphics/file_formats.jpg
 :alt: Types of Research Data we can help to organise and share.
 :width: 400px
 
 "Types of research data and related file formats" by TU Delft Library- Education Support is licensed under  CC BY 4.0/ A derivative of the  original work.
 :::
 
-## Stage 2: Check your understanding 
+## Check your understanding 
 Check your understanding of key ideas in Stage 2: Planning for Research Data & Design by answering these quiz questions: 
   
 ```{h5p} https://tudelft.h5p.com/content/1292947761719805577

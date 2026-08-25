@@ -7,7 +7,8 @@ Adapted from "Project Cycle" by Scriberia, The Turing Way Community, licensed un
 :::
 The guiding questions for this stage focus on protecting the raw data, keeping units and formats consistent, and maintaining a clear, reproducible link between the research data, your analysis, and your results. 
 
-## *Key question: How will you distinguish between raw vs. processed data?*
+## Data management
+> _**Key question:** How will you distinguish between raw vs. processed data?_
 
 It's recommended to save the **raw data** for your project **in one folder** and the **processed data in another, separate folder**. That way, nobody can accidentally alter or delete the raw data. Some key best practices include: 
 
@@ -16,7 +17,8 @@ It's recommended to save the **raw data** for your project **in one folder** and
 - Use folder and file naming conventions to help you distinguish clearly between the raw and processed data.
   
 
-## *Key question: What units will the data be collected in?*
+## Units
+> _**Key question:** What units will the data be collected in?_
 - In most research fields, **numbers mean nothing without units**. Therefore, it's important to include International System of Units (SI units) of the modern metric system while you are collecting research data.
   
 - Be aware of **date formats** as these can differ internationally and lead to confusion. For example, what date is 01-02-20?
@@ -24,7 +26,8 @@ It's recommended to save the **raw data** for your project **in one folder** and
 - **Punctuation also matters!** For example, some programming platforms cannot accurately read commas as a decimal separator. You can imagine what a headache it would create if you were trying to work with a very large dataset and had to replace every instance of a comma with a period. Therefore, it's good to be aware of it.
   
 
-## *Key question: How will you maintain a clear link between the data, your analysis method, and your results?*
+## Linking data and results
+> _**Key question:** How will you maintain a clear link between the data, your analysis method, and your results?_
 
 To ensure a reproducible and transparent research workflow, you will need to be able to show which data (collected under which conditions) you analysed, and in which ways. And you'll need to be able to point back to which analyses led to each result/finding that you include in your final report. This means that in addition to documenting the specific conditions under which the data was collected, you need to **provide documentation for your process of analysis**. Your supervisor should be able to follow what you plotted in your report back to the documentation for processing, then back to the raw datasets that were used. For example, if you included a figure in your report, you should provide access to the original file(s) used to make that figure (e.g. in a folder of supporting research objects).    
 
@@ -83,7 +86,8 @@ The **TU Delft Starter Kit** lets you integrate your analysis, documentation, an
   
 *Note: The TU Delft Starter Kit is in project form.
 
-## *Key question: How will you reduce risks of data leaks?*
+## Reducing data leaks
+> _**Key question:** How will you reduce risks of data leaks?_
 
 While working with research data, you should take the following extra safety precautions: 
 :::{card} 
@@ -104,7 +108,7 @@ While working with research data, you should take the following extra safety pre
 (Li et al., 2025a)
 :::
 
-## Stage 4: Check your Understanding 
+## Check your Understanding 
 
 Check your understanding of key ideas in Stage 4: Planning for Data Processing & Analysis by answering these quiz questions: 
   

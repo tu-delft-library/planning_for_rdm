@@ -7,7 +7,8 @@ Adapted from "Project Cycle" by Scriberia, The Turing Way Community, licensed un
 :::
 The guiding questions for this stage turn to the collection process itself: describing your methods clearly, documenting your work as you go, and keeping files, folders, and code organised and traceable. 
 
-## *Key question: How will the data be collected?* 
+## Data collection
+> _**Key question:** How will the data be collected?*_
 
 Before starting your project, you should be able to explain your intended methods step-by-step and in detail to someone who knows nothing about your project or topic. Helpful strategies to help create a strong description of your research methods include:   
 
@@ -23,7 +24,8 @@ Here are two examples of weak vs. strong descriptions of methods:
 | I will collect data through interviews with students about their study experience. | I will conduct semi-structured interviews with 8–10 master's students from [programme]. Participants will be recruited through a course announcement and invited by email. Each interview will last about 30–45 minutes and follow an interview guide with questions about study workload, supervision, and use of university support services. Interviews will be conducted via Teams, audio-recorded with consent, and automatically transcribed. I will check each transcript manually for errors and remove names or other personally identifying details before analysis. |
 
 
-## *Key question: How will you document your research methods?* 
+## Document research methods
+> _**Key question:** How will you document your research methods?_ 
 
 :::{card} Data Documentation 
 
@@ -68,7 +70,8 @@ To learn more about different types of documentation, visit these resources and 
 
 - For a detailed overview of documentation strategies and best practices, see the University of Helsinki's publication [Making a research project understandable - Guide for data documentation.](https://zenodo.org/records/1914401)
 
-## *Key question: What are your planned file naming conventions and folder structure?* 
+## Name conventions
+> _**Key question:** What are your planned file naming conventions and folder structure?_
 At the **beginning of a project**, it’s helpful to determine an **FNC (File Naming Convention)**, or “file naming schema,” for each set of research data that you will gather, create, or store to work with. 
 
 Ideally, files are named and organised in a way that helps to document the process or sequence that you followed to gather the data. For example, file names can provide hints about why/how each piece of data is relevant by indicating the order in which the data were collected and/or the collection method. Effective file naming and documentation of file naming schema makes it easier to retrace your steps in a project when it’s time to analyse your results. 
@@ -83,7 +86,8 @@ To dive into the topic of file and folder naming in more detail, see these addit
 - This guide from Stanford University describes best practices for file naming and includes case studies: [Data Best Practices.](https://guides.library.stanford.edu/data-best-practices/)   
 
 
-## *Guiding question: How will you do version control for code and software?* 
+## Version control
+> _**Guiding question:** How will you do version control for code and software?_
 Version control of code and software refers to tracking changes and being able to return to previous versions. This way, you can see what you have done at each step, record the process of your work, and if the latest version goes wrong you can go back to previous steps.   
 
 Use Git as a version control system that allows you to collaborate and share your code (e.g. GitHub, GitLab, Codeberg).  
@@ -96,7 +100,7 @@ Use Git as a version control system that allows you to collaborate and share you
 
 - [Digital Competency Centre Guide to Git](https://tu-delft-dcc.github.io/docs/software/development_workflow/)  
 
-## Stage 3: Check your understanding
+## Check your understanding
  
 Check your understanding of key ideas in Stage 3: Planning for Data Collection by answering these quiz questions: 
   

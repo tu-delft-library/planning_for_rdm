@@ -22,10 +22,12 @@
 
 As your project wraps up, the guiding questions for this final stage focus on what happens to the research data next: what should be shared, archived, or deleted, how to document it for others, where it should live long-term, and how it should be licensed.
 
-## *Key question: Which project data can be shared publicly, archived internally, or deleted?* 
+## Sharing data
+> _**Key question:** Which project data can be shared publicly, archived internally, or deleted?_ 
 Your plan for the project data should be based on conversations with your supervisor: we encourage you to confirm with your supervisor what should be kept, deleted and published. 
 
-## *Key question: What supporting documents are necessary to make the data and code understandable and re-usable by others?*
+## README
+> _**Key question:** What supporting documents are necessary to make the data and code understandable and re-usable by others?_
 
 The supporting documentation should provide enough context for others to understand, verify, and re-use the research data and code. This includes clear descriptions of the dataset, variables, file organization, data collection and processing methods, code functionality, software and package requirements, and instructions for reproducing the analysis.
 
@@ -42,7 +44,8 @@ Examples:
 - If you used an **internally-developed AI tool**, your report should explicitly describe the AI model, including its name and version, source (if publicly available), key properties and capabilities, training data (where known), intended purpose, and any important limitations. The report should also explain how the tool was used in the research, including the inputs provided, outputs generated, parameter settings or configurations, any fine-tuning or customizations, validation methods, and the extent of human oversight. This documentation enables others to understand, evaluate, and, where possible, reproduce the role of the AI tool in the research process.
 
 
-## *Key questions: Which repository is appropriate for long-term storage? Where will the research data and code for your project be saved after you complete your final report?*
+## Data storage after project
+> _**Key questions:** Which repository is appropriate for long-term storage? Where will the research data and code for your project be saved after you complete your final report?_
 
 Some MSc students contribute to scientific publications. If this is you, you need to archive the research data and code from your project in a **repository** at the latest by the time the research publication is published (unless the data/code  cannot be shared due to ethical or legal limitations). A repository is a storage platform that serves as a central location for preserving and sharing research objects (data, code, methods) so others can re-use these. Discuss with your supervisor whether you should upload the data/code to a repository at the end of your master project, or whether you should hand your supervisor the data/code so that they can upload the data once the paper is published. This approach can prevent others from scooping your findings.  
 
@@ -85,7 +88,8 @@ Even if you share your code in public Git repositories, you should also archive 
 When you upload the data/code to a repository, you'll be prompted to add metadata. **Metadata is information about the data** set(s) you've uploaded, such as provenance (where/who the data came from) and key characteristics like size and format. Metadata is formatted so that it is machine-readable meaning repositories and search engines can automatically index, catalogue, and surface your dataset — making it easier for others (and your future self) to find and understand it without opening the file itself.. Adding complete metadata **increases the findability** of the datasets.   
   
 
-## *Key question: How will you license the data collected for your project?*
+## Licensing
+> _**Key question:** How will you license the data collected for your project?_
 This question is particularly applicable for students who are generating code as part of their projects. MSc students at TU Delft are owners of the research data for their projects and their code, unless they sign a statement giving away their ownership. Make sure your code has a clear license and mark this license in your Git environment. If you are doing an internship or collaboration with a company, you need to verify whether you have permission to copyright the data by checking your graduation agreement. 
 
 
@@ -99,7 +103,7 @@ This question is particularly applicable for students who are generating code as
 
 - TU Delft Library Copyright Checkpoint: [As a student, I want to choose a license for my multimedia/student paper, thesis, data, etc.](https://www.tudelft.nl/library/support/copyright/student-copyright-answers#c1118723)
 
-## Stage 5: Check your understanding
+## Check your understanding
 Check your understanding of key ideas in Stage 5: Planning for Data Publishing, Preservation & Re-Use by answering these quiz questions: 
   
 ```{h5p} https://tudelft.h5p.com/content/1292956548357730237
