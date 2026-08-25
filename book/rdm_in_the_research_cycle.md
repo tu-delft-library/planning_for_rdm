@@ -55,9 +55,9 @@ We hope that by following this mini-module you will begin to internalize habits 
 
 ## The Research Project Cycle
 
-This mini-module is structured based on the 5 stages of the research project cycle: from start to finish, research data management for a project generally involves 5 key stages. Researchers ask themselves a series of guiding questions to anticipate and plan what will happen to the data in each stage. These 5 stages of the research project cycle are shown in the table below. 
+This mini-module is structured based the 5 stages of the research project cycle. During the planning phase of a project, researchers ask themselves a series of guiding questions to anticipate and plan what will happen to the data in each stage. The 5 stages of the research project cycle are shown in the table below (still revising this piece): 
 
-
+[NEED TO ASK FOR HELP RESIZING THE IMAGES IN THIS TABLE]
 <table style="border-collapse: collapse; width: 100%;">
   <tr style="background-color: #f2f2f2;">
     <th style="border: 1px solid black;">Stage of Research Project Cycle</th>
@@ -111,10 +111,12 @@ Define which research objects and research data you'll be working with, and eval
 </table>
 <br>
 
+This mini-module will guide you through key questions and considerations at each stage of the research process. The guiding questions align closely to all of the core elements that you would find in a data management plan template. A **data management plan** or **DMP** is a formal written plan that explains what will happen with the research data for a project from start to finish (and afterwards). There are a variety of DMP templates. For example, there are specific DMP templates provided by funders and institution-specific formats such as [TU Delft's DMP template](graphics/TU_Delft_Data_Management_Plan_template_2025_v5.pdf). Some academic programs require students to develop a written DMP in preparation for their master's thesis projects. Many funders require researchers to write and update a DMP to qualify for grants. A DMP is a required element at TU Delft when applying for ethics approval to collect human research data (we'll discuss this further in the next section of this mini-module, titled <a href="https://tu-delft-library.github.io/planning_for_rdm/main/stage_1.html#personal-data" target="_blank"> "Planning for Stage 1: Research Ideas</a>). Although DMP templates can be formatted and ordered differently, they all address core elements of the research project cycle. 
+
+- If you're required to write a DMP as part of your master's thesis project: our goal is to activate your thinking and planning process so it's easier to fill out the DMP template.
+- If you're not required to write a formal DMP: our goal is to help you to consider in advance what you will do with research data so that you're prepared for each stage of your project.  
 
 
-
-A **data management plan** or **DMP** is a formal written plan that explains what will happen with the research data for a project from start to finish and beyond. There are a variety of DMP templates. For example, there are specific DMP templates provided by funders and institution-specific formats such as [TU Delft's DMP template](graphics/TU_Delft_Data_Management_Plan_template_2025_v5.pdf). Some academic programs require students to develop a written DMP in preparation for their master's thesis projects. Many funders require researchers to write and update a DMP to qualify for grants. A DMP is a required element at TU Delft when applying for ethics approval to collect human research data (we'll discuss this further in the next section of this mini-module, titled <a href="https://tu-delft-library.github.io/planning_for_rdm/main/stage_1.html#personal-data" target="_blank"> "Planning for Stage 1: Research Ideas</a>). Even if you are not required to write a formal DMP, it is very helpful to map out in advance what you intend to do with research data during each stage of the project cycle. This mini-module will guide you through key questions and considerations at each stage of the research process. We will provide guiding questions and explain how to plan for research data at each stage of the project cycle. 
 
 <br>
 
