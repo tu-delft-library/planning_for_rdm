@@ -57,32 +57,6 @@ We hope that by following this mini-module you will begin to internalize habits 
 
 From start to finish, from a data management perspective, your thesis project will likely involve 5 key stages, as shown in this graphic for a typical research project cycle:  
 
-<!-- Stage 1 -->
-<img src="graphics/stage_1_numbered.jpg"
-     alt="Stage 1 of the Research Project Cycle"
-     style="width: 300px; height: auto;"/>
-
-<!-- Stage 2 -->
-<img src="graphics/stage_2_numbered.jpg"
-     alt="Stage 2 of the Research Project Cycle"
-     style="width: 300px; height: auto;"/>
-
-<!-- Stage 3 -->
-<img src="graphics/stage_3_numbered.jpg"
-     alt="Stage 3 of the Research Project Cycle"
-     style="width: 300px; height: auto;"/>
-
-<!-- Stage 4 -->
-<img src="graphics/stage_4_numbered.jpg"
-     alt="Stage 4 of the Research Project Cycle"
-     style="width: 450px; height: auto;"/>
-
-<!-- Stage 5 -->
-<img src="graphics/stage_5_numbered.jpg"
-     alt="Stage 5 of the Research Project Cycle"
-     style="width: 450px; height: auto;"/>
-
-
 <table style="border-collapse: collapse; width: 100%;">
   <tr style="background-color: #f2f2f2;">
     <th style="border: 1px solid black;">Stage of Research Project Cycle</th>
@@ -91,7 +65,7 @@ From start to finish, from a data management perspective, your thesis project wi
 
   <tr style="background-color: #f9f9f9;">
     <td style="border: 1px solid black;">
-     <img src="graphics/stage_1_numbered.jpg" alt="Stage 1 of the Research Project Cycle" style="width: 100px; height: auto;"/></td>
+     <img src="graphics/stage_1_numbered.jpg" alt="Stage 1 of the Research Project Cycle" style="width: 300px; height: auto;"/></td>
     <td style="border: 1px solid black;">
 Define which research objects and research data you'll be working with, and evaluate in advance whether the data require ethical or legal approvals.  
      <br>
@@ -100,7 +74,7 @@ Define which research objects and research data you'll be working with, and eval
 
   <tr style="background-color: #f9f9f9;">
     <td style="border: 1px solid black;">
-    <img src="graphics/stage_2_numbered.jpg" alt="Stage 2 of the Research Project Cycle" style="width: 100px; height: auto;"/></td>
+    <img src="graphics/stage_2_numbered.jpg" alt="Stage 2 of the Research Project Cycle" style="width: 300px; height: auto;"/></td>
     <td style="border: 1px solid black;">
     Determine where the research data will be stored and in what format(s).  
     <br>
@@ -109,7 +83,7 @@ Define which research objects and research data you'll be working with, and eval
 
   <tr style="background-color: #f9f9f9;">
     <td style="border: 1px solid black;">
-      <img src="graphics/stage_3_numbered.jpg" alt="Stage 3 of the Research Project Cycle" style="width: 100px; height: auto;"/></td>
+      <img src="graphics/stage_3_numbered.jpg" alt="Stage 3 of the Research Project Cycle" style="width: 300px; height: auto;"/></td>
     <td style="border: 1px solid black;">
      Document your research methods; carefully name and organise research artefacts throughout data collection. 
     <br> 
@@ -118,7 +92,7 @@ Define which research objects and research data you'll be working with, and eval
 
   <tr style="background-color: #f9f9f9;">
     <td style="border: 1px solid black;">
-      <img src="graphics/stage_4_numbered.jpg" alt="Stage 4 of the Research Project Cycle" style="width: 200px; height: auto;"/></td>
+      <img src="graphics/stage_4_numbered.jpg" alt="Stage 4 of the Research Project Cycle" style="width: 400px; height: auto;"/></td>
     <td style="border: 1px solid black;">
     Maintain a clear link between the research data, your analyses, and your results.
      <br>
@@ -127,7 +101,7 @@ Define which research objects and research data you'll be working with, and eval
 
   <tr style="background-color: #f9f9f9;">
     <td style="border: 1px solid black;">
-     <img src="graphics/stage_5_numbered.jpg" alt="Stage 5 of the Research Project Cycle" style="width: 300px; height: auto;"/></td>
+     <img src="graphics/stage_5_numbered.jpg" alt="Stage 5 of the Research Project Cycle" style="width: 400px; height: auto;"/></td>
     <td style="border: 1px solid black;">
      Determine what will happen to the research data after the project is complete.  
     <br>
