@@ -1,8 +1,10 @@
-# Planning for Stage 3: Data Collection 
-<center>
-<img src="graphics/stage_3.jpg" alt="Stage 2 of the Research Project Cycle" style="width: 400px; height: auto;"/>
-<p style="font-size: x-small;"><em>Adapted from "Project Cycle" by Scriberia, The Turing Way Community, licensed under CC-BY-4.0.</em></p>
-</center>
+# Stage 3: Data Collection 
+:::{figure} graphics/stage_3.jpg
+:alt: Stage 2 of the Research Project Cycle
+:width: 400px
+
+Adapted from "Project Cycle" by Scriberia, The Turing Way Community, licensed under CC-BY-4.0.
+:::
 The guiding questions for this stage turn to the collection process itself: describing your methods clearly, documenting your work as you go, and keeping files, folders, and code organised and traceable. 
 
 ## *Key question: How will the data be collected?* 
@@ -30,7 +32,7 @@ Data documentation refers to providing sufficient information that someone (your
 
 
 Data documentation gives relevant details about the exact process by which you collected the data. Researchers document their methods or workflow on paper (e.g. paper lab notebook) or digitally (e.g. code notes or digital lab notebook). Common documentation practices can vary based on the scientific field.  
-<br>
+  
 
 Documentation strategies include:  
 
@@ -43,7 +45,7 @@ Documentation strategies include:
 ```{admonition} Scenario: Data dictionary & README documentation 
 :class: tip
 A researcher plans to survey a group of people about their mental health experiences during remote work. Participants’ raw responses will be organised in table in a csv file. The researcher will create a data dictionary for the table with the interview response data. The data dictionary will define each variable (e.g., participant ID, age group, survey scale scores, response categories).
-<br>
+  
 The researcher will also create a README file saved in .txt format, stored in the same folder as the anonymised data. The README file will describe:  
 - The research context and objectives of the study
 - The folder and file structure, explaining the role of each file
@@ -55,16 +57,16 @@ The researcher will also create a README file saved in .txt format, stored in th
 - Licensing and access conditions for reuse
 - Contact details of the data owner or responsible researcher   
 ```
-<br>
+  
 
 ### Additional resources about documentation 
 To learn more about different types of documentation, visit these resources and supporting tools:  
 
-- For more information about how to set up and use a digital lab notebook, visit the TU Delft Library's page on <a href="https://www.tudelft.nl/en/library/data-management/research-data-management/electronic-lab-notebook-for-research-data-management" target="_blank"> electronic lab notebooks for research data management. </a> 
+- For more information about how to set up and use a digital lab notebook, visit the TU Delft Library's page on [electronic lab notebooks for research data management.](https://www.tudelft.nl/en/library/data-management/research-data-management/electronic-lab-notebook-for-research-data-management) 
 
-- To learn more about how to document the process of developing and prototyping software, visit the Digital Competency Center's <a href="https://tu-delft-dcc.github.io/docs/software/documentation/" target="_blank"> guide for software documentation. </a>   
+- To learn more about how to document the process of developing and prototyping software, visit the Digital Competency Center's [guide for software documentation.](https://tu-delft-dcc.github.io/docs/software/documentation/)   
 
-- For a detailed overview of documentation strategies and best practices, see the University of Helsinki's publication <a href="https://zenodo.org/records/1914401" target="_blank">Making a research project understandable - Guide for data documentation. </a>
+- For a detailed overview of documentation strategies and best practices, see the University of Helsinki's publication [Making a research project understandable - Guide for data documentation.](https://zenodo.org/records/1914401)
 
 ## *Key question: What are your planned file naming conventions and folder structure?* 
 At the **beginning of a project**, it’s helpful to determine an **FNC (File Naming Convention)**, or “file naming schema,” for each set of research data that you will gather, create, or store to work with. 
@@ -76,9 +78,9 @@ Clear folder organisation and naming makes it easier to find everything quickly 
 ### Additional resources about file & folder naming 
 To dive into the topic of file and folder naming in more detail, see these additional resources:  
 
-- For more detailed recommendations and examples of file naming conventions and folder structures, see the mini-module <a href="https://teachbooks.io/files-and-folders/EN/part1/part1.html" target="_blank"> File Naming and Folder Organisation. </a> 
+- For more detailed recommendations and examples of file naming conventions and folder structures, see the mini-module [File Naming and Folder Organisation.](https://teachbooks.io/files-and-folders/EN/part1/part1.html) 
 
-- This guide from Stanford University describes best practices for file naming and includes case studies: <a href="https://guides.library.stanford.edu/data-best-practices/" target="_blank"> Data Best Practices. </a>   
+- This guide from Stanford University describes best practices for file naming and includes case studies: [Data Best Practices.](https://guides.library.stanford.edu/data-best-practices/)   
 
 
 ## *Guiding question: How will you do version control for code and software?* 
@@ -88,17 +90,17 @@ Use Git as a version control system that allows you to collaborate and share you
 
 ### Additional resources about version control using Git 
 
-- <a href="https://www.atlassian.com/git" target="_blank"> Getting Git Right </a>  
+- [Getting Git Right](https://www.atlassian.com/git)  
 
-- <a href="https://tu-delft-dcc.github.io/docs/software/getting_started.html" target="_blank"> Getting Started with Git </a>  
+- [Getting Started with Git](https://tu-delft-dcc.github.io/docs/software/getting_started.html)  
 
-- <a href="https://tu-delft-dcc.github.io/docs/software/development_workflow/" target="_blank"> Digital Competency Centre Guide to Git </a>  
+- [Digital Competency Centre Guide to Git](https://tu-delft-dcc.github.io/docs/software/development_workflow/)  
 
 ## Stage 3: Check your understanding
  
 Check your understanding of key ideas in Stage 3: Planning for Data Collection by answering these quiz questions: 
-<br>
+  
 ```{h5p} https://tudelft.h5p.com/content/1292956547499671277
 ```
-<br>
+  
 

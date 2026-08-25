@@ -1,4 +1,4 @@
-# Planning for Stage 5: Data Publishing & Access, Preservation & Re-use 
+# Stage 5: Data Publishing & Access, Preservation & Re-use 
 
 <div style="display: flex; gap: 20px; align-items: flex-start;">
 
@@ -52,20 +52,20 @@ Even if you do not contribute to scientific publications, you can share the data
 ### General repositories
 You can save the research data and code for your project in one of these general (not field or discipline-specific) open repositories:   
 
-- <a href="https://zenodo.org/" target="_blank"> Zenodo</a>
+- [Zenodo](https://zenodo.org/)
 
-- <a href="https://community.data.4tu.nl/" target="_blank"> 4TU.ResearchData</a>
+- [4TU.ResearchData](https://community.data.4tu.nl/)
 
-- <a href="https://dans.knaw.nl/en/" target="_blank"> DANS</a>
+- [DANS](https://dans.knaw.nl/en/)
 
 ### Field-specific repositories
 You can use these repository finders to find an open repository that is specific to your field of research:  
 
-- <a href="https://commons.datacite.org/repositories" target="_blank"> Commons.datacite.org</a>
+- [Commons.datacite.org](https://commons.datacite.org/repositories)
 
-- <a href="https://fairsharing.org/" target="_blank"> Fairsharing.org</a>
+- [Fairsharing.org](https://fairsharing.org/)
 
-- <a href="https://www.re3data.org/" target="_blank"> Re3data.org</a>
+- [Re3data.org](https://www.re3data.org/)
 
 ### DOI or another unique identifier 
 Whether you choose to save the data and code in a general or more specialized repository, check that the repository assigns a **digital object identifier (DOI) or other unique identifier** to the dataset/code that makes it more **findable**. Refer to the data set/code using the DOI or other unique identifier in your thesis (and publication, if applicable). This makes it easier for others to find the research data/code.  
@@ -91,20 +91,20 @@ This question is particularly applicable for students who are generating code as
 
 ### Additional resources for licensing  
 
-- We suggest that you refer back to section in this mini-module about <a href="https://tu-delft-library.github.io/planning_for_rdm/main/stage_1.html#copyrighted-data-intellectual-property" target="_blank"> Copyrighted Data </a>
+- We suggest that you refer back to section in this mini-module about [Copyrighted Data](https://tu-delft-library.github.io/planning_for_rdm/main/stage_1.html#copyrighted-data-intellectual-property)
 
-- <a href="https://foter.com/blog/how-to-attribute-creative-commons-photos/" target="_blank"> CC Licenses</a>
+- [CC Licenses](https://foter.com/blog/how-to-attribute-creative-commons-photos/)
 
-- <a href="https://tu-delft-dcc.github.io/docs/software/documentation/license.html" target="_blank"> TU Delft guide on software licensing</a>
+- [TU Delft guide on software licensing](https://tu-delft-dcc.github.io/docs/software/documentation/license.html)
 
-- TU Delft Library Copyright Checkpoint: <a href="https://www.tudelft.nl/library/support/copyright/student-copyright-answers#c1118723" target="_blank"> As a student, I want to choose a license for my multimedia/student paper, thesis, data, etc.</a>
+- TU Delft Library Copyright Checkpoint: [As a student, I want to choose a license for my multimedia/student paper, thesis, data, etc.](https://www.tudelft.nl/library/support/copyright/student-copyright-answers#c1118723)
 
 ## Stage 5: Check your understanding
 Check your understanding of key ideas in Stage 5: Planning for Data Publishing, Preservation & Re-Use by answering these quiz questions: 
-<br>
+  
 ```{h5p} https://tudelft.h5p.com/content/1292956548357730237
 ```
-<br>
+  
 
 
 
