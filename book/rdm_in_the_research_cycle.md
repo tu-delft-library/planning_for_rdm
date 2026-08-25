@@ -64,7 +64,7 @@ From start to finish, from a data management perspective, your thesis project wi
   </tr>
 
   <tr style="background-color: #f9f9f9;">
-    <td style="border: 1px solid black; width: 50%;">
+    <td style="border: 1px solid black; width: 70%;">
      <img src="graphics/stage_1_numbered.jpg" alt="Stage 1 of the Research Project Cycle" style="width: 300px; height: auto;"/></td>
     <td style="border: 1px solid black;">
 Define which research objects and research data you'll be working with, and evaluate in advance whether the data require ethical or legal approvals.  
@@ -73,7 +73,7 @@ Define which research objects and research data you'll be working with, and eval
   </tr>
 
   <tr style="background-color: #f9f9f9;">
-    <td style="border: 1px solid black; width: 50%;">
+    <td style="border: 1px solid black; width: 70%;">
     <img src="graphics/stage_2_numbered.jpg" alt="Stage 2 of the Research Project Cycle" style="width: 300px; height: auto;"/></td>
     <td style="border: 1px solid black;">
     Determine where the research data will be stored and in what format(s).  
@@ -82,7 +82,7 @@ Define which research objects and research data you'll be working with, and eval
   </tr>
 
   <tr style="background-color: #f9f9f9;">
-    <td style="border: 1px solid black; width: 50%;">
+    <td style="border: 1px solid black; width: 70%;">
       <img src="graphics/stage_3_numbered.jpg" alt="Stage 3 of the Research Project Cycle" style="width: 300px; height: auto;"/></td>
     <td style="border: 1px solid black;">
      Document your research methods; carefully name and organise research artefacts throughout data collection. 
@@ -91,7 +91,7 @@ Define which research objects and research data you'll be working with, and eval
   </tr>
 
   <tr style="background-color: #f9f9f9;">
-    <td style="border: 1px solid black; width: 50%;">
+    <td style="border: 1px solid black; width: 70%;">
       <img src="graphics/stage_4_numbered.jpg" alt="Stage 4 of the Research Project Cycle" style="width: 300px; height: auto;"/></td>
     <td style="border: 1px solid black;">
     Maintain a clear link between the research data, your analyses, and your results.
@@ -100,7 +100,7 @@ Define which research objects and research data you'll be working with, and eval
   </tr>
 
   <tr style="background-color: #f9f9f9;">
-    <td style="border: 1px solid black; width: 50%;">
+    <td style="border: 1px solid black; width: 70%;">
      <img src="graphics/stage_5_numbered.jpg" alt="Stage 5 of the Research Project Cycle" style="width: 300px; height: auto;"/></td>
     <td style="border: 1px solid black;">
      Determine what will happen to the research data after the project is complete.  
