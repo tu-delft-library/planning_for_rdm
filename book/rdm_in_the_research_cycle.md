@@ -38,7 +38,7 @@ Michel has taken time to recruit participants, booked precious time in the simul
 <br>
 
 ## Benefits of RDM 
-We hope that by following this mini-module you will internalize habits of RDM, thus avoid research setbacks like the four examples just described. As these examples demonstrate, there are good reasons to plan for research data management. The benefits for you include:   
+We hope that by following this mini-module you will begin to internalize habits of RDM, thus avoid research setbacks like the four examples just described. As these examples demonstrate, there are good reasons to plan for research data management. The benefits for you include:   
 
 - **increased efficiency** by mapping how you will organise, document and store the data for your project (kind of like getting all your ingredients and tools out before you start to cook something).  
 
@@ -56,6 +56,21 @@ We hope that by following this mini-module you will internalize habits of RDM, t
 ## The Research Project Cycle
 
 From start to finish, from a data management perspective, your thesis project will likely involve 5 key stages, as shown in this graphic for a typical research project cycle:  
+
+::::{grid-item-card} Stage 1
+:img-top: graphics/stage_1_numbered.jpg
+:img-alt:
+
+Header
+^^^
+Define which research objects and research data you'll be working with, and evaluate in advance whether the data require ethical or legal approvals.
++++
+Footer
+::::
+
+
+
+
 
 <center>
 <img src="graphics/Research_cycle_graphic_edited.jpg" alt="Research Project Cycle in 5 steps" style="width: 600px; height: auto;"/>
