@@ -17,7 +17,7 @@
 </div>
 
 <center>
-<p style="font-size: x-small;"><em>Adapted from "Project Cycle" by Scriberia, The Turing Way Community, licensed under CC-BY-4.0.</em></p>
+<p style="font-size: x-small;"><em>Adapted from "Project Cycle" by Scriberia, <a href="http://doi.org/10.5281/zenodo.3332807" target="_blank"> The Turing Way Community </a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0" target="_blank"> CC BY 4.0</a></em></p> 
 </center>
 
 As your project wraps up, the guiding questions for this final stage focus on what happens to the research data next: what should be shared, archived, or deleted, how to document it for others, where it should live long-term, and how it should be licensed.
