@@ -122,13 +122,13 @@ The guiding questions in the mini-module align closely to all of the core elemen
 - If you're **NOT REQUIRED to write a formal DMP**: our goal is to help you to consider in advance what you will do with the research data so that you're better organised and prepared for each stage of your project.  
 <br>
 
-## Download this checklist! 
+## Download this Planning for RDM Checklist! 
 
 Before you continue on to the next section, download this RDM checklist. It summarizes the key ideas and guiding questions in the mini-module: 
 :::{card} 
-[**Download the Checklist**](graphics/Checklist_v1.docx).
+[**Download the Checklist**](graphics/Checklist_v2.docx).
 :::
-The checklist is meant to accompany the mini-module so that you can use the guiding questions to plan RDM for your own project. If you will be filling out a formal DMP, this checklist will provide a space to brainstorm and possibly raise questions to ask your supervisor. If you are not going to fill out a formal DMP, this checklist will provide a guide to help you pre-plan the research data management for your thesis project. In either case, we suggest that you download and/or print out the checklist, jot notes in the margins, and bring it to planning discussions with your thesis supervisor. 
+The checklist is meant to accompany the mini-module so that you can use the guiding questions to plan RDM for your own project. If you will be filling out a formal DMP, this checklist will provide a space to brainstorm and possibly raise questions helpful to ask your supervisor. If you don't have to fill out a formal DMP, this checklist will provide a guide to help you pre-plan the research data management for your thesis project. In either case, we suggest that you download and/or print out the checklist, jot notes in the margins, and bring it to planning discussions with your thesis supervisor. 
 
 
 ## The Research Project Cycle: Check your understanding
