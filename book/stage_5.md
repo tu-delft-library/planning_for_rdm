@@ -91,7 +91,7 @@ This question is particularly applicable for students who are generating code as
 
 ### Additional resources for licensing  
 
-- We suggest that you refer back to section in this mini-module about <a href="https://tu-delft-library.github.io/planning_for_rdm/main/stage_1.html#copyrighted-data-intellectual-property" target="_blank"> Copyrighted Data </a>
+- We suggest that you refer back to section about <a href="https://tu-delft-library.github.io/planning_for_rdm/main/stage_1.html#copyrighted-data-intellectual-property" target="_blank"> Copyrighted Data </a> from this mini-module. 
 
 - <a href="https://foter.com/blog/how-to-attribute-creative-commons-photos/" target="_blank"> CC Licenses</a>
 
