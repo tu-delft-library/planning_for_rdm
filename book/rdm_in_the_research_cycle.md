@@ -55,21 +55,21 @@ We hope that by following this mini-module you will begin to internalize habits 
 
 ## The Research Project Cycle
 
-This mini-module is structured based the 5 stages of the research project cycle. Each stage has a series of guiding questions regarding research data management. In the planning phase of a project researchers ask themselves these guiding questions to anticipate and plan what they will do with the research data before, during, and after their project. The 5 stages of the research project cycle and an overview of the key questions for each stage are shown in the table below: 
+This mini-module is structured based the 5 stages of the research project cycle. Each stage has a series of guiding questions or considerations for research data management. In the planning phase of a project researchers ask themselves these guiding questions to anticipate and plan what they will do with the research data before, during, and after their project. The 5 stages of the research project cycle and an overview of the key considerations to plan for RDM are shown in the table below: 
 
 [NEED TO ASK FOR HELP RESIZING THE IMAGES IN THIS TABLE]
 <table style="border-collapse: collapse; width: 100%;">
   <tr style="background-color: #f2f2f2;">
     <th style="border: 1px solid black;">Stage of Research Project Cycle</th>
-    <th style="border: 1px solid black;">Guiding Questions for Planning RDM</th>
+    <th style="border: 1px solid black;">For RDM, need to consider:</th>
   </tr>
 
   <tr style="background-color: #f9f9f9;">
     <td style="border: 1px solid black;">
      <img src="graphics/stage_1_numbered.jpg" alt="Stage 1 of the Research Project Cycle" style="width: 300px; height: auto;"/></td>
     <td style="border: 1px solid black;">
-Which research objects and research data will you be working with? 
-Will the data require ethical or legal approvals?  
+Identify in advance the research objects and research data will you be working with. 
+Determine whether the data require ethical or legal approvals.  
      <br>
     </td>
   </tr>
@@ -78,8 +78,8 @@ Will the data require ethical or legal approvals?
     <td style="border: 1px solid black;">
     <img src="graphics/stage_2_numbered.jpg" alt="Stage 2 of the Research Project Cycle" style="width: 300px; height: auto;"/></td>
     <td style="border: 1px solid black;">
-   Where will the research data will be stored? 
-   In what format(s) will the data be saved?   
+   Plan ahead where will the research data will be stored.  
+  Plan what format(s) will the data be saved in.    
     <br>
     </td>
   </tr>
@@ -88,8 +88,8 @@ Will the data require ethical or legal approvals?
     <td style="border: 1px solid black;">
       <img src="graphics/stage_3_numbered.jpg" alt="Stage 3 of the Research Project Cycle" style="width: 300px; height: auto;"/></td>
     <td style="border: 1px solid black;">
-     How will you document your research methods?
-     What is your plan to name and organise research artefacts throughout data collection?  
+     Plan how you will you document your research methods. 
+     Plan how you will name and organise research artefacts throughout data collection.   
     <br> 
     </td>
   </tr>
@@ -98,7 +98,7 @@ Will the data require ethical or legal approvals?
     <td style="border: 1px solid black;">
       <img src="graphics/stage_4_numbered.jpg" alt="Stage 4 of the Research Project Cycle" style="width: 400px; height: auto;"/></td>
     <td style="border: 1px solid black;">
-    How will you maintain a clear link between the research data, your analyses, and your results? 
+    Plan how you will maintain a clear link between the research data, your analyses, and your results.  
      <br>
     </td>
   </tr>
@@ -107,7 +107,7 @@ Will the data require ethical or legal approvals?
     <td style="border: 1px solid black;">
      <img src="graphics/stage_5_numbered.jpg" alt="Stage 5 of the Research Project Cycle" style="width: 400px; height: auto;"/></td>
     <td style="border: 1px solid black;">
-     What will happen to the research data after the project is complete?  
+     Plan what will happen to the research data after the project is complete.   
     <br>
     </td>
   </tr>
