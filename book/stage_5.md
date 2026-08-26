@@ -77,7 +77,7 @@ Whether you choose to save the data and code in a general or more specialized re
 
  ### Sharing Code
 
-Even if you share your code in public Git repositories, you should also archive your code in a data repository (next to having it on the Git repository), and reference it in your thesis using the assigned DOI.  Why?  
+Even if you share your code in public Git repositories, you should also archive your code in a data repository (next to having it on the Git repository), and reference it in your thesis using the assigned DOI.  Reasons to do this include:   
 
 1. This keeps a snapshot of the code you used, so others can use exactly the same version as you did in your thesis.  
 
@@ -87,7 +87,7 @@ Even if you share your code in public Git repositories, you should also archive 
 
 ### Metadata
 
-When you upload the data/code to a repository, you'll be prompted to add metadata. **Metadata is information about the data** set(s) you've uploaded, such as provenance (where/who the data came from) and key characteristics like size and format. Metadata is formatted so that it is machine-readable meaning repositories and search engines can automatically index, catalogue, and surface your dataset — making it easier for others (and your future self) to find and understand it without opening the file itself.. Adding complete metadata **increases the findability** of the datasets.   
+When you upload the data/code to a repository, you'll be prompted to add metadata. **Metadata is information about the data** set(s) you've uploaded, such as *provenance* (where/who the data came from) and key characteristics like size and format. Metadata is formatted so that it is machine-readable. This means that repositories and search engines can automatically index, catalogue, and surface your dataset — making it easier for others (and your future self) to find and understand it without opening the file itself.. Adding complete metadata **increases the findability** of the datasets.   
   
 
 ## *Key question: How will you license the data collected for your project?*
