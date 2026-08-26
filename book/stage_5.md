@@ -41,6 +41,11 @@ Examples:
   
 - If you used an **internally-developed AI tool**, your report should explicitly describe the AI model, including its name and version, source (if publicly available), key properties and capabilities, training data (where known), intended purpose, and any important limitations. The report should also explain how the tool was used in the research, including the inputs provided, outputs generated, parameter settings or configurations, any fine-tuning or customizations, validation methods, and the extent of human oversight. This documentation enables others to understand, evaluate, and, where possible, reproduce the role of the AI tool in the research process.
 
+```{admonition} Important Note: 
+:class: warning
+Discuss with your supervisor if/what AI use is allowed for your respective program. We also suggest you visit this <a href="https://tu-delft-library.github.io/il-master-thesis-guide/main/5b-specifying-ai-use.html" target="_blank">IL Master Thesis Guide</a> which discusses more about how to specify AI use. 
+```
+
 
 ## *Key questions: Which repository is appropriate for long-term storage? Where will the research data and code for your project be saved after you complete your final report?*
 
