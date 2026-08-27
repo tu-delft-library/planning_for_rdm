@@ -10,7 +10,6 @@ parts:
   - file: rdm_in_the_research_cycle.md
 - caption: "RDM in the Research Cycle"
   chapters:
-    - file: stage_0.md
     - file: stage_1.md
     - file: stage_2.md
     - file: stage_3.md

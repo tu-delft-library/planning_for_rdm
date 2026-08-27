@@ -72,6 +72,7 @@ To learn more about different types of documentation, visit these resources and 
 
 ## Name conventions
 > _**Key question:** What are your planned file naming conventions and folder structure?_
+
 At the **beginning of a project**, it’s helpful to determine an **FNC (File Naming Convention)**, or “file naming schema,” for each set of research data that you will gather, create, or store to work with. 
 
 Ideally, files are named and organised in a way that helps to document the process or sequence that you followed to gather the data. For example, file names can provide hints about why/how each piece of data is relevant by indicating the order in which the data were collected and/or the collection method. Effective file naming and documentation of file naming schema makes it easier to retrace your steps in a project when it’s time to analyse your results. 
@@ -88,6 +89,7 @@ To dive into the topic of file and folder naming in more detail, see these addit
 
 ## Version control
 > _**Guiding question:** How will you do version control for code and software?_
+
 Version control of code and software refers to tracking changes and being able to return to previous versions. This way, you can see what you have done at each step, record the process of your work, and if the latest version goes wrong you can go back to previous steps.   
 
 Use Git as a version control system that allows you to collaborate and share your code (e.g. GitHub, GitLab, Codeberg).  

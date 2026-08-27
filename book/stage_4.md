@@ -81,10 +81,21 @@ Here are several tools that can be used to connect data analysis directly to the
 - [Jupyter Notebook Training](https://github.com/burkesquires/jupyter_training) 
   
 
-The **TU Delft Starter Kit** lets you integrate your analysis, documentation, and writing through Jupyter Book and Git, enabling seamless connections between code, results, and manuscript preparation. It also automatically generates a pdf of your thesis (via Latex). 
+
+
+## Transparency
+> __**Key question:** How can I be transparent about my analysis?_ 
+
+It is always good to be transparent of how you processed your data. One way to do this is using Jupyter Notebooks. A TU Delft project, [JBOSS](https://jboss.tudelft.nl), lets you integrate your analysis, documentation, and writing through Jupyter Book and Git, enabling seamless connections between code, results, and manuscript preparation. It allows you to write your thesis, including your analysis and present it as your final report - where it automatically generates a pdf of your thesis (via Latex). 
+
+```{video} https://www.youtube.com/embed/UDREanmF0qE?si=8nbp13aV3vXhg_x9
+```
+
 - [TU Delft Starter Kit Quickstart](https://tud-jb-os.github.io/starterkit/quickstart/) 
   
 *Note: The TU Delft Starter Kit is in project form.
+
+
 
 ## Reducing data leaks
 > _**Key question:** How will you reduce risks of data leaks?_

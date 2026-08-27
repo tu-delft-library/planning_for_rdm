@@ -1,30 +1,22 @@
 # Stage 5: Data Publishing & Access, Preservation & Re-use 
 
-<div style="display: flex; gap: 20px; align-items: flex-start;">
+````{grid}
+```{figure} graphics/stage_5a.jpg
+```
+```{figure} graphics/stage_5b.jpg
+```
+```{figure} graphics/stage_5c.jpg
+```
+Adapted from "Project Cycle" by Scriberia, The Turing Way Community, licensed under CC-BY-4.0.
+````
 
-  <div style="flex: 1; text-align: center;">
-    <img src="graphics/stage_5a.jpg" style="width: 100%;">
-  </div>
-
-  <div style="flex: 1; text-align: center;">
-    <img src="graphics/stage_5b.jpg" style="width: 100%;">
-  </div>
-
-  <div style="flex: 1; text-align: center;">
-    <img src="graphics/stage_5c.jpg" style="width: 100%;">
-  </div>
-
-</div>
-
-<center>
-<p style="font-size: x-small;"><em>Adapted from "Project Cycle" by Scriberia, The Turing Way Community, licensed under CC-BY-4.0.</em></p>
-</center>
 
 As your project wraps up, the guiding questions for this final stage focus on what happens to the research data next: what should be shared, archived, or deleted, how to document it for others, where it should live long-term, and how it should be licensed.
 
 ## Sharing data
 > _**Key question:** Which project data can be shared publicly, archived internally, or deleted?_ 
 Your plan for the project data should be based on conversations with your supervisor: we encourage you to confirm with your supervisor what should be kept, deleted and published. 
+
 
 ## README
 > _**Key question:** What supporting documents are necessary to make the data and code understandable and re-usable by others?_
