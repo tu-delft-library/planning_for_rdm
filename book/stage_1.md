@@ -123,11 +123,16 @@ Are you doing an internship with a company and (re-)using the company's data? Th
 <br> 
 
 ## Re-visit the Checklist 
-Open the checklist and add notes about your project under Stage 1: 
+
+```{admonition} Open the checklist and add notes about your project under Stage 1:  
+:class: tip
 - Write a detailed list of all the research objects (research data and supporting artefacts) that you plan to collect.
-- Add check marks on the checklist if you will be working with personal data, copyrighted data, or proprietary data.
+- Add check marks on the checklist to indicate if you will be working with personal data, copyrighted data, or proprietary data.
 - If the information is applicable to your project, add notes with key takeaways about personal data, copyrighted data, or proprietary data. 
--   
+- Indicate whether your project requires ethical approvals by checking the boxes. 
+```  
+
+  
 
 ## Stage 1: Check your understanding 
 Check your understanding of key ideas in Stage 1: Planning for Research Ideas by answering these quiz questions: 
