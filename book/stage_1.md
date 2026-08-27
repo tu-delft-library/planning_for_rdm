@@ -122,6 +122,11 @@ Are you doing an internship with a company and (re-)using the company's data? Th
  
 <br> 
 
+## Visit the Checklist 
+Under Stage 1 of the checklist, add notes about your specific project: 
+- write a detailed list of research objects that you will be collecting.
+- circle 
+
 ## Stage 1: Check your understanding 
 Check your understanding of key ideas in Stage 1: Planning for Research Ideas by answering these quiz questions: 
 <br>
