@@ -127,7 +127,7 @@ This graphic shows general examples of data formats researchers often use (you c
 - Add check marks in the checkboxes to indicate which storage solution(s) best fit your project.
 - Add details about which file formats will be used in your project. 
 - Indicate whether these file formats are interoperable by checking the boxes. 
-- Scan back through Section II of the mini-module. Add notes with key takeaways about storage options and/or formatting. Focus on capturing details that apply to your project.  
+- Scan back through Section II of the mini-module. Add notes with key takeaways about storage options and/or formatting. Focus on capturing the details that apply to your project.  
 ```  
 ## Stage 2: Check your understanding 
 Check your understanding of key ideas in Stage 2: Planning for Research Data & Design by answering these quiz questions: 
