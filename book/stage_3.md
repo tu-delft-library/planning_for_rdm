@@ -93,7 +93,18 @@ Use Git as a version control system that allows you to collaborate and share you
 
 - <a href="https://tu-delft-dcc.github.io/docs/software/getting_started.html" target="_blank"> Getting Started with Git </a>  
 
-- <a href="https://tu-delft-dcc.github.io/docs/software/development_workflow/" target="_blank"> Digital Competency Centre Guide to Git </a>  
+- <a href="https://tu-delft-dcc.github.io/docs/software/development_workflow/" target="_blank"> Digital Competency Centre Guide to Git </a>
+
+## Re-visit the Checklist 
+
+```{admonition} Open the checklist and add notes about your project under Stage 3:  
+:class: tip
+- Add details about your planned research methods: describe in detail how you will collect the data. 
+- Add details about which documentation strategies you plan to use. 
+- Add details about your planned file naming schema and folder structures. 
+- If applicable, describe how you will do version control.  
+- Scan back through Section III of the mini-module. Add notes with key takeaways about data collection and documentation. Focus on capturing the details that apply to your project.  
+``` 
 
 ## Stage 3: Check your understanding
  
