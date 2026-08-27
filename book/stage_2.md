@@ -119,6 +119,16 @@ This graphic shows general examples of data formats researchers often use (you c
 <p style="font-size: x-small;"><em>"Types of research data and related file formats" by TU Delft Library- Education Support is licensed under <a href="http://creativecommons.org/licenses/by/4.0" target="_blank"> CC BY 4.0</a>/ A derivative of the <a href="https://figshare.com/articles/figure/Types_of_Research_Data_-_Infographic/5883193/1" target="_blank"> original work</a>.</em></p>
 </center>
 
+## Re-visit the Checklist 
+
+```{admonition} Open the checklist and add notes about your project under Stage 2:  
+:class: tip
+- Add details about your project: amount of storage, sensitivity of the data, and collaborators.
+- Add check marks in the checkboxes to indicate which storage solution(s) best fit your project.
+- Add details about which file formats will be used in your project. 
+- Indicate whether these file formats are interoperable by checking the boxes. 
+- Scan back through Section II of the mini-module. Add notes with key takeaways about storage options and/or formatting. Focus on capturing details that apply to your project.  
+```  
 ## Stage 2: Check your understanding 
 Check your understanding of key ideas in Stage 2: Planning for Research Data & Design by answering these quiz questions: 
 <br>
