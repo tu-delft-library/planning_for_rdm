@@ -128,8 +128,8 @@ Are you doing an internship with a company and (re-)using the company's data? Th
 :class: tip
 - Write a detailed list of all the research objects (research data and supporting artefacts) that you plan to collect.
 - Add check marks in the checkboxes to indicate whether you will be working with personal data, copyrighted data, or proprietary data.
-- Scan back through Section I of the mini-module. Add notes with key takeaways about personal data, copyrighted data, or proprietary data, paying special attention to details that apply to your project. 
-- Indicate whether your project requires ethical approvals and whether the timing for this is feasible by checking the boxes. 
+- Indicate whether your project requires ethical approvals and whether the timing for this is feasible by checking the boxes.
+- Scan back through Section I of the mini-module. Add notes with key takeaways about personal data, copyrighted data, or proprietary data, paying special attention to the details that apply to your project. 
 ```  
 
   
