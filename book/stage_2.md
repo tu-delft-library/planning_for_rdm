@@ -8,15 +8,18 @@
 
 
 
-## *Key question: Where will the data be stored?* 
+## Data storage
+> _**Key question:** Where will the data be stored?_
 
 By intentionally planning for storage, you can safeguard your research project against data disasters.   
-<br>
-<center>
-<img src="graphics/DMP_storage.jpg" alt="Good thing I had a plan! The data is all backed up." style="width: 400px; height: auto;"/>
-<p style="font-size: x-small;"><em>"Data Management Plan" by Scriberia, <a href="http://doi.org/10.5281/zenodo.3332807" target="_blank"> The Turing Way Community </a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0" target="_blank"> CC BY 4.0</a></em></p>
-</center>
-<br>
+  
+:::{figure} graphics/DMP_storage.jpg
+:alt: Good thing I had a plan! The data is all backed up.
+:width: 400px
+
+"Data Management Plan" by Scriberia,  The Turing Way Community  is licensed under  CC BY 4.0
+:::
+  
 
 ### Storage criteria
 
@@ -33,7 +36,7 @@ Secure storage protects you against data loss and protects the research data fro
 - Will you need to share the data with **collaborators** during your project?  
 
 We recommend that you discuss where the data should be saved with your thesis supervisor during the planning phase of your thesis project. No matter which storage solution you use, you need to share the folder with your supervisor. 
-<br>
+  
 
 ### Storage solutions for MSc students at TU Delft:
 
@@ -48,7 +51,7 @@ This is an overview of recommended storage platforms for master’s students at 
 
 - Your OneDrive storage will be deleted once you are no longer part of TU Delft, make sure you transfer the data that you or your supervisor wants to keep at the end of the project, otherwise it will be deleted.
   
-- <a href="https://storagefinder.tudelft.nl/package/6/" target="_blank"> Learn more about OneDrive storage at TU Delft.</a>
+- [Learn more about OneDrive storage at TU Delft.](https://storagefinder.tudelft.nl/package/6/)
 :::
 
 :::{tab-item} Microsoft Teams
@@ -62,7 +65,7 @@ This is an overview of recommended storage platforms for master’s students at 
 
 - Your Sharepoint storage will be deleted once you are no longer part of TU Delft: make sure you transfer the data that you or your supervisor wants to keep at the end of the project, otherwise it will be deleted.
 
-- <a href="https://storagefinder.tudelft.nl/package/9/" target="_blank"> Learn more about Microsoft Teams at TU Delft.</a>
+- [Learn more about Microsoft Teams at TU Delft.](https://storagefinder.tudelft.nl/package/9/)
 :::
 
 :::{tab-item} Git
@@ -74,7 +77,7 @@ This is an overview of recommended storage platforms for master’s students at 
 :::{tab-item} Project Data Drive (U:) 
 - MSc thesis supervisors must request access to the SURF Drive on behalf of their students.
 
-- <a href="https://storagefinder.tudelft.nl/package/2/" target="_blank"> Learn more about the Project Data Drive at TU Delft.</a>
+- [Learn more about the Project Data Drive at TU Delft.](https://storagefinder.tudelft.nl/package/2/)
 ::: 
 
 :::{tab-item} Other 
@@ -89,9 +92,10 @@ This is an overview of recommended storage platforms for master’s students at 
 - Portable drives such as hard drives and thumb drives: it’s too easy for these to get lost or fall into the wrong hands.   
 
 - Floating on your personal computer without backups to the TU Delft server.
-<br>
+  
 
-## *Key question: In which file format(s) will the data be saved?*
+## Format
+> _**Key question:** In which file format(s) will the data be saved?_
 Carefully planning ahead for file formats helps to ensure:  
 - **Ample storage:** By thinking ahead, you’ll be able to plan enough storage for the data. For example, a collection of mp4s or a large series of high-resolution images may require significant storage space.
 - **Interoperability:** This means that other people can open the data files across different digital platforms. For example, an image saved in .psd format can only be opened by someone who has a license to Photoshop, but an image saved as a .jpg is interoperable because it can generally be opened across platforms. Interoperability should be a goal, but only if the data fits the requirements to be openly shared: legal and ethical guidelines sometimes limit or prohibit the open sharing of certain categories of personal, proprietary, or copyrighted data.
@@ -108,16 +112,15 @@ DANS, the Dutch national centre of expertise and repository for research data, e
 
 3. The file format is frequently used by researchers in general or within your research discipline.  
 
-*For more information about preferred file formats, visit <a href="https://dans.knaw.nl/en/file-formats/" target="_blank"> DANS' website.</a> 
+*For more information about preferred file formats, visit [DANS' website.](https://dans.knaw.nl/en/file-formats/) 
 (DANS, 2025) 
 :::
 
 This graphic shows general examples of data formats researchers often use (you can click on the image to enlarge it). We recommend asking your supervisor to help you identify the standard file formats used in your particular field of research: 
-<br>
-<center>
-<img src="graphics/file_formats (1).jpg" alt="Types of Research Data we can help to organise and share." style="width: 400px; height: auto;"/>
-<p style="font-size: x-small;"><em>"Types of research data and related file formats" by TU Delft Library- Education Support is licensed under <a href="http://creativecommons.org/licenses/by/4.0" target="_blank"> CC BY 4.0</a>/ A derivative of the <a href="https://figshare.com/articles/figure/Types_of_Research_Data_-_Infographic/5883193/1" target="_blank"> original work</a>.</em></p>
-</center>
+  
+:::{figure} graphics/file_formats.jpg
+:alt: Types of Research Data we can help to organise and share.
+:width: 400px
 
 ## Re-visit the Checklist 
 
@@ -131,7 +134,7 @@ This graphic shows general examples of data formats researchers often use (you c
 ```  
 ## Stage 2: Check your understanding 
 Check your understanding of key ideas in Stage 2: Planning for Research Data & Design by answering these quiz questions: 
-<br>
+  
 ```{h5p} https://tudelft.h5p.com/content/1292947761719805577
 ```
 

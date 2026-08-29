@@ -6,24 +6,27 @@
 
 **Planning for Data Processing, Study & Analysis:** The guiding questions for this stage focus on protecting the raw data, keeping units and formats consistent, and maintaining a clear, reproducible link between the research data, your analysis, and your results. 
 
-## *Key question: How will you distinguish between raw vs. processed data?*
+## Data management
+> _**Key question:** How will you distinguish between raw vs. processed data?_
 
 It's recommended to save the **raw data** for your project **in one folder** and the **processed data in another, separate folder**. That way, nobody can accidentally alter or delete the raw data. Some key best practices include: 
 
 - Save a complete copy of the raw data set and adjust the file settings to make it **read-only**.  
 
 - Use folder and file naming conventions to help you distinguish clearly between the raw and processed data.
-<br>
+  
 
-## *Key question: What units will the data be collected in?*
+## Units
+> _**Key question:** What units will the data be collected in?_
 - In most research fields, **numbers mean nothing without units**. Therefore, it's important to include International System of Units (SI units) of the modern metric system while you are collecting research data.
   
 - Be aware of **date formats** as these can differ internationally and lead to confusion. For example, what date is 01-02-20?
 
 - **Punctuation also matters!** For example, some programming platforms cannot accurately read commas as a decimal separator. You can imagine what a headache it would create if you were trying to work with a very large dataset and had to replace every instance of a comma with a period. Therefore, it's good to be aware of it.
-<br>
+  
 
-## *Key question: How will you maintain a clear link between the data, your analysis method, and your results?*
+## Linking data and results
+> _**Key question:** How will you maintain a clear link between the data, your analysis method, and your results?_
 
 To ensure a reproducible and transparent research workflow, you will need to be able to show which data (collected under which conditions) you analysed, and in which ways. And you'll need to be able to point back to which analyses led to each result/finding that you include in your final report. This means that in addition to documenting the specific conditions under which the data was collected, you need to **provide documentation for your process of analysis**. Your supervisor should be able to follow what you plotted in your report back to the documentation for processing, then back to the raw datasets that were used. For example, if you included a figure in your report, you should provide access to the original file(s) used to make that figure (e.g. in a folder of supporting research objects).    
 
@@ -59,30 +62,42 @@ The electronic lab notebook is used to document the code inputs and outputs, inc
 :class: warning
 A summary of the final results (including key graphs and data) can be included with your final report to aid interpretation, facilitate review, and provide a concise record of the experiment's outcomes. This enables you and your supervisor to quickly understand the key findings without needing to revisit the full analysis workflow, while maintaining clear links to the underlying data and model outputs.
 ```
-<br>
+  
 
 ### Additional resources for documenting analysis 
 Here are several tools that can be used to connect data analysis directly to the final output figures (and thesis text). These tools support reproducible research by ensuring that figures and outputs are generated directly from the underlying data analysis, reducing errors and improving transparency.  
 
 **Markdown documents** let you combine descriptive text with executable R code (which is often used in statistics). Plain-text Markdown documents contain embedded R code chunks that generate tables, figures, and results directly within the document. This makes it easier to document your analysis procedure.
-- <a href="https://rmarkdown.rstudio.com/articles_intro.html" target="_blank"> "Introduction to R Markdown"</a> 
+- ["Introduction to R Markdown"](https://rmarkdown.rstudio.com/articles_intro.html) 
 
-- <a href="https://pkg.yihui.org/rmarkdown-book/" target="_blank"> "R Markdown: The Definitive Guide"</a> 
-<br>
+- ["R Markdown: The Definitive Guide"](https://pkg.yihui.org/rmarkdown-book/) 
+  
 
 **Jupyter Notebook** is an open-source web application that combines live python code, equations, visualizations, and explanatory text in a single document.  
 
-- <a href="https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html" target="_blank"> Jupyter Notebook beginner guide</a> 
+- [Jupyter Notebook beginner guide](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html) 
 
-- <a href="https://github.com/burkesquires/jupyter_training" target="_blank"> Jupyter Notebook Training</a> 
-<br>
+- [Jupyter Notebook Training](https://github.com/burkesquires/jupyter_training) 
+  
 
-The **TU Delft Starter Kit** lets you integrate your analysis, documentation, and writing through Jupyter Book and Git, enabling seamless connections between code, results, and manuscript preparation. It also automatically generates a pdf of your thesis (via Latex). 
-- <a href="https://tud-jb-os.github.io/starterkit/quickstart/" target="_blank"> TU Delft Starter Kit Quickstart</a> 
-<br>
+
+
+## Transparency
+> __**Key question:** How can I be transparent about my analysis?_ 
+
+It is always good to be transparent of how you processed your data. One way to do this is using Jupyter Notebooks. A TU Delft project, [JBOSS](https://jboss.tudelft.nl), lets you integrate your analysis, documentation, and writing through Jupyter Book and Git, enabling seamless connections between code, results, and manuscript preparation. It allows you to write your thesis, including your analysis and present it as your final report - where it automatically generates a pdf of your thesis (via Latex). 
+
+```{video} https://www.youtube.com/embed/UDREanmF0qE?si=8nbp13aV3vXhg_x9
+```
+
+- [TU Delft Starter Kit Quickstart](https://tud-jb-os.github.io/starterkit/quickstart/) 
+  
 *Note: The TU Delft Starter Kit is in project form.
 
-## *Key question: How will you reduce risks of data leaks?*
+
+
+## Reducing data leaks
+> _**Key question:** How will you reduce risks of data leaks?_
 
 While working with research data, you should take the following extra safety precautions: 
 :::{card} 
@@ -113,13 +128,13 @@ While working with research data, you should take the following extra safety pre
 - If applicable, describe how you will do version control.  
 - Scan back through Section III of the mini-module. Add notes with key takeaways about data collection and documentation. Focus on capturing the details that apply to your project.  
 ``` 
-## Stage 4: Check your Understanding 
+## Check your Understanding 
 
 Check your understanding of key ideas in Stage 4: Planning for Data Processing & Analysis by answering these quiz questions: 
-<br>
+  
 ```{h5p} https://tudelft.h5p.com/content/1292956541158079777
 ```
-<br>
+  
 
 
 

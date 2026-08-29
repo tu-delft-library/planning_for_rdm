@@ -1,4 +1,11 @@
-# Planning for Stage I: Research Ideas 
+# Stage I: Research Ideas 
+
+```{figure} graphics/stage_1.jpg
+:alt: Stage 1 of the Research Project Cycl
+:width: 400px
+
+Adapted from "Project Cycle" by Scriberia, The Turing Way Community, licensed under CC-BY-4.0.
+```
 
 <center>
 <img src="graphics/stage_1.jpg" alt="Stage 1 of the Research Project Cycle" style="width: 400px; height: auto;"/>
@@ -7,7 +14,8 @@
 
 **Planning for Research Ideas:** Before you can plan how you'll manage the research data for your project, you first need to define what data you'll actually be working with. The guiding questions for this stage you will help you to identify the research objects your project will involve. Also, they will help you to identify early on whether any of the data carries ethical or legal requirements, a key consideration since the approvals process may take extra time. 
 
-## *Key question: What data are needed to test my hypothesis and answer my research question(s)?* 
+## What data are needed? 
+> _**Key question:** What data are needed to test my hypothesis and answer my research question(s)?_
 
 During your research project, you will collect or re-use a variety of **research objects**, which are all the materials involved in conducting, understanding, verifying and reproducing research. The more specific you are about which research objects are needed to effectively answer your research question(s) and support your research process, the clearer you can design for collecting and organising these objects. Here are examples of research objects: 
 
@@ -32,7 +40,7 @@ One of the key research objects you will gather is **research data**: informatio
 - Data re-used from open repositories
 - Proprietary data from a company 
 :::
-<br>
+  
 
 :::{card} ADDITIONAL RESEARCH OBJECTS
 
@@ -47,11 +55,12 @@ Depending on your project, you also need to collect additional research objects 
 - Documentation of research methods
 - A data management plan
 - An annotated bibliography
-- Sources collected during information searches (e.g. articles, conference proceedings and book excerpts). For more information about conducting information literacy strategies visit this <a href="https://lwalma.github.io/test-book/main/intro.html#" target="_blank"> IL Thesis Guide </a>. 
+- Sources collected during information searches (e.g. articles, conference proceedings and book excerpts). For more information about conducting information literacy strategies visit this [IL Thesis Guide](https://lwalma.github.io/test-book/main/intro.html#). 
 :::
-<br>
+  
 
-## *Key question: Do the research data carry special ethical or legal implications?* 
+## Ethical implications 
+> _**Key question:** Do the research data carry special ethical or legal implications?_
 
 During the planning phase of your project you should consider whether you will be working with **personal data**, **data protected by copyright**, and/or **proprietary data** trademarked by a company. These types of research data flag increased risk, carry legal restrictions, and/or require ethical or legal approval. Your project timeline needs to allow ample time for the approvals process. Otherwise, you might need to adjust your project design to fit your timeline. In addition, these types of data might carry specific requirements and restrictions for storing, sharing and processing the data. By determining whether you'll be handling these types of data, you can plan and prepare accordingly.  
 
@@ -76,9 +85,9 @@ Projects that involve personal data require careful planning since you must adhe
 :::
 ::::
 
-We are not able to go into great detail about procedures for handling personal data in this mini-module about research data management. For more information about working with personal data and the documents required for the HREC application, we encourage you to visit the mini-module  <a href="https://tu-delft-library.github.io/MSc-Planning-for-Personal-Data/main/introduction/introduction.html" target="_blank"> MSc Planning for Personal Data</a>. 
+We are not able to go into great detail about procedures for handling personal data in this mini-module about research data management. For more information about working with personal data and the documents required for the HREC application, we encourage you to visit the mini-module  [MSc Planning for Personal Data](https://tu-delft-library.github.io/MSc-Planning-for-Personal-Data/main/introduction/introduction.html). 
 
-For a detailed explanation about anonymisation and pseudonymisation procedures, we recommend you visit this page by the <a href="https://www.fsd.tuni.fi/en/services/data-management-guidelines/anonymisation-and-identifiers/" target="_blank"> Finnish Social Science Data Archive</a>. 
+For a detailed explanation about anonymisation and pseudonymisation procedures, we recommend you visit this page by the [Finnish Social Science Data Archive](https://www.fsd.tuni.fi/en/services/data-management-guidelines/anonymisation-and-identifiers/). 
 
 ### COPYRIGHTED DATA (INTELLECTUAL PROPERTY) 
 Are you planning to re-use data generated by other people, such as tabular data, code, software, images, film clips, etc.? If yes, you need to be aware of possible legal or copyright issues. As Janine Strandberg, data steward in the Faculty of Architecture, puts it: “If the data were created by someone else, you should already be asking questions!”  
@@ -97,19 +106,19 @@ Examples of Re-used data include:
 
 Some data are marked with a Creative Commons (CC) designation. This indicates that the data can be re-used as long as you follow the rules for the specific CC license. For example, “CC-BY” indicates that a source can be re-used as long as you attribute the original creators. This graphic gives a full overview of possible CC licenses:  
 
-<center>
-<img src="graphics/Creative_Commons_Licenses.jpg" alt="Creative Commons Licenses" style="width: 500px; height: auto;"/>
- <p style="font-size: x-small;"><em>"Creative Commons: The Ultimate Guide" by <a href="https://foter.com/blog/how-to-attribute-creative-commons-photos/" target="_blank"> foter.com </a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en" target="_blank"> CC-BY-SA</a></em></p> 
-</center>
+```{figure} graphics/Creative_Commons_Licenses.jpg
+:alt: Creative Commons Licenses
+:width: 500px
 
+Creative Commons: The Ultimate Guide” by [foter.com](https://foter.com/blog/how-to-attribute-creative-commons-photos/) is licensed under CC-BY-SA
+```
 
 Please note: 
-- **CC licensing does not apply to software.** To learn in more detail about interpreting software licenses, visit: Schlauch, Tobias - <a href="https://zenodo.org/records/8246557" target="_blank"> “All you need to know about Software Licenses as a RSE”</a>. Another helpful resource is the <a href="https://tu-delft-dcc.github.io/docs/software/documentation/license.html" target="_blank"> DCC guide on software licenses</a>. 
+- **CC licensing does not apply to software.** To learn in more detail about interpreting software licenses, visit: Schlauch, Tobias - [“All you need to know about Software Licenses as a RSE”](https://zenodo.org/records/8246557). Another helpful resource is the [DCC guide on software licenses](https://tu-delft-dcc.github.io/docs/software/documentation/license.html). 
 
-- While some data have a CC license, other data are protected by copyright. To learn more about the extent to which you can use copyrighted data, visit the TU Delft Library’s Copyright website: <a href="https://www.tudelft.nl/library/support/copyright/student-copyright-answers#c1118763" target="_blank"> As a student, I want to re-use data in my multimedia/data/student paper, thesis, etc.</a>  
+- While some data have a CC license, other data are protected by copyright. To learn more about the extent to which you can use copyrighted data, visit the TU Delft Library’s Copyright website: [As a student, I want to re-use data in my multimedia/data/student paper, thesis, etc.](https://www.tudelft.nl/library/support/copyright/student-copyright-answers#c1118763)  
 
-```{admonition} Important Note: 
-:class: warning
+```{warning} Important Note: 
 If the data are not explicitly marked with a CC license, or if you see no copyright symbol at all, you should assume that the data are protected by copyright.  
 ```
 
@@ -120,7 +129,7 @@ Are you doing an internship with a company and (re-)using the company's data? Th
 
 - Do you have questions about proprietary data? We encourage you to seek advice from your thesis supervisor. Your supervisor may refer you onwards to your faculty’s contract manager(s) or to a data steward (the procedures in each faculty differ.)
  
-<br> 
+   
 
 ## Re-visit the Checklist 
 
@@ -134,12 +143,12 @@ Are you doing an internship with a company and (re-)using the company's data? Th
 
   
 
-## Stage 1: Check your understanding 
+## Check your understanding 
 Check your understanding of key ideas in Stage 1: Planning for Research Ideas by answering these quiz questions: 
-<br>
+  
 ```{h5p} https://tudelft.h5p.com/content/1292947761301471687
 ```
-<br>
+  
  
 
 

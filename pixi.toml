@@ -1,0 +1,17 @@
+[workspace]
+authors = ["FreekPols <c.f.j.pols@tudelft.nl>"]
+channels = ["conda-forge"]
+name = "planning_for_rdm"
+platforms = ["win-64", "linux-64", "osx-64", "osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+teachbooks = "teachbooks build book"
+server = "teachbooks serve"
+
+[dependencies]
+python = ">=3.14.7,<3.15"
+
+[pypi-dependencies]
+teachbooks = ">=0.2.5, <0.3"
+teachbooks-favourites = { git = "https://github.com/TeachBooks/TeachBooks-Favourites.git" }

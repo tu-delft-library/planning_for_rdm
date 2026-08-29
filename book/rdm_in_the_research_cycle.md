@@ -34,8 +34,9 @@ For his master's thesis, Michel plans to look at people's experiences in a fligh
 Michel has taken time to recruit participants, booked precious time in the simulator, and gotten the software all set up. But he then learns that HREC must approve his research **before** he can proceed with data collection. He rushed to complete the HREC application materials, then has to wait several weeks for the committee's decision. This causes **delays in data collection**. Michel isn't sure if he'll get his project finished in time. 
 :::
 
-<p style="font-size: x-small;"><em>Scenarios #1-3 re-used and adapted from: Li, M., Marcoux, K., Nazareth, D., Nikuze, A., & Plomp, W. (2025, December). Research Data Management Guidebook for Students. Zenodo. <a href="https://doi.org/10.5281/zenodo.15576176" target="_blank"> https://doi.org/10.5281/zenodo.15576176</a></em></p>
-<br>
+::::
+<p style="font-size: x-small;"><em>Scenarios #1-3 re-used and adapted from: Li, M., Marcoux, K., Nazareth, D., Nikuze, A., & Plomp, W. (2025, December). Research Data Management Guidebook for Students. Zenodo. [https://doi.org/10.5281/zenodo.15576176](https://doi.org/10.5281/zenodo.15576176)</em></p>
+  
 
 ## Benefits of RDM 
 We hope that by following this mini-module you will begin to internalize habits of RDM, thus avoid research setbacks like the four examples just described. As these examples demonstrate, there are good reasons to plan for research data management. The benefits for you include:   
@@ -51,9 +52,10 @@ We hope that by following this mini-module you will begin to internalize habits 
 - developing **project planning and management skills** that will benefit you in academia or the workforce.  
 
 - **saving you time and reducing stress** during your thesis project, especially at the end when good RDM will make it easier to write your report: by getting organised at the beginning of your project, you will save time at the end. 
-<br>
+  
 
 ## The Research Project Cycle
+
 
 This mini-module is structured based the 5 stages of the research project cycle. Each stage has a series of guiding questions or considerations for research data management. In the planning phase of a project researchers use these guiding questions to anticipate and plan what they will do with the research data before, during, and after their project. The 5 stages of the research project cycle and an overview of key elements to plan for RDM are shown in the table below: 
 
@@ -136,4 +138,4 @@ If you will be filling out a formal DMP, this checklist provides a space to brai
 Check your understanding of key ideas for RDM in the Research Project Cycle by answering these quiz questions: 
 ```{h5p} https://tudelft.h5p.com/content/1292947760806373647
 ```
-<br> 
+   
