@@ -29,7 +29,7 @@ This mini-course is online and self-paced. It’s “mini” because it will tak
 
 ## Appreciations 
 
-This guide was developed by Paige Folsom from the Data Literacy Project, TU Delft Library Education Support in collaboration with Allyson Sim, Research Data & Software, Sophie Tschirpke, data steward at the Faculty of Applied Sciences, and Aurele Adam, coordinator of the MSc Applied Physics. Special thanks to the thesis supervisors of the MSc of Applied Physics for their input on learning goals and competencies. Thank you to Paula Martinez-Lavanchy for valuable input on the learning design as well as the content. Thank you to Reid Sczerba for support building this Jupyter book, and to TU Delft Library Education Support colleagues for their feedback. 
+This guide was developed by Paige Folsom from the Data Literacy Project, TU Delft Library Education Support in collaboration with Allyson Sim, Research Data & Software, Sophie Tschirpke, data steward at the Faculty of Applied Sciences, and Aurele Adam, coordinator of the MSc Applied Physics. Special thanks to the thesis supervisors of the MSc of Applied Physics for their input on learning goals and competencies. Thank you to Paula Martinez-Lavanchy for valuable input on the learning design as well as the content. Thank you to Reid Sczerba and Freek Pols for support building this Jupyter book, and to TU Delft Library Education Support colleagues for their feedback. 
 
 ## AI Use Disclosure 
 
