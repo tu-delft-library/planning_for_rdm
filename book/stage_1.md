@@ -7,7 +7,12 @@
 Adapted from "Project Cycle" by Scriberia, The Turing Way Community, licensed under CC-BY-4.0.
 ```
 
-Before you can plan how you'll manage the research data for your project, you first need to define what data you'll actually be working with. The guiding questions for this stage you will help you to identify the research objects your project will involve. Also, they will help you to identify early on whether any of the data carries ethical or legal requirements, a key consideration since the approvals process may take a long time. 
+<center>
+<img src="graphics/stage_1.jpg" alt="Stage 1 of the Research Project Cycle" style="width: 400px; height: auto;"/>
+<p style="font-size: x-small;"><em>Adapted from "Project Cycle" by Scriberia, <a href="http://doi.org/10.5281/zenodo.3332807" target="_blank"> The Turing Way Community </a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0" target="_blank"> CC BY 4.0</a></em></p> 
+</center>
+
+**Planning for Research Ideas:** Before you can plan how you'll manage the research data for your project, you first need to define what data you'll actually be working with. The guiding questions for this stage you will help you to identify the research objects your project will involve. Also, they will help you to identify early on whether any of the data carries ethical or legal requirements, a key consideration since the approvals process may take extra time. 
 
 ## What data are needed? 
 > _**Key question:** What data are needed to test my hypothesis and answer my research question(s)?_
@@ -105,7 +110,7 @@ Some data are marked with a Creative Commons (CC) designation. This indicates th
 :alt: Creative Commons Licenses
 :width: 500px
 
-Creative Commons: The Ultimate Guide” by foter.com is licensed under CC-BY-SA
+Creative Commons: The Ultimate Guide” by [foter.com](https://foter.com/blog/how-to-attribute-creative-commons-photos/) is licensed under CC-BY-SA
 ```
 
 Please note: 
@@ -125,6 +130,18 @@ Are you doing an internship with a company and (re-)using the company's data? Th
 - Do you have questions about proprietary data? We encourage you to seek advice from your thesis supervisor. Your supervisor may refer you onwards to your faculty’s contract manager(s) or to a data steward (the procedures in each faculty differ.)
  
    
+
+## Re-visit the Checklist 
+
+```{admonition} Open the checklist and add notes about your project under Stage 1:  
+:class: tip
+- Write a detailed list of all the research objects (research data and supporting artefacts) that you plan to collect.
+- Add check marks in the checkboxes to indicate whether you will be working with personal data, copyrighted data, or proprietary data.
+- Indicate whether your project requires ethical approvals and whether the timing for this is feasible by checking the boxes.
+- Scan back through Section I of the mini-module. Add notes with key takeaways about personal data, copyrighted data, or proprietary data, paying special attention to the details that apply to your project. 
+```  
+
+  
 
 ## Check your understanding 
 Check your understanding of key ideas in Stage 1: Planning for Research Ideas by answering these quiz questions: 

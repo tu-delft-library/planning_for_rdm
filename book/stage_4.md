@@ -1,11 +1,10 @@
-# Stage 4: Data Processing, Study & Analysis 
-:::{figure} graphics/stage_4.jpg
-:alt: Stage 2 of the Research Project Cycle
-:width: 400px
+# Planning for Stage 4: Data Processing, Study & Analysis 
+<center>
+<img src="graphics/stage_4.jpg" alt="Stage 2 of the Research Project Cycle" style="width: 400px; height: auto;"/>
+<p style="font-size: x-small;"><em>Adapted from "Project Cycle" by Scriberia, <a href="http://doi.org/10.5281/zenodo.3332807" target="_blank"> The Turing Way Community </a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0" target="_blank"> CC BY 4.0</a></em></p> 
+</center>
 
-Adapted from "Project Cycle" by Scriberia, The Turing Way Community, licensed under CC-BY-4.0.
-:::
-The guiding questions for this stage focus on protecting the raw data, keeping units and formats consistent, and maintaining a clear, reproducible link between the research data, your analysis, and your results. 
+**Planning for Data Processing, Study & Analysis:** The guiding questions for this stage focus on protecting the raw data, keeping units and formats consistent, and maintaining a clear, reproducible link between the research data, your analysis, and your results. 
 
 ## Data management
 > _**Key question:** How will you distinguish between raw vs. processed data?_
@@ -119,6 +118,16 @@ While working with research data, you should take the following extra safety pre
 (Li et al., 2025a)
 :::
 
+## Re-visit the Checklist 
+
+```{admonition} Open the checklist and add notes about your project under Stage 4:  
+:class: tip
+- Add details about your planned research methods: describe in detail how you will collect the data. 
+- Add details about which documentation strategies you plan to use. 
+- Add details about your planned file naming schema and folder structures. 
+- If applicable, describe how you will do version control.  
+- Scan back through Section III of the mini-module. Add notes with key takeaways about data collection and documentation. Focus on capturing the details that apply to your project.  
+``` 
 ## Check your Understanding 
 
 Check your understanding of key ideas in Stage 4: Planning for Data Processing & Analysis by answering these quiz questions: 

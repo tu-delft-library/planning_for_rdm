@@ -1,11 +1,10 @@
-# Stage 2: Planning for Research Data Planning & Design 
-:::{figure} graphics/stage_2.jpg
-:alt: Stage 2 of the Research Project Cycle
-:width: 400px
+# Planning for Stage 2: Research Data & Design 
+<center>
+<img src="graphics/stage_2.jpg" alt="Stage 2 of the Research Project Cycle" style="width: 400px; height: auto;"/>
+<p style="font-size: x-small;"><em>Adapted from "Project Cycle" by Scriberia, <a href="http://doi.org/10.5281/zenodo.3332807" target="_blank"> The Turing Way Community </a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0" target="_blank"> CC BY 4.0</a></em></p> 
+</center>
 
-Adapted from "Project Cycle" by Scriberia, The Turing Way Community, licensed under CC-BY-4.0.
-:::
-Once you know what data you'll be working with, the next decisions are where the data will live and in what format(s). The guiding questions for this stage are focused on storage and file format choices. The goal is to protect the research data from loss and keep the data usable by you and others in the future. 
+**Planning for Research Data & Design:** Once you know what data you'll be working with, the next decisions are where the data will live and in what format(s). The guiding questions for this stage are focused on storage and file format choices. The goal is to protect the research data from loss and keep the data usable by you and others in the future. 
 
 
 
@@ -123,10 +122,17 @@ This graphic shows general examples of data formats researchers often use (you c
 :alt: Types of Research Data we can help to organise and share.
 :width: 400px
 
-"Types of research data and related file formats" by TU Delft Library- Education Support is licensed under  CC BY 4.0/ A derivative of the  original work.
-:::
+## Re-visit the Checklist 
 
-## Check your understanding 
+```{admonition} Open the checklist and add notes about your project under Stage 2:  
+:class: tip
+- Add details about your project: amount of storage, sensitivity of the data, and collaborators.
+- Add check marks in the checkboxes to indicate which storage solution(s) best fit your project.
+- Add details about which file formats will be used in your project. 
+- Indicate whether these file formats are interoperable by checking the boxes. 
+- Scan back through Section II of the mini-module. Add notes with key takeaways about storage options and/or formatting. Focus on capturing the details that apply to your project.  
+```  
+## Stage 2: Check your understanding 
 Check your understanding of key ideas in Stage 2: Planning for Research Data & Design by answering these quiz questions: 
   
 ```{h5p} https://tudelft.h5p.com/content/1292947761719805577

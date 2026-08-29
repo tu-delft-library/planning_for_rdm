@@ -10,8 +10,11 @@
 Adapted from "Project Cycle" by Scriberia, The Turing Way Community, licensed under CC-BY-4.0.
 ````
 
+<center>
+<p style="font-size: x-small;"><em>Adapted from "Project Cycle" by Scriberia, <a href="http://doi.org/10.5281/zenodo.3332807" target="_blank"> The Turing Way Community </a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0" target="_blank"> CC BY 4.0</a></em></p> 
+</center>
 
-As your project wraps up, the guiding questions for this final stage focus on what happens to the research data next: what should be shared, archived, or deleted, how to document it for others, where it should live long-term, and how it should be licensed.
+**Planning for Data Publishing & Access, Preservation & Re-use:** As your project wraps up, the guiding questions for this final stage focus on what happens to the research data next: what should be shared, archived, or deleted, how to document it for others, where it should live long-term, and how it should be licensed.
 
 ## Sharing data
 > _**Key question:** Which project data can be shared publicly, archived internally, or deleted?_ 
@@ -34,6 +37,11 @@ Examples:
 - If you used **generative AI** to process or analyse the data.
   
 - If you used an **internally-developed AI tool**, your report should explicitly describe the AI model, including its name and version, source (if publicly available), key properties and capabilities, training data (where known), intended purpose, and any important limitations. The report should also explain how the tool was used in the research, including the inputs provided, outputs generated, parameter settings or configurations, any fine-tuning or customizations, validation methods, and the extent of human oversight. This documentation enables others to understand, evaluate, and, where possible, reproduce the role of the AI tool in the research process.
+
+```{admonition} Important Note: 
+:class: warning
+Discuss with your supervisor if/what AI use is allowed for your respective program. We also suggest you visit this <a href="https://tu-delft-library.github.io/il-master-thesis-guide/main/5b-specifying-ai-use.html" target="_blank">IL Master Thesis Guide</a> which discusses more about how to specify AI use. 
+```
 
 
 ## Data storage after project
@@ -67,7 +75,7 @@ Whether you choose to save the data and code in a general or more specialized re
 
  ### Sharing Code
 
-Even if you share your code in public Git repositories, you should also archive your code in a data repository (next to having it on the Git repository), and reference it in your thesis using the assigned DOI.  Why?  
+Even if you share your code in public Git repositories, you should also archive your code in a data repository (next to having it on the Git repository), and reference it in your thesis using the assigned DOI.  Reasons to do this include:   
 
 1. This keeps a snapshot of the code you used, so others can use exactly the same version as you did in your thesis.  
 
@@ -77,7 +85,7 @@ Even if you share your code in public Git repositories, you should also archive 
 
 ### Metadata
 
-When you upload the data/code to a repository, you'll be prompted to add metadata. **Metadata is information about the data** set(s) you've uploaded, such as provenance (where/who the data came from) and key characteristics like size and format. Metadata is formatted so that it is machine-readable meaning repositories and search engines can automatically index, catalogue, and surface your dataset — making it easier for others (and your future self) to find and understand it without opening the file itself.. Adding complete metadata **increases the findability** of the datasets.   
+When you upload the data/code to a repository, you'll be prompted to add metadata. **Metadata is information about the data** set(s) you've uploaded, such as *provenance* (where/who the data came from) and key characteristics like size and format. Metadata is formatted so that it is machine-readable. This means that repositories and search engines can automatically index, catalogue, and surface your dataset — making it easier for others (and your future self) to find and understand it without opening the file itself.. Adding complete metadata **increases the findability** of the datasets.   
   
 
 ## Licensing
