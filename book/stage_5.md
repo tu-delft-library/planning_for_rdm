@@ -16,6 +16,7 @@
 
 ## Sharing data
 > _**Key question:** Which project data can be shared publicly, archived internally, or deleted?_ 
+
 Your plan for the project data should be based on conversations with your supervisor: we encourage you to confirm with your supervisor what should be kept, deleted and published. 
 
 
@@ -88,6 +89,7 @@ When you upload the data/code to a repository, you'll be prompted to add metadat
 
 ## Licensing
 > _**Key question:** How will you license the data collected for your project?_
+
 This question is particularly applicable for students who are generating code as part of their projects. MSc students at TU Delft are owners of the research data for their projects and their code, unless they sign a statement giving away their ownership. Make sure your code has a clear license and mark this license in your Git environment. If you are doing an internship or collaboration with a company, you need to verify whether you have permission to copyright the data by checking your graduation agreement. 
 
 
