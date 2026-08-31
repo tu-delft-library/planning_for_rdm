@@ -1,4 +1,4 @@
-# Planning for Stage 4: Data Processing, Study & Analysis 
+# Stage 4: Data Processing, Study & Analysis 
 <center>
 <img src="graphics/stage_4.jpg" alt="Stage 2 of the Research Project Cycle" style="width: 400px; height: auto;"/>
 <p style="font-size: x-small;"><em>Adapted from "Project Cycle" by Scriberia, <a href="http://doi.org/10.5281/zenodo.3332807" target="_blank"> The Turing Way Community </a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0" target="_blank"> CC BY 4.0</a></em></p> 
@@ -6,7 +6,7 @@
 
 **Planning for Data Processing, Study & Analysis:** The guiding questions for this stage focus on protecting the raw data, keeping units and formats consistent, and maintaining a clear, reproducible link between the research data, your analysis, and your results. 
 
-## Data management
+## Separate raw data 
 > _**Key question:** How will you distinguish between raw vs. processed data?_
 
 It's recommended to save the **raw data** for your project **in one folder** and the **processed data in another, separate folder**. That way, nobody can accidentally alter or delete the raw data. Some key best practices include: 
@@ -83,7 +83,7 @@ Here are several tools that can be used to connect data analysis directly to the
 
 
 ## Transparency
-> __**Key question:** How can I be transparent about my analysis?_ 
+> _**Key question:** How can I be transparent about my analysis?_ 
 
 It is always good to be transparent of how you processed your data. One way to do this is using Jupyter Notebooks. A TU Delft project, [JBOSS](https://jboss.tudelft.nl), lets you integrate your analysis, documentation, and writing through Jupyter Book and Git, enabling seamless connections between code, results, and manuscript preparation. It allows you to write your thesis, including your analysis and present it as your final report - where it automatically generates a pdf of your thesis (via Latex). 
 
@@ -126,7 +126,7 @@ While working with research data, you should take the following extra safety pre
 - Add details about which documentation strategies you plan to use. 
 - Add details about your planned file naming schema and folder structures. 
 - If applicable, describe how you will do version control.  
-- Scan back through Section III of the mini-module. Add notes with key takeaways about data collection and documentation. Focus on capturing the details that apply to your project.  
+- Scan back through Section IV of the mini-module. Add notes with key takeaways about protecting the raw data, consistency of units, and documenting the link between the research data, your analysis, and your results. Focus on capturing the details that apply to your project.  
 ``` 
 ## Check your Understanding 
 
