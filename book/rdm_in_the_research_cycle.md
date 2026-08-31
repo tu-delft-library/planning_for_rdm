@@ -57,7 +57,28 @@ We hope that by following this mini-module you will begin to internalize habits 
 ## The Research Project Cycle
 
 
-This mini-module is structured based the 5 stages of the research project cycle. Each stage has a series of guiding questions or considerations for research data management. In the planning phase of a project researchers use these guiding questions to anticipate and plan what they will do with the research data before, during, and after their project. The 5 stages of the research project cycle and an overview of key elements to plan for RDM are shown in the table below: 
+This mini-module is structured based the 5 stages of the research project cycle. Each stage has a series of guiding questions or considerations for research data management. In the planning phase of a project researchers use these guiding questions to anticipate and plan what they will do with the research data before, during, and after their project. The 5 stages of the research project cycle and an overview of key elements to plan for RDM are shown in the carousel below: 
+
+::::{card-carousel} 3
+
+:::{card} 
+:img-top: graphics/stage_1_numbered.jpg
+:img-alt: Stage 1 of the Research Project Cycle
+- Identify in advance the research objects and research data will you be working with. 
+- Determine whether the data require ethical or legal approvals.
+:::
+:::{card} card 2
+:::
+:::{card} card 3
+:::
+:::{card} card 4
+:::
+:::{card} card 5
+:::
+::::
+
+
+
 
 <table style="border-collapse: collapse; width: 100%;">
   <tr style="background-color: #f2f2f2;">
