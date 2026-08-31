@@ -17,7 +17,7 @@ By intentionally planning for storage, you can safeguard your research project a
 <img src="graphics/DMP_storage.jpg" alt="Good thing I had a plan! The data is all backed up." style="width: 400px; height: auto;"/>
 <p style="font-size: x-small;"><em>"Data Management Plan" by Scriberia, <a href="http://doi.org/10.5281/zenodo.3332807" target="_blank"> The Turing Way Community </a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0" target="_blank"> CC BY 4.0</a></em></p> 
 </center>
-:::
+
   
 
 ### Storage criteria
@@ -116,11 +116,12 @@ DANS, the Dutch national centre of expertise and repository for research data, e
 :::
 
 This graphic shows general examples of data formats researchers often use (you can click on the image to enlarge it). We recommend asking your supervisor to help you identify the standard file formats used in your particular field of research: 
-  
-```{figure} graphics/file_formats.jpg
-:alt: Types of Research Data we can help to organise and share.
-:width: 400px
-```
+
+<center>
+<img src="graphics/file_formats.jpg" alt="Common interoperable file formats" style="width: 400px; height: auto;"/>
+<p style="font-size: x-small;"><em>"Types of research data and related file formats" by by TU Delft Library - Education Support is licensed under is licensed under <a href="http://creativecommons.org/licenses/by/4.0" target="_blank"> CC BY 4.0</a>/ A derivative from the <a href="<a href="http://creativecommons.org/licenses/by/4.0" target="_blank"> CC BY 4.0</a>" target="_blank"> original work</a></em></p> 
+</center>
+
 
 ## Re-visit the Checklist 
 
