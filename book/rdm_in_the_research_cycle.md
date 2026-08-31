@@ -128,7 +128,7 @@ The guiding questions in the mini-module align closely to all of the core elemen
 
 This checklist is meant to accompany the mini-module so that you can use the guiding questions to plan RDM for your own project. Before you continue on to the next section, download and save (or print out) this RDM checklist. Keep the checklist with you as you proceed through the mini-module. The checklist summarizes the key ideas and guiding questions: 
 :::{card} 
-[**Download the Checklist**](graphics/Checklist_v2.docx).
+[**Download the Checklist**](graphics/Checklist_v3.docx).
 :::
 If you will be filling out a formal DMP, this checklist provides a space to brainstorm and a reminder of questions helpful to ask your supervisor in advance of starting your project. If you do NOT have to fill out a formal DMP, this checklist will provide a guide to help you pre-plan research data management for your thesis project. In either case, we will cue you to jot notes in the checklist as you proceed through the mini-module. We strongly suggest that you bring your checklist to planning discussions with your thesis supervisor. 
 
