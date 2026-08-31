@@ -25,7 +25,7 @@ We want you to internalize a series of guiding questions that researchers ask th
 
 ## Mini-module Format 
 
-This mini-course is online and self-paced. It’s “mini” because it will take you approximately an hour to an hour and a half to go through the materials. The practice exercises and quizzes in each section are designed to help you check your understanding of key vocabulary and concepts. The mini-module is open access, which means you can bookmark the URL in your browser and refer to the information as much as you like in the future. In addition to the online mini-module, we will also provide this [**Downloadable Checklist**](graphics/Checklist_v3.docx) that includes the guiding questions from the mini-module. That way, you will have a place to jot notes and apply the key ideas to your own project. 
+This mini-course is online and self-paced. It’s “mini” because it will take you approximately an hour to an hour and a half to go through the materials. The practice exercises and quizzes in each section are designed to help you check your understanding of key vocabulary and concepts. The mini-module is open access, which means you can bookmark the URL in your browser and refer to the information as much as you like in the future. In addition to the online mini-module, we will also provide this [**Downloadable Checklist**](graphics/Checklist_v3.docx) that includes the guiding questions from the mini-module. At the end of each section we will ask you to revisit the checklist and record key details. 
 
 ## Appreciations 
 
@@ -47,4 +47,4 @@ AI tool used:
 
 ## How to Cite this Resource 
 
-> `Folsom, P., Sims, A., Tschirpke, S.` (`2026`) _`Planning for RDM`_. `<https://tu-delft-library.github.io/planning_for_rdm/main/intro.html>`. Source files at `<<https://github.com/tu-delft-library/planning_for_rdm>`. CC BY 4.0.
+> `Folsom, P., Sim, A., Tschirpke, S.` (`2026`) _`Planning for RDM`_. `<https://tu-delft-library.github.io/planning_for_rdm/main/intro.html>`. Source files at `<<https://github.com/tu-delft-library/planning_for_rdm>`. CC BY 4.0.
