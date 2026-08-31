@@ -1,12 +1,5 @@
 # Stage I: Research Ideas 
 
-```{figure} graphics/stage_1.jpg
-:alt: Stage 1 of the Research Project Cycl
-:width: 400px
-
-Adapted from "Project Cycle" by Scriberia, The Turing Way Community, licensed under CC-BY-4.0.
-```
-
 <center>
 <img src="graphics/stage_1.jpg" alt="Stage 1 of the Research Project Cycle" style="width: 400px; height: auto;"/>
 <p style="font-size: x-small;"><em>Adapted from "Project Cycle" by Scriberia, <a href="http://doi.org/10.5281/zenodo.3332807" target="_blank"> The Turing Way Community </a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0" target="_blank"> CC BY 4.0</a></em></p> 
