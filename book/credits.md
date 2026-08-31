@@ -3,7 +3,7 @@
 
 You can refer to this book as:
 
-> `Folsom, P., Sims, A., Tschirpke, S.` (`2026`) _`Planning for RDM`_. `<https://tu-delft-library.github.io/planning_for_rdm/main/intro.html>`. Source files at `<https://github.com/tu-delft-library/planning_for_rdm>`. CC BY 4.0.
+> `Folsom, P., Sim, A., Tschirpke, S.` (`2026`) _`Planning for RDM`_. `<https://tu-delft-library.github.io/planning_for_rdm/main/intro.html>`. Source files at `<https://github.com/tu-delft-library/planning_for_rdm>`. CC BY 4.0.
 
 You can refer to individual chapters or pages within this book as:
 
