@@ -12,7 +12,7 @@
 <p style="font-size: x-small;"><em>Adapted from "Project Cycle" by Scriberia, <a href="http://doi.org/10.5281/zenodo.3332807" target="_blank"> The Turing Way Community </a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0" target="_blank"> CC BY 4.0</a></em></p> 
 </center>
 
-**Planning for Data Publishing & Access, Preservation & Re-use:** As your project wraps up, the guiding questions for this final stage focus on what happens to the research data next: what should be shared, archived, or deleted, how to document it for others, where it should live long-term, and how it should be licensed.
+**Planning for Data Publishing & Access, Preservation & Re-use:** As your project wraps up, the guiding questions for this final stage focus on what happens to the research data next: what should be shared, archived, or deleted, how to document it for others, where it should live long-term, and how it should be licensed. 
 
 ## Sharing data
 > _**Key question:** Which project data can be shared publicly, archived internally, or deleted?_ 
