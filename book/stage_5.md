@@ -48,8 +48,7 @@ Some MSc students contribute to scientific publications. If this is you, you nee
 
 Even if you do not contribute to scientific publications, you can share the data/code for your project in a data repository. However, you are not obligated to do so. If you're interested in sharing the data and code in a repository, please also discuss this with your supervisor. 
 
- 
-### General repositories
+:::{dropdown} General repositories
 You can save the research data and code for your project in one of these general (not field or discipline-specific) open repositories:   
 
 - [Zenodo](https://zenodo.org/)
@@ -57,8 +56,9 @@ You can save the research data and code for your project in one of these general
 - [4TU.ResearchData](https://community.data.4tu.nl/)
 
 - [DANS](https://dans.knaw.nl/en/)
+:::
 
-### Field-specific repositories
+:::{dropdown} Field-specific repositories
 You can use these repository finders to find an open repository that is specific to your field of research:  
 
 - [Commons.datacite.org](https://commons.datacite.org/repositories)
@@ -66,6 +66,9 @@ You can use these repository finders to find an open repository that is specific
 - [Fairsharing.org](https://fairsharing.org/)
 
 - [Re3data.org](https://www.re3data.org/)
+:::
+
+
 
 ### DOI or another unique identifier 
 Whether you choose to save the data and code in a general or more specialized repository, check that the repository assigns a **digital object identifier (DOI) or other unique identifier** to the dataset/code that makes it more **findable**. Refer to the data set/code using the DOI or other unique identifier in your thesis (and publication, if applicable). This makes it easier for others to find the research data/code.  
@@ -101,7 +104,7 @@ This question is particularly applicable for students who are generating code as
 
 - TU Delft Library Copyright Checkpoint: [As a student, I want to choose a license for my multimedia/student paper, thesis, data, etc.](https://www.tudelft.nl/library/support/copyright/student-copyright-answers#c1118723)
 
-## Re-visit the Checklist 
+## Revisit the Checklist 
 
 ```{admonition} Open the checklist and add notes about your project under Stage 3:  
 :class: tip
