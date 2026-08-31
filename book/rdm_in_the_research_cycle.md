@@ -35,7 +35,7 @@ Michel has taken time to recruit participants, booked precious time in the simul
 :::
 
 ::::
-<p style="font-size: x-small;"><em>Scenarios #1-3 re-used and adapted from: Li, M., Marcoux, K., Nazareth, D., Nikuze, A., & Plomp, W. (2025, December). Research Data Management Guidebook for Students. Zenodo. <a href="https://doi.org/10.5281/zenodo.15576176https://doi.org/10.5281/zenodo.15576176" target="_blank"></a></em></p>
+<p style="font-size: x-small;"><em>Scenarios #1-3 re-used and adapted from: Li, M., Marcoux, K., Nazareth, D., Nikuze, A., & Plomp, W. (2025, December). Research Data Management Guidebook for Students. Zenodo. <a href="https://doi.org/10.5281/zenodo.15576176https" target="_blank"></a></em></p>
   
 
 ## Benefits of RDM 
@@ -119,7 +119,7 @@ This checklist is meant to accompany the mini-module so that you can use the gui
 If you will be filling out a formal DMP, this checklist provides a space to brainstorm before filling out the formal template. It also prompts questions helpful to ask your supervisor in advance of starting your project. If you do NOT have to fill out a formal DMP, this checklist will provide a guide to help you pre-plan research data management for your thesis project. In either case, at the end of each section of the mini-module we will ask you to revisit this checklist to write key details. We strongly suggest that you bring your checklist to planning discussions with your thesis supervisor. 
 
 
-## The Research Project Cycle: Check your understanding
+## Check your understanding
 
 Check your understanding of key ideas for RDM in the Research Project Cycle by answering these quiz questions: 
 ```{h5p} https://tudelft.h5p.com/content/1292947760806373647
