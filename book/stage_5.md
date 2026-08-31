@@ -19,7 +19,7 @@
 Your plan for the project data should be based on conversations with your supervisor: we encourage you to confirm with your supervisor what should be kept, deleted and published. 
 
 
-## README
+## Documentation 
 > _**Key question:** What supporting documents are necessary to make the data and code understandable and re-usable by others?_
 
 The supporting documentation should provide enough context for others to understand, verify, and re-use the research data and code. This includes clear descriptions of the dataset, variables, file organization, data collection and processing methods, code functionality, software and package requirements, and instructions for reproducing the analysis.
