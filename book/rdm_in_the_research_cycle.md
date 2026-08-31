@@ -59,7 +59,7 @@ We hope that by following this mini-module you will begin to internalize habits 
 
 This mini-module is structured based the 5 stages of the research project cycle. Each stage has a series of guiding questions or considerations for research data management. In the planning phase of a project researchers use these guiding questions to anticipate and plan what they will do with the research data before, during, and after their project. The 5 stages of the research project cycle and an overview of key elements to plan for RDM are shown in the carousel below: 
 
-::::{card-carousel} 3
+::::{card-carousel} 2
 
 :::{card} 
 :img-top: graphics/stage_1_numbered.jpg
@@ -96,64 +96,9 @@ Plan ahead:
 :::
 ::::
 
-
-
-
-<table style="border-collapse: collapse; width: 100%;">
-  <tr style="background-color: #f2f2f2;">
-    <th style="border: 1px solid black;">Stage of Research Project Cycle</th>
-    <th style="border: 1px solid black;">Elements to consider for RDM:</th>
-  </tr>
-
-  <tr style="background-color: #f9f9f9;">
-    <td style="border: 1px solid black;">
-     <img src="graphics/stage_1_numbered.jpg" alt="Stage 1 of the Research Project Cycle" style="width: 300px; height: auto;"/></td>
-    <td style="border: 1px solid black;">
-Identify in advance the research objects and research data will you be working with. 
-Determine whether the data require ethical or legal approvals.  
-     <br>
-    </td>
-  </tr>
-
-  <tr style="background-color: #f9f9f9;">
-    <td style="border: 1px solid black;">
-    <img src="graphics/stage_2_numbered.jpg" alt="Stage 2 of the Research Project Cycle" style="width: 300px; height: auto;"/></td>
-    <td style="border: 1px solid black;">
-  Plan ahead where will the research data will be stored.
-  Plan what format(s) will the data be saved in.    
-    <br>
-    </td>
-  </tr>
-
-  <tr style="background-color: #f9f9f9;">
-    <td style="border: 1px solid black;">
-      <img src="graphics/stage_3_numbered.jpg" alt="Stage 3 of the Research Project Cycle" style="width: 300px; height: auto;"/></td>
-    <td style="border: 1px solid black;">
-     Plan how you will you document your research methods. 
-     Plan how you will name and organise research artefacts throughout data collection.   
-    <br> 
-    </td>
-  </tr>
-
-  <tr style="background-color: #f9f9f9;">
-    <td style="border: 1px solid black;">
-      <img src="graphics/stage_4_numbered.jpg" alt="Stage 4 of the Research Project Cycle" style="width: 400px; height: auto;"/></td>
-    <td style="border: 1px solid black;">
-     Plan how you will maintain a clear link between the research data, your analyses, and your results.  
-     <br>
-    </td>
-  </tr>
-
-  <tr style="background-color: #f9f9f9;">
-    <td style="border: 1px solid black;">
-     <img src="graphics/stage_5_numbered.jpg" alt="Stage 5 of the Research Project Cycle" style="width: 400px; height: auto;"/></td>
-    <td style="border: 1px solid black;">
-     Plan what will happen to the research data after the project is complete.   
-    <br>
-    </td>
-  </tr>
-</table>
-<br>
+<center>
+<p style="font-size: x-small;"><em>Images adapted from "Project Cycle" by Scriberia, <a href="http://doi.org/10.5281/zenodo.3332807" target="_blank"> The Turing Way Community </a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0" target="_blank"> CC BY 4.0</a></em></p> 
+</center>
 
 To support you during the planning phase of your thesis project, this mini-module will guide you through the key questions and considerations at each stage of the research project cycle. 
 
