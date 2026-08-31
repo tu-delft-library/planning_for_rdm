@@ -108,7 +108,7 @@ The guiding questions in the mini-module align closely to all of the core elemen
 - If you're **REQUIRED to write a DMP** as part of your master's thesis project: our goal is to activate your thinking and planning process, which will make it easier to fill out any DMP template.
   
 - If you're **NOT REQUIRED to write a formal DMP**: our goal is to help you to consider in advance what you will do with the research data so that you're better organised and prepared for each stage of your project.  
-<br>
+
 
 ## Download this Planning for RDM Checklist! 
 
