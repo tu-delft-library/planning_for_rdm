@@ -122,7 +122,7 @@ Are you doing an internship with a company and (re-)using the company's data? Th
  
    
 
-## Re-visit the Checklist 
+## Revisit the Checklist 
 
 ```{admonition} Open the checklist and add notes about your project under Stage 1:  
 :class: tip
