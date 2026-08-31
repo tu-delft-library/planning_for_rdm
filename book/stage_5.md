@@ -101,6 +101,18 @@ This question is particularly applicable for students who are generating code as
 
 - TU Delft Library Copyright Checkpoint: [As a student, I want to choose a license for my multimedia/student paper, thesis, data, etc.](https://www.tudelft.nl/library/support/copyright/student-copyright-answers#c1118723)
 
+## Re-visit the Checklist 
+
+```{admonition} Open the checklist and add notes about your project under Stage 3:  
+:class: tip
+- Add questions you may have for your supervisor about what data to keep/what to delete.  
+- Add questions you may have for your supervisor about which supporting documentation you should submit with your final report. 
+- Add details about your planned file naming schema and folder structures. 
+- If you are publishing your work, thus uploading to a repository, check the boxes to indicate what type of repository. Underneath the check box, add the name of the repository.
+- Describe how you will license the data for your thesis project (or use this space to add questions you may have for your supervisor).  
+- Scan back through Section V of the mini-module. Add notes with key takeaways about preserving data when your project is complete, supporting documentation, repository options, and licensing. Focus on capturing the details that apply to your project.  
+```
+
 ## Check your understanding
 Check your understanding of key ideas in Stage 5: Planning for Data Publishing, Preservation & Re-Use by answering these quiz questions: 
   
