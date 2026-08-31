@@ -118,9 +118,10 @@ DANS, the Dutch national centre of expertise and repository for research data, e
 
 This graphic shows general examples of data formats researchers often use (you can click on the image to enlarge it). We recommend asking your supervisor to help you identify the standard file formats used in your particular field of research: 
   
-:::{figure} graphics/file_formats.jpg
+```{figure} graphics/file_formats.jpg
 :alt: Types of Research Data we can help to organise and share.
 :width: 400px
+```
 
 ## Re-visit the Checklist 
 
