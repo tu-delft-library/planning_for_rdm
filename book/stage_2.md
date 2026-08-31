@@ -119,7 +119,7 @@ This graphic shows general examples of data formats researchers often use (you c
 
 <center>
 <img src="graphics/file_formats.jpg" alt="Common interoperable file formats" style="width: 400px; height: auto;"/>
-<p style="font-size: x-small;"><em>"Types of research data and related file formats" by by TU Delft Library - Education Support is licensed under is licensed under <a href="http://creativecommons.org/licenses/by/4.0" target="_blank"> CC BY 4.0</a>/ A derivative from the <a href="<a href="http://creativecommons.org/licenses/by/4.0" target="_blank"> CC BY 4.0</a>" original work</a></em></p> 
+<p style="font-size: x-small;"><em>"Types of research data and related file formats" by by TU Delft Library - Education Support is licensed under is licensed under <a href="http://creativecommons.org/licenses/by/4.0" target="_blank"> CC BY 4.0</a>/ A derivative from the <a href="https://figshare.com/articles/figure/Types_of_Research_Data_-_Infographic/5883193/1?file=10468375" target="_blank"> original work</a></em></p> 
 </center>
 
 
