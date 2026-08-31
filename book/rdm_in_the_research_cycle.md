@@ -35,7 +35,7 @@ Michel has taken time to recruit participants, booked precious time in the simul
 :::
 
 ::::
-<p style="font-size: x-small;"><em>Scenarios #1-3 re-used and adapted from: Li, M., Marcoux, K., Nazareth, D., Nikuze, A., & Plomp, W. (2025, December). Research Data Management Guidebook for Students. Zenodo. <a href="https://doi.org/10.5281/zenodo.15576176https://doi.org/10.5281/zenodo.15576176" target="_blank"></em></p>
+<p style="font-size: x-small;"><em>Scenarios #1-3 re-used and adapted from: Li, M., Marcoux, K., Nazareth, D., Nikuze, A., & Plomp, W. (2025, December). Research Data Management Guidebook for Students. Zenodo. <a href="https://doi.org/10.5281/zenodo.15576176https://doi.org/10.5281/zenodo.15576176" target="_blank"></a></em></p>
   
 
 ## Benefits of RDM 
@@ -97,7 +97,7 @@ Plan ahead:
 ::::
 
 <center>
-<p style="font-size: x-small;"><em>Images adapted from "Project Cycle" by Scriberia, <a href="http://doi.org/10.5281/zenodo.3332807" target="_blank"> The Turing Way Community </a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0" target="_blank"> CC BY 4.0</a></em></p></a> 
+<p style="font-size: x-small;"><em>Images adapted from "Project Cycle" by Scriberia, <a href="http://doi.org/10.5281/zenodo.3332807" target="_blank"> The Turing Way Community </a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0" target="_blank"> CC BY 4.0</a></em></p>
 </center>
 
 To support you during the planning phase of your thesis project, this mini-module will guide you through the key questions and considerations at each stage of the research project cycle. 
