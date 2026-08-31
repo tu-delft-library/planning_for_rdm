@@ -22,8 +22,8 @@ In the mini-module, we focused on these enduring understandings and skills:
 
 We wish you the best with your master's thesis project! 
 
-:::{card} Please share feedback 
-We would like to hear your feedback so we can make these materials better. Click the blue button below to participate in this brief survey: 
+:::{card} Please share your feedback 
+We would so appreciate your input to help make these materials better. Click the blue button below to participate in this brief survey: 
 ```{button-link} https://tudelft.fra1.qualtrics.com/jfe/form/SV_0GswqLycjJPXCLQ
 :color: primary
 FEEDBACK SURVEY
