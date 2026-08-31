@@ -69,8 +69,8 @@ This mini-module is structured based the 5 stages of the research project cycle.
     <td style="border: 1px solid black;">
      <img src="graphics/stage_1_numbered.jpg" alt="Stage 1 of the Research Project Cycle" style="width: 300px; height: auto;"/></td>
     <td style="border: 1px solid black;">
-- Identify in advance the research objects and research data will you be working with. 
-- Determine whether the data require ethical or legal approvals.  
+Identify in advance the research objects and research data will you be working with. 
+Determine whether the data require ethical or legal approvals.  
      <br>
     </td>
   </tr>
@@ -79,8 +79,8 @@ This mini-module is structured based the 5 stages of the research project cycle.
     <td style="border: 1px solid black;">
     <img src="graphics/stage_2_numbered.jpg" alt="Stage 2 of the Research Project Cycle" style="width: 300px; height: auto;"/></td>
     <td style="border: 1px solid black;">
-  - Plan ahead where will the research data will be stored.
-  - Plan what format(s) will the data be saved in.    
+  Plan ahead where will the research data will be stored.
+  Plan what format(s) will the data be saved in.    
     <br>
     </td>
   </tr>
@@ -89,8 +89,8 @@ This mini-module is structured based the 5 stages of the research project cycle.
     <td style="border: 1px solid black;">
       <img src="graphics/stage_3_numbered.jpg" alt="Stage 3 of the Research Project Cycle" style="width: 300px; height: auto;"/></td>
     <td style="border: 1px solid black;">
-     - Plan how you will you document your research methods. 
-     - Plan how you will name and organise research artefacts throughout data collection.   
+     Plan how you will you document your research methods. 
+     Plan how you will name and organise research artefacts throughout data collection.   
     <br> 
     </td>
   </tr>
@@ -99,16 +99,16 @@ This mini-module is structured based the 5 stages of the research project cycle.
     <td style="border: 1px solid black;">
       <img src="graphics/stage_4_numbered.jpg" alt="Stage 4 of the Research Project Cycle" style="width: 400px; height: auto;"/></td>
     <td style="border: 1px solid black;">
-    - Plan how you will maintain a clear link between the research data, your analyses, and your results.  
+     Plan how you will maintain a clear link between the research data, your analyses, and your results.  
      <br>
     </td>
   </tr>
 
   <tr style="background-color: #f9f9f9;">
     <td style="border: 1px solid black;">
-     <img src="graphics/stage_5_numbered.jpg" alt="Stage 5 of the Research Project Cycle" style="width: 400px; height: auto;"/></td>
+     <img src="graphics/stage_5_numbered.jpg" alt="Stage 5 of the Research Project Cycle" style="width: 100%; max-width: 400px; height: auto;"/></td>
     <td style="border: 1px solid black;">
-     - Plan what will happen to the research data after the project is complete.   
+     Plan what will happen to the research data after the project is complete.   
     <br>
     </td>
   </tr>
