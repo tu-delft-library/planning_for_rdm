@@ -77,9 +77,9 @@ Here are several tools that can be used to connect data analysis directly to the
 
 - [Jupyter Notebook beginner guide](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html) 
 
-- [Jupyter Notebook Training](https://github.com/burkesquires/jupyter_training) 
-
-It is always good to be transparent of how you processed your data. One way to do this is using Jupyter Notebooks. A TU Delft project, [JBOSS](https://jboss.tudelft.nl), lets you integrate your analysis, documentation, and writing through Jupyter Book and Git, enabling seamless connections between code, results, and manuscript preparation. It allows you to write your thesis, including your analysis and present it as your final report - where it automatically generates a pdf of your thesis (via Latex). 
+- [Jupyter Notebook Training](https://github.com/burkesquires/jupyter_training)
+  
+- A TU Delft project, [JBOSS](https://jboss.tudelft.nl), lets you integrate your analysis, documentation, and writing through Jupyter Book and Git, enabling seamless connections between code, results, and manuscript preparation. It allows you to write your thesis, including your analysis and present it as your final report - where it automatically generates a pdf of your thesis (via Latex). 
 
 ```{video} https://www.youtube.com/embed/UDREanmF0qE?si=8nbp13aV3vXhg_x9
 ```
