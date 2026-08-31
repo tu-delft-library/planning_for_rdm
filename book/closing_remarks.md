@@ -20,5 +20,17 @@ In the mini-module, we focused on these enduring understandings and skills:
 - Explaining what will happen to research objects from the start to the finish of your project and afterwards. 
 
 
-We wish you the best with your master's thesis project! We would love to hear from you how this mini-module shaped your thesis planning process. 
+We wish you the best with your master's thesis project! 
+
+:::{card} Please share feedback 
+We would like to hear your feedback so we can make these materials better. Click the button to participate in this brief survey: 
+```{button-link} https://tudelft.fra1.qualtrics.com/jfe/form/SV_0GswqLycjJPXCLQ
+:color: primary
+FEEDBACK SURVEY
+```
+:::
+
+
+
+
 Please contact Data Literacy Project leader Paige Folsom with additional questions or to suggest edits and revisions: p.m.folsom@tudelft.nl
