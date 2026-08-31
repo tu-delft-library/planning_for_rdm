@@ -106,7 +106,7 @@ Determine whether the data require ethical or legal approvals.
 
   <tr style="background-color: #f9f9f9;">
     <td style="border: 1px solid black;">
-     <img src="graphics/stage_5_numbered.jpg" alt="Stage 5 of the Research Project Cycle" style="width: 100%; max-width: 400px; height: auto;"/></td>
+     <img src="graphics/stage_5_numbered.jpg" alt="Stage 5 of the Research Project Cycle" style="width: 400px; height: auto;"/></td>
     <td style="border: 1px solid black;">
      Plan what will happen to the research data after the project is complete.   
     <br>
