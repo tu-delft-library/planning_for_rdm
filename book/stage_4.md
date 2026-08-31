@@ -62,9 +62,7 @@ The electronic lab notebook is used to document the code inputs and outputs, inc
 :class: warning
 A summary of the final results (including key graphs and data) can be included with your final report to aid interpretation, facilitate review, and provide a concise record of the experiment's outcomes. This enables you and your supervisor to quickly understand the key findings without needing to revisit the full analysis workflow, while maintaining clear links to the underlying data and model outputs.
 ```
-  
-
-### Additional resources for documenting analysis 
+:::{dropdown} Additional resources for documenting analysis
 Here are several tools that can be used to connect data analysis directly to the final output figures (and thesis text). These tools support reproducible research by ensuring that figures and outputs are generated directly from the underlying data analysis, reducing errors and improving transparency.  
 
 **Markdown documents** let you combine descriptive text with executable R code (which is often used in statistics). Plain-text Markdown documents contain embedded R code chunks that generate tables, figures, and results directly within the document. This makes it easier to document your analysis procedure.
@@ -87,8 +85,8 @@ Here are several tools that can be used to connect data analysis directly to the
 - [TU Delft Starter Kit Quickstart](https://tud-jb-os.github.io/starterkit/quickstart/) 
   
 *Note: The TU Delft Starter Kit is in project form.
-
-
+:::
+  
 
 ## Reducing data leaks
 > _**Key question:** How will you reduce risks of data leaks?_
@@ -112,7 +110,7 @@ While working with research data, you should take the following extra safety pre
 (Li et al., 2025a)
 :::
 
-## Re-visit the Checklist 
+## Revisit the Checklist 
 
 ```{admonition} Open the checklist and add notes about your project under Stage 4:  
 :class: tip
