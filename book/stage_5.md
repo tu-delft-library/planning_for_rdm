@@ -1,5 +1,22 @@
 # Stage 5: Data Publishing & Access, Preservation & Re-use 
 
+```{grid} 1 1 1
+:gutter: 2
+
+```{grid-item}
+```{figure} graphics/stage_5a.jpg
+```
+```
+
+```{grid-item}
+```{figure} graphics/stage_5b.jpg
+```
+```
+
+```{grid-item}
+```{figure} graphics/stage_5c.jpg
+```
+```
 
 <center>
 <p style="font-size: x-small;"><em>Adapted from "Project Cycle" by Scriberia, <a href="http://doi.org/10.5281/zenodo.3332807" target="_blank"> The Turing Way Community </a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0" target="_blank"> CC BY 4.0</a></em></p> 
