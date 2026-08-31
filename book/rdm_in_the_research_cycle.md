@@ -83,13 +83,13 @@ Plan ahead:
 - how you will name and organise research artefacts throughout data collection. 
 :::
 :::{card} 
-:img-top:graphics/stage_4_numbered.jpg
+:img-top: graphics/stage_4_numbered.jpg
 :img-alt: Stage 4 of the Research Project Cycle
 Plan ahead:
 - how you will maintain a clear link between the research data, your analyses, and your results.  
 :::
 :::{card} 
-:img-top:graphics/stage_5_numbered.jpg
+:img-top: graphics/stage_5_numbered.jpg
 :img-alt: Stage 5 of the Research Project Cycle
 Plan ahead:
 - what will happen to the research data after the project is complete.
