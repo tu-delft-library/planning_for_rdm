@@ -1,4 +1,4 @@
-# Planning for Stage 2: Research Data & Design 
+# Stage 2: Research Data & Design 
 <center>
 <img src="graphics/stage_2.jpg" alt="Stage 2 of the Research Project Cycle" style="width: 400px; height: auto;"/>
 <p style="font-size: x-small;"><em>Adapted from "Project Cycle" by Scriberia, <a href="http://doi.org/10.5281/zenodo.3332807" target="_blank"> The Turing Way Community </a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0" target="_blank"> CC BY 4.0</a></em></p> 
@@ -132,7 +132,7 @@ This graphic shows general examples of data formats researchers often use (you c
 - Indicate whether these file formats are interoperable by checking the boxes. 
 - Scan back through Section II of the mini-module. Add notes with key takeaways about storage options and/or formatting. Focus on capturing the details that apply to your project.  
 ```  
-## Stage 2: Check your understanding 
+## Check your understanding 
 Check your understanding of key ideas in Stage 2: Planning for Research Data & Design by answering these quiz questions: 
   
 ```{h5p} https://tudelft.h5p.com/content/1292947761719805577
