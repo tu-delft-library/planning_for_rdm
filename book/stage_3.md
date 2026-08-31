@@ -1,11 +1,11 @@
 # Stage 3: Data Collection 
-:::{figure} graphics/stage_3.jpg
-:alt: Stage 2 of the Research Project Cycle
-:width: 400px
 
-Adapted from "Project Cycle" by Scriberia, The Turing Way Community, licensed under CC-BY-4.0.
-:::
-The guiding questions for this stage turn to the collection process itself: describing your methods clearly, documenting your work as you go, and keeping files, folders, and code organised and traceable. 
+<center>
+<img src="graphics/stage_3.jpg" alt="Stage 3 of the Research Project Cycle" style="width: 400px; height: auto;"/>
+<p style="font-size: x-small;"><em>Adapted from "Project Cycle" by Scriberia, <a href="http://doi.org/10.5281/zenodo.3332807" target="_blank"> The Turing Way Community </a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0" target="_blank"> CC BY 4.0</a></em></p> 
+</center>
+
+**Planning for Data Collection:** The guiding questions for this stage turn to the collection process itself: describing your methods clearly, documenting your work as you go, and keeping files, folders, and code organised and traceable. 
 
 ## Data collection
 > _**Key question:** How will the data be collected?*_
@@ -60,8 +60,7 @@ The researcher will also create a README file saved in .txt format, stored in th
 - Contact details of the data owner or responsible researcher   
 ```
   
-
-### Additional resources about documentation 
+:::{dropdown} Additional resources about documentation
 To learn more about different types of documentation, visit these resources and supporting tools:  
 
 - For more information about how to set up and use a digital lab notebook, visit the TU Delft Library's page on [electronic lab notebooks for research data management.](https://www.tudelft.nl/en/library/data-management/research-data-management/electronic-lab-notebook-for-research-data-management) 
@@ -69,6 +68,9 @@ To learn more about different types of documentation, visit these resources and 
 - To learn more about how to document the process of developing and prototyping software, visit the Digital Competency Center's [guide for software documentation.](https://tu-delft-dcc.github.io/docs/software/documentation/)   
 
 - For a detailed overview of documentation strategies and best practices, see the University of Helsinki's publication [Making a research project understandable - Guide for data documentation.](https://zenodo.org/records/1914401)
+:::
+
+
 
 ## Naming conventions
 > _**Key question:** What are your planned file naming conventions and folder structure?_
@@ -78,14 +80,14 @@ At the **beginning of a project**, it’s helpful to determine an **FNC (File Na
 Ideally, files are named and organised in a way that helps to document the process or sequence that you followed to gather the data. For example, file names can provide hints about why/how each piece of data is relevant by indicating the order in which the data were collected and/or the collection method. Effective file naming and documentation of file naming schema makes it easier to retrace your steps in a project when it’s time to analyse your results. 
 
 Clear folder organisation and naming makes it easier to find everything quickly when it's time to write your report. A clearly defined folder structure also helps to distinguish between the research data and research objects generated during the different stages of your project. 
- 
-### Additional resources about file & folder naming 
+
+:::{dropdown} Additional resources about file & folder naming
 To dive into the topic of file and folder naming in more detail, see these additional resources:  
 
 - For more detailed recommendations and examples of file naming conventions and folder structures, see the mini-module [File Naming and Folder Organisation.](https://teachbooks.io/files-and-folders/EN/part1/part1.html) 
 
 - This guide from Stanford University describes best practices for file naming and includes case studies: [Data Best Practices.](https://guides.library.stanford.edu/data-best-practices/)   
-
+:::
 
 ## Version control
 > _**Guiding question:** How will you do version control for code and software?_
@@ -94,16 +96,15 @@ Version control of code and software refers to tracking changes and being able t
 
 Use Git as a version control system that allows you to collaborate and share your code (e.g. GitHub, GitLab, Codeberg).  
 
-### Additional resources about version control using Git 
-
+:::{dropdown} Additional resources about version control using Git
 - [Getting Git Right](https://www.atlassian.com/git)  
 
 - [Getting Started with Git](https://tu-delft-dcc.github.io/docs/software/getting_started.html)  
 
 - [Digital Competency Centre Guide to Git](https://tu-delft-dcc.github.io/docs/software/development_workflow/)  
-
-
-## Re-visit the Checklist 
+:::
+ 
+## Revisit the Checklist 
 
 ```{admonition} Open the checklist and add notes about your project under Stage 3:  
 :class: tip
