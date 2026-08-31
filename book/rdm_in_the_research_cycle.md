@@ -35,7 +35,7 @@ Michel has taken time to recruit participants, booked precious time in the simul
 :::
 
 ::::
-<p style="font-size: x-small;"><em>Scenarios #1-3 re-used and adapted from: Li, M., Marcoux, K., Nazareth, D., Nikuze, A., & Plomp, W. (2025, December). Research Data Management Guidebook for Students. Zenodo. [https://doi.org/10.5281/zenodo.15576176](https://doi.org/10.5281/zenodo.15576176)</em></p>
+<p style="font-size: x-small;"><em>Scenarios #1-3 re-used and adapted from: Li, M., Marcoux, K., Nazareth, D., Nikuze, A., & Plomp, W. (2025, December). Research Data Management Guidebook for Students. Zenodo. <a href="https://doi.org/10.5281/zenodo.15576176https://doi.org/10.5281/zenodo.15576176" target="_blank"></em></p>
   
 
 ## Benefits of RDM 
@@ -59,7 +59,6 @@ We hope that by following this mini-module you will begin to internalize habits 
 
 This mini-module is structured based the 5 stages of the research project cycle. Each stage has a series of guiding questions or considerations for research data management. In the planning phase of a project researchers use these guiding questions to anticipate and plan what they will do with the research data before, during, and after their project. The 5 stages of the research project cycle and an overview of key elements to plan for RDM are shown in the table below: 
 
-[NEED TO ASK FOR HELP RESIZING THE IMAGES IN THIS TABLE]
 <table style="border-collapse: collapse; width: 100%;">
   <tr style="background-color: #f2f2f2;">
     <th style="border: 1px solid black;">Stage of Research Project Cycle</th>
@@ -70,8 +69,8 @@ This mini-module is structured based the 5 stages of the research project cycle.
     <td style="border: 1px solid black;">
      <img src="graphics/stage_1_numbered.jpg" alt="Stage 1 of the Research Project Cycle" style="width: 300px; height: auto;"/></td>
     <td style="border: 1px solid black;">
-Identify in advance the research objects and research data will you be working with. 
-Determine whether the data require ethical or legal approvals.  
+- Identify in advance the research objects and research data will you be working with. 
+- Determine whether the data require ethical or legal approvals.  
      <br>
     </td>
   </tr>
@@ -80,8 +79,8 @@ Determine whether the data require ethical or legal approvals.
     <td style="border: 1px solid black;">
     <img src="graphics/stage_2_numbered.jpg" alt="Stage 2 of the Research Project Cycle" style="width: 300px; height: auto;"/></td>
     <td style="border: 1px solid black;">
-   Plan ahead where will the research data will be stored.  
-  Plan what format(s) will the data be saved in.    
+  - Plan ahead where will the research data will be stored.
+  - Plan what format(s) will the data be saved in.    
     <br>
     </td>
   </tr>
@@ -90,8 +89,8 @@ Determine whether the data require ethical or legal approvals.
     <td style="border: 1px solid black;">
       <img src="graphics/stage_3_numbered.jpg" alt="Stage 3 of the Research Project Cycle" style="width: 300px; height: auto;"/></td>
     <td style="border: 1px solid black;">
-     Plan how you will you document your research methods. 
-     Plan how you will name and organise research artefacts throughout data collection.   
+     - Plan how you will you document your research methods. 
+     - Plan how you will name and organise research artefacts throughout data collection.   
     <br> 
     </td>
   </tr>
@@ -100,7 +99,7 @@ Determine whether the data require ethical or legal approvals.
     <td style="border: 1px solid black;">
       <img src="graphics/stage_4_numbered.jpg" alt="Stage 4 of the Research Project Cycle" style="width: 400px; height: auto;"/></td>
     <td style="border: 1px solid black;">
-    Plan how you will maintain a clear link between the research data, your analyses, and your results.  
+    - Plan how you will maintain a clear link between the research data, your analyses, and your results.  
      <br>
     </td>
   </tr>
@@ -109,7 +108,7 @@ Determine whether the data require ethical or legal approvals.
     <td style="border: 1px solid black;">
      <img src="graphics/stage_5_numbered.jpg" alt="Stage 5 of the Research Project Cycle" style="width: 400px; height: auto;"/></td>
     <td style="border: 1px solid black;">
-     Plan what will happen to the research data after the project is complete.   
+     - Plan what will happen to the research data after the project is complete.   
     <br>
     </td>
   </tr>
@@ -118,9 +117,11 @@ Determine whether the data require ethical or legal approvals.
 
 To support you during the planning phase of your thesis project, this mini-module will guide you through the key questions and considerations at each stage of the research project cycle. 
 
-The guiding questions in the mini-module align closely to all of the core elements that you would find in a data management plan template. A **data management plan**, or **DMP**, is a formal written plan that explains what will happen with the research data for a project from start to finish (and afterwards). There are a variety of DMP templates. For example, there are specific DMP templates provided by funders and institution-specific formats such as [TU Delft's DMP template](graphics/TU_Delft_Data_Management_Plan_template_2025_v5.pdf). Some academic programs require students to develop a written DMP in preparation for their master's thesis projects. Many funders require researchers to write and update DMPs to qualify for grants. The DMP is a required element at TU Delft if you're applying for ethics approval to collect human research data (we'll discuss ethics approval further in the next section of this mini-module, titled <a href="https://tu-delft-library.github.io/planning_for_rdm/main/stage_1.html#personal-data" target="_blank"> "Planning for Stage 1: Research Ideas</a>). Although DMP templates may be worded or formatted differently, they all address the core elements and guiding questions of the research project cycle. 
+## Data Management Plan 
+The guiding questions in the mini-module align closely to all of the core elements that you would find in a data management plan template. A **data management plan**, or **DMP**, is a formal written plan that explains what will happen with the research data for a project from start to finish (and afterwards). There are a variety of DMP templates. For example, there are specific DMP templates provided by funders and institution-specific formats such as [TU Delft's DMP template](graphics/TU_Delft_Data_Management_Plan_template_2025_v5.pdf). Some academic programs require students to develop a written DMP in preparation for their master's thesis projects. Many funders require researchers to write and update DMPs to qualify for grants. The DMP is a required element at TU Delft if you're applying for ethics approval to collect human research data (we'll discuss ethics approval further in the next section of this mini-module, titled <a href="https://tu-delft-library.github.io/planning_for_rdm/main/stage_1.html#personal-data" target="_blank"> "Planning for Stage 1: Research Ideas</a>). Although DMP templates may be worded or formatted differently, they all align to the core elements and guiding questions of the research project cycle. 
 
 - If you're **REQUIRED to write a DMP** as part of your master's thesis project: our goal is to activate your thinking and planning process, which will make it easier to fill out any DMP template.
+  
 - If you're **NOT REQUIRED to write a formal DMP**: our goal is to help you to consider in advance what you will do with the research data so that you're better organised and prepared for each stage of your project.  
 <br>
 
@@ -130,7 +131,7 @@ This checklist is meant to accompany the mini-module so that you can use the gui
 :::{card} 
 [**Download the Checklist**](graphics/Checklist_v3.docx).
 :::
-If you will be filling out a formal DMP, this checklist provides a space to brainstorm and a reminder of questions helpful to ask your supervisor in advance of starting your project. If you do NOT have to fill out a formal DMP, this checklist will provide a guide to help you pre-plan research data management for your thesis project. In either case, we will cue you to jot notes in the checklist as you proceed through the mini-module. We strongly suggest that you bring your checklist to planning discussions with your thesis supervisor. 
+If you will be filling out a formal DMP, this checklist provides a space to brainstorm before filling out the formal template. It also prompts questions helpful to ask your supervisor in advance of starting your project. If you do NOT have to fill out a formal DMP, this checklist will provide a guide to help you pre-plan research data management for your thesis project. In either case, at the end of each section of the mini-module we will ask you to revisit this checklist to write key details. We strongly suggest that you bring your checklist to planning discussions with your thesis supervisor. 
 
 
 ## The Research Project Cycle: Check your understanding
