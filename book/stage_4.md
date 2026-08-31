@@ -25,7 +25,7 @@ It's recommended to save the **raw data** for your project **in one folder** and
 - **Punctuation also matters!** For example, some programming platforms cannot accurately read commas as a decimal separator. You can imagine what a headache it would create if you were trying to work with a very large dataset and had to replace every instance of a comma with a period. Therefore, it's good to be aware of it.
   
 
-## Linking data and results
+## Transparency: Linking data and results
 > _**Key question:** How will you maintain a clear link between the data, your analysis method, and your results?_
 
 To ensure a reproducible and transparent research workflow, you will need to be able to show which data (collected under which conditions) you analysed, and in which ways. And you'll need to be able to point back to which analyses led to each result/finding that you include in your final report. This means that in addition to documenting the specific conditions under which the data was collected, you need to **provide documentation for your process of analysis**. Your supervisor should be able to follow what you plotted in your report back to the documentation for processing, then back to the raw datasets that were used. For example, if you included a figure in your report, you should provide access to the original file(s) used to make that figure (e.g. in a folder of supporting research objects).    
@@ -78,12 +78,6 @@ Here are several tools that can be used to connect data analysis directly to the
 - [Jupyter Notebook beginner guide](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html) 
 
 - [Jupyter Notebook Training](https://github.com/burkesquires/jupyter_training) 
-  
-
-
-
-## Transparency
-> _**Key question:** How can I be transparent about my analysis?_ 
 
 It is always good to be transparent of how you processed your data. One way to do this is using Jupyter Notebooks. A TU Delft project, [JBOSS](https://jboss.tudelft.nl), lets you integrate your analysis, documentation, and writing through Jupyter Book and Git, enabling seamless connections between code, results, and manuscript preparation. It allows you to write your thesis, including your analysis and present it as your final report - where it automatically generates a pdf of your thesis (via Latex). 
 
