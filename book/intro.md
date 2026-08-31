@@ -1,5 +1,5 @@
 (intro)=
-# Welcome to the mini-modules: "Planning for RDM!"
+# Welcome to the mini-module: "Planning for RDM!"
 
 This mini-module is designed for master’s students at TU Delft who are preparing for their master thesis projects. 
 
