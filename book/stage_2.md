@@ -123,7 +123,7 @@ This graphic shows general examples of data formats researchers often use (you c
 </center>
 
 
-## Re-visit the Checklist 
+## Revisit the Checklist 
 
 ```{admonition} Open the checklist and add notes about your project under Stage 2:  
 :class: tip
