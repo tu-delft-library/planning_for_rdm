@@ -70,7 +70,7 @@ To learn more about different types of documentation, visit these resources and 
 
 - For a detailed overview of documentation strategies and best practices, see the University of Helsinki's publication [Making a research project understandable - Guide for data documentation.](https://zenodo.org/records/1914401)
 
-## Name conventions
+## Naming conventions
 > _**Key question:** What are your planned file naming conventions and folder structure?_
 
 At the **beginning of a project**, it’s helpful to determine an **FNC (File Naming Convention)**, or “file naming schema,” for each set of research data that you will gather, create, or store to work with. 
