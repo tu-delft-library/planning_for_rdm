@@ -99,12 +99,10 @@ Examples of Re-used data include:
 
 Some data are marked with a Creative Commons (CC) designation. This indicates that the data can be re-used as long as you follow the rules for the specific CC license. For example, “CC-BY” indicates that a source can be re-used as long as you attribute the original creators. This graphic gives a full overview of possible CC licenses:  
 
-```{figure} graphics/Creative_Commons_Licenses.jpg
-:alt: Creative Commons Licenses
-:width: 500px
-
-Creative Commons: The Ultimate Guide” by [foter.com](https://foter.com/blog/how-to-attribute-creative-commons-photos/) is licensed under CC-BY-SA
-```
+<center>
+<img src="graphics/Creative_Commons_Licenses.jpg" alt="Creative Commons Licenses" style="width: 500px; height: auto;"/>
+<p style="font-size: x-small;"><em>"Creative Commons: The Ultimate Guide" by <a href="https://foter.com/blog/how-to-attribute-creative-commons-photos/" target="_blank"> foter.com </a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en" target="_blank"> CC-BY-SA </a></em></p> 
+</center>
 
 Please note: 
 - **CC licensing does not apply to software.** To learn in more detail about interpreting software licenses, visit: Schlauch, Tobias - [“All you need to know about Software Licenses as a RSE”](https://zenodo.org/records/8246557). Another helpful resource is the [DCC guide on software licenses](https://tu-delft-dcc.github.io/docs/software/documentation/license.html). 
