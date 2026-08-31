@@ -67,7 +67,11 @@ This mini-module is structured based the 5 stages of the research project cycle.
 - Identify in advance the research objects and research data will you be working with. 
 - Determine whether the data require ethical or legal approvals.
 :::
-:::{card} card 2
+:::{card}
+:img-top: graphics/stage_2_numbered.jpg
+:img-alt: Stage 2 of the Research Project Cycle
+- Plan ahead where will the research data will be stored.
+- Plan what format(s) will the data be saved in. 
 :::
 :::{card} card 3
 :::
