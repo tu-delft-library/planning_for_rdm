@@ -54,10 +54,9 @@ We hope that by following this mini-module you will begin to internalize habits 
 - **saving you time and reducing stress** during your thesis project, especially at the end when good RDM will make it easier to write your report: by getting organised at the beginning of your project, you will save time at the end. 
   
 
-## The Research Project Cycle
+## RDM in the Research Project Cycle
 
-
-This mini-module is structured based the 5 stages of the research project cycle. Each stage has a series of guiding questions or considerations for research data management. In the planning phase of a project researchers use these guiding questions to anticipate and plan what they will do with the research data before, during, and after their project. The 5 stages of the research project cycle and an overview of key elements to plan for RDM are shown in the carousel below (you can click on the images to enlarge them): 
+This mini-module is structured based the 5 stages of the research project cycle. Each stage has a series of guiding questions or considerations for research data management. In the planning phase of a project researchers use these guiding questions to anticipate and plan what they will do with the research data before, during, and after their project. The 5 stages of the research project cycle and an overview of key elements to plan for RDM are shown in the carousel below (you can click on the images to enlarge them). The mini-module will examine RDM for each stage using guiding questions: 
 
 ::::{card-carousel} 2
 
@@ -103,20 +102,22 @@ Plan ahead:
 To support you during the planning phase of your thesis project, this mini-module will guide you through the key questions and considerations at each stage of the research project cycle. 
 
 ## Data Management Plan 
-The guiding questions in the mini-module align closely to all of the core elements that you would find in a data management plan template. A **data management plan**, or **DMP**, is a formal written plan that explains what will happen with the research data for a project from start to finish (and afterwards). There are a variety of DMP templates. For example, there are specific DMP templates provided by funders and institution-specific formats such as [TU Delft's DMP template](graphics/TU_Delft_Data_Management_Plan_template_2025_v5.pdf). Some academic programs require students to develop a written DMP in preparation for their master's thesis projects. Many funders require researchers to write and update DMPs to qualify for grants. The DMP is a required element at TU Delft if you're applying for ethics approval to collect human research data (we'll discuss ethics approval further in the next section of this mini-module, titled <a href="https://tu-delft-library.github.io/planning_for_rdm/main/stage_1.html#personal-data" target="_blank"> "Planning for Stage 1: Research Ideas</a>). Although DMP templates may be worded or formatted differently, they all align to the core elements and guiding questions of the research project cycle. 
+The guiding questions in the mini-module align closely to all of the core elements that you would find in a data management plan template. A **data management plan**, or **DMP**, is a formal written plan that explains what will happen with the research data for a project from start to finish (and afterwards). Researchers write a DMP in the planning phase of a project and can make updates to it as a project evolves. 
 
-- If you're **REQUIRED to write a DMP** as part of your master's thesis project: our goal is to activate your thinking and planning process, which will make it easier to fill out any DMP template.
+There are a variety of DMP templates. For example, there are specific DMP templates provided by funders and institution-specific formats such as [TU Delft's DMP template](graphics/TU_Delft_Data_Management_Plan_template_2025_v5.pdf). Some academic programs require students to develop a written DMP in preparation for their master's thesis projects. Many funders require researchers to write and update DMPs to qualify for grants. The DMP is a required element at TU Delft if you're applying for ethics approval to collect human research data (we'll discuss ethics approval further in the next section of this mini-module, titled <a href="https://tu-delft-library.github.io/planning_for_rdm/main/stage_1.html#personal-data" target="_blank"> "Planning for Stage 1: Research Ideas</a>). Although DMP templates may be worded or formatted differently, they all align to the core elements and guiding questions of the research project cycle. 
+
+- If you're **REQUIRED to write a DMP** as part of your master's thesis project: our goal is to activate your thinking and planning process, which will make it easier to fill out *any* DMP template.
   
-- If you're **NOT REQUIRED to write a formal DMP**: our goal is to help you to consider in advance what you will do with the research data so that you're better organised and prepared for each stage of your project.  
+- If you're **NOT REQUIRED to write a formal DMP**: our goal is to help you to consider in advance what you will do with the research data. This will help you to be better organised and prepared for each stage of your project.  
 
 
 ## Download this Planning for RDM Checklist! 
 
-This checklist is meant to accompany the mini-module so that you can use the guiding questions to plan RDM for your own project. Before you continue on to the next section, download and save (or print out) this RDM checklist. Keep the checklist with you as you proceed through the mini-module. The checklist summarizes the key ideas and guiding questions: 
+This checklist is meant to accompany the mini-module so that you can use the guiding questions to plan RDM for your own project. Before you continue on to the next section of the mini-module, download and save (or print out) this RDM checklist. Keep the checklist with you as you proceed through each section: 
 :::{card} 
 [**Download the Checklist**](graphics/Checklist_v3.docx).
 :::
-If you will be filling out a formal DMP, this checklist provides a space to brainstorm before filling out the formal template. It also prompts questions helpful to ask your supervisor in advance of starting your project. If you do NOT have to fill out a formal DMP, this checklist will provide a guide to help you pre-plan research data management for your thesis project. In either case, at the end of each section of the mini-module we will ask you to revisit this checklist to write key details. We strongly suggest that you bring your checklist to planning discussions with your thesis supervisor. 
+If you will be writing a formal DMP, this checklist provides a space to brainstorm before filling out the formal template. It will also prompt questions helpful to ask your supervisor in advance of starting your project. If you do NOT have to fill out a formal DMP, this checklist will provide a guide to help you plan research data management for your thesis project before you start collecting data. At the end of each section of the mini-module we will ask you to revisit this checklist to apply the ideas to your own project and take notes on key details. We then strongly suggest that you bring your checklist to planning discussions with your thesis supervisor. 
 
 
 ## Check your understanding
