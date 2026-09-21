@@ -37,7 +37,9 @@ Examples:
 
 ```{admonition} Important Note: 
 :class: warning
-Discuss with your supervisor if/what AI use is allowed for your respective program. We also suggest you visit this <a href="https://tu-delft-library.github.io/il-master-thesis-guide/main/5b-specifying-ai-use.html" target="_blank">IL Master Thesis Guide</a> which discusses more about how to specify AI use. 
+Discuss with your supervisor if/what AI use is allowed for your respective program. We also suggest you visit this <a href="https://tu-delft-library.github.io/il-master-thesis-guide/main/5b-specifying-ai-use.html" target="_blank">IL Master Thesis Guide</a> which discusses more about how to specify AI use.
+
+In addition, we suggest you visit these <a href="https://research-and-innovation.ec.europa.eu/document/2b6cf7e5-36ac-41cb-aab5-0d32050143dc_en" target="_blank">living guidelines on the responsible use of Generative AI in research </a> published by the European Commission to learn more.   
 ```
 
 
