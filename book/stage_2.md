@@ -67,17 +67,34 @@ This is an overview of recommended storage platforms for master’s students at 
 - [Learn more about Microsoft Teams at TU Delft.](https://storagefinder.tudelft.nl/package/9/)
 :::
 
-:::{tab-item} Git
-- Git is recommended for storing and working on code.
+:::{tab-item} TU Delft Gitlab
+- This is recommended for storing and working on code.
   
-- Examples of Git repositories are GitLab, GitHub, Codeberg, TU Delft Gitlab. Check with your supervisor if they have an existing Git repository they prefer you to use. 
+- TU Delft Gitlab is an ICT service hosted on the TUDelft campus, intended for researchers.
+- TU Delft Gitlab is an online Git repository management tool with a wiki, issue tracker, Continuous Integration and Continuous Deployment built-in based on the GItlab DevOps.
+- [Check out the TU Delft Gitlab platform](https://gitlab.tudelft.nl/)
+  
+- Other examples of Git repositories are GitHub, Codeberg, Gitlab. Check with your supervisor if they have an existing Git repository they prefer you to use. 
 :::
 
 :::{tab-item} Project Data Drive (U:) 
-- MSc thesis supervisors must request access to the SURF Drive on behalf of their students.
+- MSc thesis supervisors must request access to the Project Data Drive on behalf of their students.
 
 - [Learn more about the Project Data Drive at TU Delft.](https://storagefinder.tudelft.nl/package/2/)
 ::: 
+
+:::{tab-item} SURF Drive 
+- SURF is a cloud storage service for Dutch education and research community, offering staff, researchers and students an easy way to store, synchronise and share files in the secure and reliable SURF community cloud. 
+- SURFdrive is based on Nextcloud, which is an open-source on-premise software.
+- Please note: Supervisors must request SURF Drive folders on behalf of MSc students. 
+ 
+:::
+
+:::{tab-item} Project Data Drive (U:) 
+- MSc thesis supervisors must request access to the Project Data Drive on behalf of their students.
+
+- [Learn more about the Project Data Drive at TU Delft.](https://storagefinder.tudelft.nl/package/2/)
+:::
 
 :::{tab-item} Other 
 * There are also storage solutions that are specific to lab groups or consortiums (e.g. the M: or N: drive or a faculty-specific server). You can ask your supervisor more about this. 
