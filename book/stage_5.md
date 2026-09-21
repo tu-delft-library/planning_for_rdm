@@ -108,7 +108,7 @@ This question is particularly applicable for students who are generating code as
 
 ## Revisit the Checklist 
 
-```{admonition} Open the checklist and add notes about your project under Stage 3:  
+```{admonition} Open the checklist and add notes about your project under Stage 5:  
 :class: tip
 - Add questions you may have for your supervisor about what data to keep/what to delete.  
 - Add questions you may have for your supervisor about which supporting documentation you should submit with your final report. 
