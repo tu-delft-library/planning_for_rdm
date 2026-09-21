@@ -20,7 +20,7 @@ It's recommended to save the **raw data** for your project **in one folder** and
 > _**Key question:** What units will the data be collected in?_
 - In most research fields, **numbers mean nothing without units**. Therefore, it's important to include International System of Units (SI units) of the modern metric system while you are collecting research data.
   
-- Be aware of **date formats** as these can differ internationally and lead to confusion. For example, what date is 01-02-20?
+- Be aware of **date formats** as these can differ internationally and lead to confusion. For example, what date is 01-02-20? 
 
 - **Punctuation also matters!** For example, some programming platforms cannot accurately read commas as a decimal separator. You can imagine what a headache it would create if you were trying to work with a very large dataset and had to replace every instance of a comma with a period. Therefore, it's good to be aware of it.
   
