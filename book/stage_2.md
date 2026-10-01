@@ -90,11 +90,6 @@ This is an overview of recommended storage platforms for master’s students at 
  
 :::
 
-:::{tab-item} Project Data Drive (U:) 
-- MSc thesis supervisors must request access to the Project Data Drive on behalf of their students.
-
-- [Learn more about the Project Data Drive at TU Delft.](https://storagefinder.tudelft.nl/package/2/)
-:::
 
 :::{tab-item} Other 
 * There are also storage solutions that are specific to lab groups or consortiums (e.g. the M: or N: drive or a faculty-specific server). You can ask your supervisor more about this. 
