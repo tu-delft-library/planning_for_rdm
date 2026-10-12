@@ -8,19 +8,17 @@ This mini-module is designed for master's students who are in the planning/prepa
 
 We want you to internalize a series of guiding questions that researchers ask themselves in the design phase of research projects. Specifically, the mini-module will target these learning goals:  
 
-- Understand what **research data management** is and why it is **important and beneficial**. 
+- Explain what **research data management** is and why it is **important and beneficial**. 
 
-- Give detailed description of the **type(s) of research data** that will be used for your project. 
+- Recognise different type(s) of **research objects**. 
 
-- Identify whether your project will involve data that flag **special ethical and/or legal considerations**.  
+- Explain why different types of data flag **special ethical and/or legal considerations**.  
 
-- Create a plan for careful **data documentation** (workflow etc.) and **metadata** (machine-readable). 
+- Recognise the importance of careful **data documentation** (workflow etc.) and **metadata** (machine-readable). 
 
-- Create a plan to **store and share** research data **as openly as possible**. 
+- Recognise the importance of **storing and sharing** research data **as openly as possible**. 
 
-- Plan for research data management according to **FAIR principles**, to make the research data for your project as findable, accessible, interoperable and re-usable as possible. 
-
-- Explain **what will happen to research objects** from the start to the finish of your project and afterwards. 
+- Explain how to do research data management according to **FAIR principles**, to make research objects as findable, accessible, interoperable and re-usable as possible. 
 
 
 ## Mini-module Format 
