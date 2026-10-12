@@ -7,20 +7,17 @@ In the mini-module, we focused on these enduring understandings and skills:
 
 - Understanding why research data management is important and beneficial 
 
-- Giving detailed description of the type(s) of research data that will be used for your project. 
+- Recognising different type(s) of **research objects**. 
 
-- Identifying whether your project will involve data that flag special ethical and/or legal considerations.  
+- Explaining why different types of data flag **special ethical and/or legal considerations**.  
 
-- Creating a plan for detailed data documentation and metadata. 
+- Recognising the importance of careful **data documentation** (workflow etc.) and **metadata** (machine-readable). 
 
-- Creating a plan to store and share research data as openly as possible. 
+- Recognising the importance of **storing and sharing** research data **as openly as possible**. 
 
-- Planning for research data management according to FAIR principles (to make the data for your project as findable, accessible, interoperable, and re-usable as possible). 
+- Explaining how to do research data management according to **FAIR principles**, to make research objects as findable, accessible, interoperable and re-usable as possible. 
 
-- Explaining what will happen to research objects from the start to the finish of your project and afterwards. 
-
-
-We wish you the best with your master's thesis project! 
+We wish you the best applying these skills and concepts to the planning of your master's thesis project! 
 
 :::{card} Please share your feedback 
 We would so appreciate your input to help make these materials better. Click the blue button below to participate in this brief survey: 
