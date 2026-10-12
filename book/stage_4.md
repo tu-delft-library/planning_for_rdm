@@ -114,10 +114,10 @@ While working with research data, you should take the following extra safety pre
 
 ```{admonition} Open the checklist and add notes about your project under Stage 4:  
 :class: tip
-- Add details about your planned research methods: describe in detail how you will collect the data. 
-- Add details about which documentation strategies you plan to use. 
-- Add details about your planned file naming schema and folder structures. 
-- If applicable, describe how you will do version control.  
+- Write how you will distinguish between the raw vs. processed data.  
+- Indicate which units the data will be collected in.  
+- Describe how you plan to document your processing steps.  
+- Describe how you will minimise the risk of data leaks.   
 - Scan back through Section IV of the mini-module. Add notes with key takeaways about protecting the raw data, consistency of units, and documenting the link between the research data, your analysis, and your results. Focus on capturing the details that apply to your project.  
 ``` 
 ## Check your Understanding 
